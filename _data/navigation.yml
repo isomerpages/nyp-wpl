@@ -1,0 +1,37 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Category 1
+  url: /category-1/subpage-A/
+  sub-links:
+  - title: Subpage A
+    url: /category-1/subpage-A/
+  - title: Subpage B
+    url: /category-1/subpage-B/
+- title: Category 2
+  url: /category-2/anotherpage-A/
+  sub-links:
+  - title: Anotherpage A
+    url: /category-2/anotherpage-A/
+  - title: Anotherpage B
+    url: /category-2/anotherpage-B/
+- title: Microsoft
+  url: /microsoft/
+- title: Page 1
+  url: /page-1/
+- title: Page 2
+  url: /page-2/
+- title: Events
+  url: /events/
+  sub-links:
+  - title: All
+    url: /events/
+  - title: Type A
+    url: /events/type-a/
+  - title: Type B
+    url: /events/type-b/
+- title: Contact Us
+  url: /contact-us/
