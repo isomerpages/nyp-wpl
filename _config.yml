@@ -45,4 +45,6 @@ collections:
     output: true
   category-2:
     output: true
+  about-us:
+    output: true
 resources_name: events
