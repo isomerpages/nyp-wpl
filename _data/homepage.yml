@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: NYP NACE
-hero-subtitle: Your Subtitle Here
+hero-title: NACE
+hero-subtitle: A Collaboration between NYP and SSG
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -21,15 +21,15 @@ button:
     url: /page-1/
     
 key-highlights:
-  - title: Highlight AB
+  - title: Training Courses
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
+  - title: Consultancy Services
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page 1
+  - title: Events
     description: Page 1 is important too
     url: /page-1/
 
