@@ -4,36 +4,21 @@
 #                                #
 ##################################
 
-- title: Category 12
-  url: /about-us/subpage-A/
-- title: Category 1
+- title: Institute of Adult Learning
   url: /category-1/subpage-A/
   sub-links:
-  - title: Subpage A
+  - title: About IAL
     url: /category-1/subpage-A/
-  - title: Subpage B
+  - title: IAL Services
     url: /category-1/subpage-B/
-- title: Category 2
+    
+- title: National Centre of Excellence for Workplace Learning
   url: /category-2/anotherpage-A/
   sub-links:
-  - title: Anotherpage A
+  - title: About NACE
     url: /category-2/anotherpage-A/
-  - title: Anotherpage B
+  - title: NACE Services
     url: /category-2/anotherpage-B/
-- title: Microsoft
-  url: /microsoft/
-- title: Page 1
-  url: /page-1/
-- title: Page 2
-  url: /page-2/
-- title: Events
-  url: /events/
-  sub-links:
-  - title: All
-    url: /events/
-  - title: Type A
-    url: /events/type-a/
-  - title: Type B
-    url: /events/type-b/
+    
 - title: Contact Us
   url: /contact-us/
