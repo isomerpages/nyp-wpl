@@ -30,11 +30,6 @@ i-want-to:
     url: /users/teacher/
   - title: Mentorship
     url: /users/teacher/
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /page-1/
     
 key-highlights:
   - title: Training Courses
