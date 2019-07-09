@@ -20,6 +20,11 @@ button:
   - text: Find Out More
     url: /who-we-are/our-role/
     
+resources-title: Areas to implement
+resources-subtitle: Workplace Learning
+resources-more-button: More Resources
+resources-more-button-url: Events/
+    
 key-highlights:
   - title: Training Courses
     description: --Developing People--
