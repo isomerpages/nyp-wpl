@@ -40,11 +40,11 @@ resources-more-button-url: Events/
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title:
-programmes-subtitle: Public Consultation on Zero Waste Masterplan
-programmes-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
-programmes-more-button: More
-programmes-more-button-url: /consultation/
+scenarios-title:
+scenarios-subtitle: Public Consultation on Zero Waste Masterplan
+scenarios-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
+scenarios-more-button: More
+scenarios-more-button-url: /consultation/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
