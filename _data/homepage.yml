@@ -13,7 +13,7 @@ agency-logo: /images/isomer-logo.svg
 # Hero Banner
 hero-title: Workplace Learning@SG Get Future-Ready
 hero-subtitle: Our Common Mandate - A Collaboration between IAL and NACE
-hero-banner: /images/NACE-LOGO-RGB.jpg
+hero-banner: /images/flag.jpg
 
 # Call to Action Button
 button:
@@ -24,7 +24,6 @@ key-highlights:
   - title: Training Courses
     description: --Developing People--
     url: https://google.com
-    external: true
   - title: Consultancy Services
     description: --Upgrading Companies--
     url: https://yahoo.com
