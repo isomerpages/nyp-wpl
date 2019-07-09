@@ -22,15 +22,15 @@ button:
     
 key-highlights:
   - title: Training Courses
-    description: -Developing People-
+    description: --Developing People--
     url: https://google.com
     external: true
   - title: Consultancy Services
-    description: Upgrading Companies
+    description: --Upgrading Companies--
     url: https://yahoo.com
     external: true
   - title: Outreach Events
-    description: Advocating WpL
+    description: --Advocating Workplace Learning--
     url: /page-1/
 
 resources-title: Areas to implement
@@ -42,5 +42,5 @@ resources-more-button-url: Events/
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 
-careers-subtitle: Subtitle
-careers-description: Description
+careers-subtitle: Our Success Stories
+careers-description: How has Workplace Learning transformed their companies
