@@ -15,19 +15,10 @@ hero-title: Workplace Learning - Our Common Mandate
 hero-subtitle: A Collaboration between IL and NACE
 hero-banner: /images/hero-banner.png
 
-# Hero Dropdown Main Text
-hero-dropdown-text: "I am..."
-
-# I want to dropdown
-i-want-to:
-  - title: an Individual
-    url: /users/individual/
-  - title: a Business
-    url: /users/business/
-  - title: an NGO
-    url: /users/ngo/
-  - title: a Teacher
-    url: /users/teacher/
+# Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/our-role/
     
 key-highlights:
   - title: Training Courses
