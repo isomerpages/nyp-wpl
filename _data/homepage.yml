@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: NACE
-hero-subtitle: A Collaboration between NYP and SSG
+hero-title: Workplace Learning - Our Common Mandate
+hero-subtitle: A Collaboration between IAL and NACE
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -22,19 +22,19 @@ button:
     
 key-highlights:
   - title: Training Courses
-    description: Important highlight A is important
+    description: -Developing People-
     url: https://google.com
     external: true
   - title: Consultancy Services
-    description: Important highlight B is equally important
+    description: Upgrading Companies
     url: https://yahoo.com
     external: true
-  - title: Events
-    description: Page 1 is important too
+  - title: Outreach Events
+    description: Advocating WpL
     url: /page-1/
 
-resources-title: Resources
-resources-subtitle: Be in the know
+resources-title: Areas to implement
+resources-subtitle: Workplace Learning
 resources-more-button: More Resources
 resources-more-button-url: Events/
 
