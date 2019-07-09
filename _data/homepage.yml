@@ -14,9 +14,6 @@ agency-logo: /images/isomer-logo.svg
 hero-title: Workplace Learning - Our Common Mandate
 hero-subtitle: A Collaboration between IAL and NACEE
 hero-banner: /images/hero-banner.png
-
-# Hero Dropdown Main Text
-hero-dropdown-text: "I am..."
     
 key-highlights:
   - title: Training Courses
