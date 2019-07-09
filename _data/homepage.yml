@@ -12,23 +12,21 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-title: Workplace Learning - Our Common Mandate
-hero-subtitle: A Collaboration between IAL and NAC
+hero-subtitle: A Collaboration between IL and NACE
 hero-banner: /images/hero-banner.png
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "WpL Areas"
+hero-dropdown-text: "I am..."
 
-# Call to Action Dropdown
+# I want to dropdown
 i-want-to:
-  - title: Operations
+  - title: an Individual
     url: /users/individual/
-  - title: System Improvement
+  - title: a Business
     url: /users/business/
-  - title: Capability Assessment
+  - title: an NGO
     url: /users/ngo/
-  - title: Employees
-    url: /users/teacher/
-  - title: Mentorship
+  - title: a Teacher
     url: /users/teacher/
     
 key-highlights:
