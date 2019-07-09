@@ -18,7 +18,7 @@ hero-banner: /images/hero-banner.png
 # Hero Dropdown Main Text
 hero-dropdown-text: "Areas to implement Workplace Learning"
 
-# I want to dropdown
+# Call to Action Dropdown
 i-want-to:
   - title: Operations
     url: /users/individual/
