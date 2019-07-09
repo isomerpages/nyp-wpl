@@ -12,13 +12,11 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-title: Workplace Learning - Our Common Mandate
-hero-subtitle: A Collaboration between IAL and NACE
+hero-subtitle: A Collaboration between IAL and NACEE
 hero-banner: /images/hero-banner.png
 
-# Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/our-role/
+# Hero Dropdown Main Text
+hero-dropdown-text: "I am..."
     
 key-highlights:
   - title: Training Courses
