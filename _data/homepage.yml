@@ -23,17 +23,17 @@ button:
 key-highlights:
   - title: Training Courses
     description: --Developing People--
-    url: https://google.com
+    url: "https://google.com"
   - title: Consultancy Services
     description: --Upgrading Companies--
-    url: https://yahoo.com
+    url: "https://yahoo.com"
   - title: Outreach Events
     description: --Advocating Workplace Learning--
     url: /page-1/
     external: true
     
 resources-title:  
-resources-subtitle: *Implementing                             Workplace Learning*
+resources-subtitle: Implementing Workplace Learning
 resources-more-button: More Scenarios
 resources-more-button-url: Events/
 
