@@ -8,7 +8,7 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/flag.jpg
 
 # Hero Banner
 hero-title: Workplace Learning@SG Get Future-Ready
@@ -27,14 +27,13 @@ key-highlights:
   - title: Consultancy Services
     description: --Upgrading Companies--
     url: https://yahoo.com
-    external: true
   - title: Outreach Events
     description: --Advocating Workplace Learning--
     url: /page-1/
-
+    external: true
+    
 resources-title:  
-resources-subtitle: Implementing 
-Workplace Learning
+resources-subtitle: *Implementing                             Workplace Learning*
 resources-more-button: More Scenarios
 resources-more-button-url: Events/
 
@@ -50,4 +49,4 @@ scenarios-more-button-url: /consultation/
 # To edit the careers details, go to careers-stories.yml
 
 careers-subtitle: Our Success Stories
-careers-description: How has Workplace Learning transformed their companies
+careers-description: How has Workplace Learning transformed these companies
