@@ -46,6 +46,14 @@ resources-subtitle: Implementing <br> Workplace Learning
 resources-more-button: More Scenarios
 resources-more-button-url: Events/
 
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: Our Success Stories
+careers-description: How has Workplace Learning transformed these companies
+
+
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 scenarios-title:
@@ -53,9 +61,3 @@ scenarios-subtitle: Public Consultation on Zero Waste Masterplan
 scenarios-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
 scenarios-more-button: More
 scenarios-more-button-url: /consultation/
-
-# Careers Section
-# To edit the careers details, go to careers-stories.yml
-
-careers-subtitle: Our Success Stories
-careers-description: How has Workplace Learning transformed these companies
