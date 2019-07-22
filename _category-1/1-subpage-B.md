@@ -5,7 +5,7 @@ permalink: /category-1/subpage-B/
 breadcrumb: Subpage B
 collection_name: category-1
 ---
-##**Our Work**
+## **Our Work**
  
 ### IAL is at the forefront of building capabilities and continuing professional development for an effective, innovative and responsive CET sector.
 
