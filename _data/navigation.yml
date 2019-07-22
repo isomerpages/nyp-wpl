@@ -5,12 +5,12 @@
 ##################################
 
 - title: Institute of Adult Learning
-  url: /category-1/subpage-A/
+  url: /ial/about-ial/
   sub-links:
   - title: About IAL
-    url: /category-1/subpage-A/
+    url: /ial/about-ial/
   - title: IAL Services
-    url: /category-1/subpage-B/
+    url: /ial/ial-services/
     
 - title: National Centre of Excellence for Workplace Learning
   url: /category-2/anotherpage-A/
@@ -19,6 +19,8 @@
     url: /category-2/anotherpage-A/
   - title: NACE Services
     url: /category-2/anotherpage-B/
+  - title: NACE Partners
+    url: /category-2/anotherpage-C/
     
 - title: Contact Us
   url: /contact-us/
