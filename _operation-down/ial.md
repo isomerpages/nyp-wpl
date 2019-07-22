@@ -1,10 +1,15 @@
-layout	title	permalink	breadcrumb	collection_name
-leftnav-page-content
-Food Waste
-/foodwaste/
-Our Focus Areas
+---
+layout: leftnav-page-content
+title: IAL Solution
+permalink: /operation-down/ial/
+permalink: /category-1/subpage-B/
+breadcrumb: ial
+collection_name: operation-down
+---
+
 waste-streams
 Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 40% over the last 10 years. 763 million kg of food waste was generated in 2018 – that’s the weight of more than 54,000 double decker buses.
+
 Why is this a problem? | What is the government doing? | What can you do as an individual? | What can you do as a business? | What are others doing?
 
 
