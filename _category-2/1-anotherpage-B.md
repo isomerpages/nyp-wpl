@@ -21,7 +21,7 @@ collection_name: category-2
     <td></td>
     <td>Workplace Learning System / Structure Gap Analysis</td>
   </tr>
-</table>
+
 
 
 
