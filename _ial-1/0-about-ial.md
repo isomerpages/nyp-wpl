@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: About IAL
-permalink: /Institute-of-Adult-Learning/About-IAL/
+permalink: /ial/about-ial/
 breadcrumb: About-IAL
-collection_name: Institute-of-Adult-Learning
+collection_name: ial
 ---
 
 ## **Our Vision:**
