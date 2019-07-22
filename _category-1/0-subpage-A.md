@@ -10,6 +10,6 @@ collection_name: category-1
 
 To be the national centre of excellence in learning, practice, and research for Continuing Education and Training (CET).
 
-### **Our Mission:**
+## **Our Mission:**
 
 To raise the capabilities of CET professionals to enhance workforce learning and workplace performance.
