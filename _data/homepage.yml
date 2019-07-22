@@ -32,6 +32,15 @@ key-highlights:
     url: /page-1/
     external: true
     
+# Info Sections
+info-sections:
+  - section-title: Developing People through WpL
+    section-subtitle: Operation slows down when I hire new people
+    section-description: I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
+    section-more-button: Learn more
+    section-more-button-url: /citizens_workgroup
+    section-image-path: /images/Hm_workgroup.jpg
+    
 resources-title:  
 resources-subtitle: Implementing <br> Workplace Learning
 resources-more-button: More Scenarios
