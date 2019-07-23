@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: About IAL
-permalink: /ial/about-ial/
-breadcrumb: About-IAL
-collection_name: ial
+permalink: /category-1/subpage-A/
+breadcrumb: Subpage-A
+collection_name: category-1
 ---
 
 ## **Our Vision:**
