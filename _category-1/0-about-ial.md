@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: IAL Services
-permalink: /ial-1/ial-services/
-breadcrumb: IAL Services
-collection_name: ial
+permalink: /category-1/subpage-B/
+breadcrumb: Subpage B
+collection_name: category-1
 ---
 ## **Our Work**
  
