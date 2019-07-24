@@ -42,5 +42,11 @@
   - title: Scenario-1
     url: /category-2/anotherpage-A/
     
+- title: Events
+  url: /scenarios/
+  sub-links:
+  - title: Scenario-1
+    url: /category-2/anotherpage-A/
+    
 - title: Contact Us
   url: /contact-us/
