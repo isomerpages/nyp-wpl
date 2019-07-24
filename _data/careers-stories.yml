@@ -7,11 +7,11 @@
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
   
-- title: Harry Company
-  name: Potter
-  position: Potion Designer
+- title: Institute of Adult Learning
+  name: NAME
+  position: Designation
   # dept: Government Digital Services, Data Science Division
-  story: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
-  img: images/sophia.png
+  story: “text text text”
+  img: images/ial.png
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
