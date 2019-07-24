@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Institute for Adult Learning
+title: About Institute for Adult Learning (IAL)
 permalink: /category-1/subpage-A/
 breadcrumb: Subpage-A
 collection_name: category-1
