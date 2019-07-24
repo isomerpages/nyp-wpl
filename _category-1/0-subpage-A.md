@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About IALLL
+title: About Institute for Adult Learning
 permalink: /category-1/subpage-A/
 breadcrumb: Subpage-A
 collection_name: category-1
