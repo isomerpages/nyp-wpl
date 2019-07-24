@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: Institute of Adult Learning
+- title: IAL
   url: /category-1/subpage-A/
   sub-links:
   - title: About IAL
@@ -12,7 +12,7 @@
   - title: IAL Services
     url: /category-1/subpage-B/
     
-- title: National Centre of Excellence for Workplace Learning
+- title: NACE
   url: /category-2/anotherpage-A/
   sub-links:
   - title: About NACE
@@ -29,6 +29,18 @@
     url: /category-2/anotherpage-A/
   - title: Scenario-2
     url: /category-2/anotherpage-B/
+    
+- title: Training
+  url: /scenarios/
+  sub-links:
+  - title: Scenario-1
+    url: /category-2/anotherpage-A/
+    
+- title: Consultancy
+  url: /scenarios/
+  sub-links:
+  - title: Scenario-1
+    url: /category-2/anotherpage-A/
     
 - title: Contact Us
   url: /contact-us/
