@@ -1,9 +1,9 @@
-- title: Poke Company
-  name: Ash
-  position: Pikachu Trainer
+- title: NACE
+  name: Dr Phua
+  position: Director
   # dept: Government Digital Services, Data Science Division
-  story: I wanna be the very BEST!
-  img: /images/NACE-LOGO-RGB.jpg
+  story: Workplace Learning...
+  img: /images/gears3.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
   
@@ -12,6 +12,6 @@
   position: Designation
   # dept: Government Digital Services, Data Science Division
   story: “text text text”
-  img: images/ial.png
+  img: images/microchip.png
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
