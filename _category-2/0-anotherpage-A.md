@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About NACE
+title: About National Centre of Excellence for Workplace Learning
 permalink: /category-2/anotherpage-A/
 breadcrumb: Anotherpage A
 collection_name: category-2
