@@ -3,7 +3,7 @@
   position: Director
   # dept: Government Digital Services, Data Science Division
   story: Workplace Learning...
-  img: /images/gears3.jpg
+  img: /images/.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
   
@@ -12,6 +12,6 @@
   position: Designation
   # dept: Government Digital Services, Data Science Division
   story: “text text text”
-  img: images/microchip.png
+  img: images/microchip.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
