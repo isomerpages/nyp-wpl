@@ -21,15 +21,16 @@
     
 - title: Mutual Recognition of courses
   url: /mutual-recognition/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
     
 - title: Resources
   url: /resources/all
   sub-links:
   - title: All
     url: /resources/all
+  - title: News
+    url: /resources/news
+  - title: Videos
+    url: /resources/videos
     
 - title: Contact Us
   url: /contact-us/
