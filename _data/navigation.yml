@@ -5,12 +5,12 @@
 ##################################
 
 - title: IAL
-  url: /category-1/subpage-A/
+  url: /ial/about-ial/
   sub-links:
   - title: About IAL
     url: /ial/about-ial/
   - title: IAL Services
-    url: /category-1/subpage-B/
+    url: /ial/ial-services/
     
 - title: NACE
   url: /category-2/anotherpage-A/
