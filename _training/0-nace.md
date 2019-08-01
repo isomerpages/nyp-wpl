@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Training
+title: NACE Training Courses
 permalink: /training/nace
-breadcrumb: NACE Training 
+breadcrumb: nace 
 collection_name: training
 ---
 
