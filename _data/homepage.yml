@@ -18,7 +18,7 @@ hero-banner: /images/wpl.jpg
 # Call to Action Button
 button:
   - text: Find Out More
-    url: /pages/page-1
+    url: /mandate/
     
 key-highlights:
   - title: Institute for Adult Learning
