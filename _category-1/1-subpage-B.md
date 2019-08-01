@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: IAL Services
-permalink: /category-1/subpage-B/
+permalink: /iab/ial-services/
 breadcrumb: Subpage B
 collection_name: category-1
 ---
