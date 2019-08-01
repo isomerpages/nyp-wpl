@@ -22,19 +22,13 @@
   - title: NACE Partners
     url: /category-2/anotherpage-C/
     
-- title: Scenarios
-  url: /scenarios/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
-  - title: Scenario-2
-    url: /category-2/anotherpage-B/
-    
 - title: Training
-  url: /scenarios/
+  url: /training/nace
   sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
+  - title: NACE
+    url: /training/nace
+  - title: IAL
+    url: /training/ial
     
 - title: Consultancy
   url: /scenarios/
@@ -47,6 +41,14 @@
   sub-links:
   - title: Scenario-1
     url: /category-2/anotherpage-A/
+    
+- title: Scenarios
+  url: /scenarios/
+  sub-links:
+  - title: Scenario-1
+    url: /category-2/anotherpage-A/
+  - title: Scenario-2
+    url: /category-2/anotherpage-B/
     
 - title: Mutual Recognition of courses
   url: /scenarios/
