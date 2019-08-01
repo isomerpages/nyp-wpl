@@ -41,15 +41,8 @@ info-sections:
     section-more-button-url: "https://www.towardszerowaste.sg/foodwaste/"
     section-image-path: /images/gears.jpg
     
-resources-title:  
-resources-subtitle: Implementing <br> Workplace Learning
-resources-more-button: More Resources
-resources-more-button-url: Events/
-
-
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
-
 careers-subtitle: Hear from them
 careers-description: Why is Workplace Learning important?
 
@@ -61,3 +54,8 @@ scenarios-subtitle: Public Consultation on Zero Waste Masterplan
 scenarios-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
 scenarios-more-button: More
 scenarios-more-button-url: /consultation/
+
+resources-title:  
+resources-subtitle: Implementing <br> Workplace Learning
+resources-more-button: More Resources
+resources-more-button-url: Events/
