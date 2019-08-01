@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: About Institute for Adult Learning (IAL)
 permalink: /ial/about-ial/
 breadcrumb: about-ial
-collection_name: category-1
+collection_name: ial
 ---
 
 ## **Our Vision:**
