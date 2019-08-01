@@ -23,15 +23,15 @@ button:
 key-highlights:
   - title: Institute for Adult Learning
     description: --An Institute of SUSS--
-    url: "https://google.com"
+    url: /ial/about-ial/
   - title: National Centre of Excellence for Workplace Learning
     description: --A strategic collaboration between NYP & SSG--
-    url: "https://yahoo.com"
+    url: /nace/about-nace/
     ##################
  #
  #  - title: Outreach Events
  #   description: --Advocating Workplace Learning--
-  #  url: /page-1/
+  #  url: "https://yahoo.com"
    # external: true
     
 # Info Sections
