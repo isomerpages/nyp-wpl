@@ -4,57 +4,32 @@
 #                                #
 ##################################
 
-- title: IAL
-  url: /ial/about-ial/
+- title: Our WpL Solutions
+  url: /wpl-solutions/overview/
   sub-links:
-  - title: About IAL
-    url: /ial/about-ial/
-  - title: IAL Services
-    url: /ial/ial-services/
+  - title: Overview
+    url: /wpl-solutions/overview/
+  - title: Business Operations
+    url: /wpl-solutions/business-operations/
+  - title: Staff Retention
+    url: /wpl-solutions/staff-retention/
+  - title: Knowledge Transfer
+    url: /wpl-solutions/knowledge-transfer/
+  - title: System Sustainability
+    url: /wpl-solutions/system-sustainability/
     
-- title: NACE
-  url: /category-2/anotherpage-A/
-  sub-links:
-  - title: About NACE
-    url: /category-2/anotherpage-A/
-  - title: NACE Services
-    url: /category-2/anotherpage-B/
-  - title: NACE Partners
-    url: /category-2/NACE-partners/
-    
-- title: Training
-  url: /training/nace/
-  sub-links:
-  - title: NACE Courses
-    url: /training/nace/
-  - title: IAL Courses
-    url: /training/ial/
-    
-- title: Consultancy
-  url: /consultancy/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
-    
-- title: Events
-  url: /scenarios/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
-    
-- title: Scenarios
-  url: /scenarios/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
-  - title: Scenario-2
-    url: /category-2/anotherpage-B/
     
 - title: Mutual Recognition of courses
-  url: /scenarios/
+  url: /mutual-recognition/
   sub-links:
   - title: Scenario-1
     url: /category-2/anotherpage-A/
+    
+- title: Resources
+  url: /resources/all
+  sub-links:
+  - title: All
+    url: /resources/all
     
 - title: Contact Us
   url: /contact-us/
