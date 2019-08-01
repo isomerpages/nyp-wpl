@@ -48,12 +48,6 @@
   - title: Scenario-1
     url: /category-2/anotherpage-A/
     
-- title: Research
-  url: /scenarios/
-  sub-links:
-  - title: Scenario-1
-    url: /category-2/anotherpage-A/
-    
 - title: Mutual Recognition of courses
   url: /scenarios/
   sub-links:
