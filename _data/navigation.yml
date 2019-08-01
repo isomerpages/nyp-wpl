@@ -23,12 +23,12 @@
     url: /category-2/NACE-partners/
     
 - title: Training
-  url: /training/nace
+  url: /training/nace/
   sub-links:
   - title: NACE Courses
-    url: /training/nace
+    url: /training/nace/
   - title: IAL Courses
-    url: /training/ial
+    url: /training/ial/
     
 - title: Consultancy
   url: /consultancy/
