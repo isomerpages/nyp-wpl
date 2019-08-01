@@ -21,16 +21,18 @@ button:
     url: /pages/page-1
     
 key-highlights:
-  - title: Training Courses
-    description: --Developing People--
+  - title: Institute for Adult Learning
+    description: --An Institute of SUSS--
     url: "https://google.com"
-  - title: Consultancy Services
-    description: --Upgrading Companies--
+  - title: National Centre of Excellence for Workplace Learning
+    description: --A strategic collaboration between NYP & SSG--
     url: "https://yahoo.com"
-  - title: Outreach Events
-    description: --Advocating Workplace Learning--
-    url: /page-1/
-    external: true
+    ##################
+ #
+ #  - title: Outreach Events
+ #   description: --Advocating Workplace Learning--
+  #  url: /page-1/
+   # external: true
     
 # Info Sections
 info-sections:
