@@ -18,7 +18,7 @@ hero-banner: /images/wpl.jpg
 # Call to Action Button
 button:
   - text: Find Out More
-    url: /pages/pages-1
+    url: /pages/page-1
     
 key-highlights:
   - title: Training Courses
