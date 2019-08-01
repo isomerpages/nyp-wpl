@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Training
-permalink: /ial-training/
-breadcrumb: IAL Training 
-collection_name: ial-training
+title: IAL Training Courses
+permalink: /training/ial
+breadcrumb: ial
+collection_name: training
 ---
 
 ### IAL Training Services
