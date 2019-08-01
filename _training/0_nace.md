@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Training
-permalink: /nace-training/
+permalink: /training/nace
 breadcrumb: NACE Training 
-collection_name: nace-training
+collection_name: training
 ---
 
 ### NACE Training Services
