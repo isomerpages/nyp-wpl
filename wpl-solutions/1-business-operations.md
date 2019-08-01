@@ -7,8 +7,8 @@ collection_name: wpl-solutions
 ---
 
 
-### Operation slows down when I hire new people
-I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
+### Operation slows down when I hire new people.
+### I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
 
 
 New staff typically need time to settle in and understand their job role and work tasks well before being able to perform at optimum levels. This is where workplace learning solutions such as a structured on-boarding OJT blueprint can help fast-track them towards optimum performance levels. 
@@ -17,7 +17,7 @@ When new staff are able to know their roles well and start contributing in meani
 
 -------------------
 
-[NACE Training Solutions?](#nace-training) | [NACE Consultancy Solutions](#nace-consult) | [IAL Training Solutions](#ial-training) | 
+[NACE Training Solutions](#nace-training) | [NACE Consultancy Solutions](#nace-consult) | [IAL Training Solutions](#ial-training) | 
 
 -------------------
 
