@@ -1,22 +1,51 @@
 ---
 layout: leftnav-page-content
 title: Business Operations
-permalink: /foodwaste/
-breadcrumb: Our Focus Areas
-collection_name: waste-streams
+permalink: /wpl-solutions/business-operations/
+breadcrumb: business-operations
+collection_name: wpl-solutions
 ---
 
 
-### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 40% over the last 10 years. 763 million kg of food waste was generated in 2018 – that’s the weight of more than 54,000 double decker buses.
+### Operation slows down when I hire new people
+I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
+
+
+New staff typically need time to settle in and understand their job role and work tasks well before being able to perform at optimum levels. This is where workplace learning solutions such as a structured on-boarding OJT blueprint can help fast-track them towards optimum performance levels. 
+
+When new staff are able to know their roles well and start contributing in meaningful ways to their teams, productivity is enhanced, and a staff’s sense of belonging can strengthen leading to a good work environment. 
 
 -------------------
 
-[Why is this a problem?](#why) | [What is the government doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
+[NACE Training Solutions?](#nace-training) | [NACE Consultancy Solutions](#nace-consult) | [IAL Training Solutions](#ial-training) | 
 
 -------------------
 
 
-<a name="why"></a>
-#### Why is this a problem? 
+<a name="nace-training"></a>
+#### NACE Training Solutions
 
-Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Of which, more than half of household food waste can be prevented, with rice, noodles and bread being the most commonly wasted food items.
+### OJT Blueprint Development Programme
+- Impart skills and knowledge to companies through attending an OJT blueprint programme so staff can create in-house on-boarding OJT blueprint  
+### Coaching and Mentoring Programme
+- Build capabilities in coaching and mentoring at Supervisory levels 
+
+[Back to top](#top)
+
+-------------------
+
+<a name="nace-consult"></a>
+#### NACE Consultancy Services
+
+### Provide OJT Blueprint Development consulting. To assist the company to:
+- Create an on-boarding OJT blueprint for new staff on their roles to help staff and Supervisors have a clear and transparent way to train up staff to the appropriate levels
+
+[Back to top](#top)
+
+-------------------
+
+<a name="ial-training"></a>
+#### IAL Training Solutions
+
+### IAL XXXXXXX
+- Explain XXXXXXX
