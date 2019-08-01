@@ -1,17 +1,9 @@
-- title: NACE
-  name: Dr Phua
+- title: National Centre of Excellence for Workplace Learning
+  name: Dr Phua Chee Teck
   position: Director
   # dept: Government Digital Services, Data Science Division
-  story: Workplace Learning...
-  img: /images/.jpg
+  story: The workplace itself is a significant source of learning and Workplace Learning has emerged as a powerful learning model that companies need to explore.
+  img: /images/702010.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
-  
-- title: Institute of Adult Learning
-  name: NAME
-  position: Designation
-  # dept: Government Digital Services, Data Science Division
-  story: “text text text”
-  img: images/.jpg
-  button-text: Read more
-  button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
+
