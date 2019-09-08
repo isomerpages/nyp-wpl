@@ -12,7 +12,7 @@ agency-logo: /images/wpl.jpg
 
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
-hero-subtitle: A Common Landing Page for companies to learn more about Workplace Learning
+hero-subtitle: A Common Landing Page for companies to learn more about the resources available for them to embark on their Workplace Learning journey
 hero-banner: /images/wpl.jpg
 
 # Call to Action Button
@@ -22,13 +22,15 @@ button:
     
 key-highlights:
   - title: Overview
-    description: --A Common Landing Page--
+    description: --A Common Landing Page for companies--
     url: /ial/about-ial/
-  - title: WpL Phases and Available Resources
-    description: --Find out which Phase your company is at--
+    
+  - title: Workplace Learning Phases and the resources available
+    description: --Resources available for a company's Workplace Learning Journey--
     url: /nace/about-nace/
-  - title: Characteristics of WpL company
-    description: --The indicators on the company's WpL level--
+    
+  - title: Characteristics of a Workplace Learning company
+    description: --Indicators of a company's Workplace Learning Level--
     url: /nace/about-nace/
     ##################
  #
@@ -40,12 +42,13 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: PHASE ONE of WpL
-    section-subtitle: My company have a lack in proper training materials.
-    section-description: Characteristics of company under Phase One of WpL
-                         * Brand new start-up
-                         * Do not have any SOP in place
-                         * Outdated training materials 
-    section-more-button: Resources available for company under Phase One of WpL
+    section-subtitle: My company lacks proper training documentations.
+    section-description: Characteristics of company under PHASE ONE of WpL <br>
+                         * Brand new start-up <br>
+                         * Inadequate SOP in place <br>
+                         * Outdated training materials <br>
+                          * Training 
+    section-more-button: Click here for available resources
     section-more-button-url: /wpl-solutions/business-operations/
     section-image-path: /images/gears.jpg
     
