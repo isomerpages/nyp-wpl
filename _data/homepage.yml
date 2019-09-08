@@ -8,11 +8,11 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/IAL-NACE.png
+agency-logo: /images/wpl.jpg
 
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
-hero-subtitle: Our Common Mandate - A Collaboration between IAL and NACE
+hero-subtitle: A Common Landing Page for companies to learn more about Workplace Learning
 hero-banner: /images/wpl.jpg
 
 # Call to Action Button
@@ -21,11 +21,14 @@ button:
     url: /mandate/
     
 key-highlights:
-  - title: Institute for Adult Learning
-    description: --An Institute of SUSS--
+  - title: Overview
+    description: --A Common Landing Page--
     url: /ial/about-ial/
-  - title: National Centre of Excellence for Workplace Learning
-    description: --A strategic collaboration between NYP & SSG--
+  - title: WpL Phases and Available Resources
+    description: --Find out which Phase your company is at--
+    url: /nace/about-nace/
+  - title: Characteristics of WpL company
+    description: --The indicators on the company's WpL level--
     url: /nace/about-nace/
     ##################
  #
@@ -36,12 +39,26 @@ key-highlights:
     
 # Info Sections
 info-sections:
+  - section-title: PHASE ONE of WpL
+    section-subtitle: My company have a lack in proper training materials.
+    section-description: Characteristics of company under Phase One of WpL
+                         * Brand new start-up
+                         * Do not have any SOP in place
+                         * Outdated training materials 
+    section-more-button: Resources available for company under Phase One of WpL
+    section-more-button-url: /wpl-solutions/business-operations/
+    section-image-path: /images/gears.jpg
+    
   - section-title: Developing People through WpL
     section-subtitle: Operation slows down when I hire new people
     section-description: I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
     section-more-button: Workplace Learning Solutions
     section-more-button-url: /wpl-solutions/business-operations/
     section-image-path: /images/gears.jpg
+    
+    
+    
+    
     
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
