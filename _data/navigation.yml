@@ -4,25 +4,46 @@
 #                                #
 ##################################
 
-- title: Our Workplace Learning Solutions
+- title: Overview
   url: /wpl-solutions/overview/
+  
   sub-links:
-  - title: Overview
+  - title: Reasons for a common landing page
     url: /wpl-solutions/overview/
-  - title: Business Operations
+  - title: Importance of Workplace Learning
     url: /wpl-solutions/business-operations/
-  - title: Staff Retention
+  - title: Different phases of Workplace Learning
     url: /wpl-solutions/staff-retention/
-  - title: Knowledge Transfer
-    url: /wpl-solutions/knowledge-transfer/
-  - title: System Sustainability
-    url: /wpl-solutions/system-sustainability/
     
     
-- title: Mutual Recognition of courses
+- title: Phases and Resources available for Workplace Learning
   url: /mutual-recognition/
+  
+  sub-links:
+  - title: Phase ONE
+    url: /wpl-solutions/overview/
+  - title: Phase TWO
+    url: /wpl-solutions/business-operations/
+  - title: Phase THREE
+    url: /wpl-solutions/staff-retention/
     
-- title: Resources
+    
+- title: Characteristics of a Workplace Learning company
+  url: /resources/all
+
+  sub-links:
+  - title: Phase ONE
+    url: /wpl-solutions/overview/
+  - title: Phase TWO
+    url: /wpl-solutions/business-operations/
+  - title: Phase THREE
+    url: /wpl-solutions/staff-retention/
+  
+  
+  
+  
+  
+  - title: Resources
   url: /resources/all
   sub-links:
   - title: All
