@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /wpl-solutions/overview/
+permalink: /phases/overview/
 breadcrumb: overview
-collection_name: wpl-solutions
+collection_name: phases
 ---
 
 
