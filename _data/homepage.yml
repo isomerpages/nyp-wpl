@@ -47,15 +47,21 @@ info-sections:
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
+                         * High turnover rate
                       
     section-more-button: Click here for available resources
     section-more-button-url: /wpl-solutions/business-operations/
     section-image-path: /images/gears.jpg
     
-  - section-title: Developing People through WpL
-    section-subtitle: Operation slows down when I hire new people
-    section-description: I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
-    section-more-button: Workplace Learning Solutions
+    
+  - section-title: PHASE TWO of Workplace Learning
+    section-subtitle: My company lacks capable manpower to properly guide my employees.
+    section-description: Characteristics of a company under PHASE TWO of WpL <br>
+                         * Already have OJT in place but no one to provide guidance <br>
+                         * Do not have assessment criteria to determine competency of employee <br>
+                         * Employee not ready for leadership <br>
+                      
+    section-more-button: Click here for available resources
     section-more-button-url: /wpl-solutions/business-operations/
     section-image-path: /images/gears.jpg
     
