@@ -7,8 +7,8 @@ collection_name: wpl-solutions
 ---
 
 
-## PHASE ONE OF WORKPLACE LEARNING
-### My company lacks proper training documentation.
+### PHASE ONE OF WORKPLACE LEARNING
+## My company lacks proper training documentation.
 
 #### Possible Work Situations
 * I have a new company and I do not have any SOPs in place for my operations. 
@@ -24,7 +24,7 @@ When new staff are able to know their roles well and start contributing in meani
 
 -------------------
 
-## [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other) | 
+### [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other) | 
 
 -------------------
 
@@ -43,7 +43,7 @@ When new staff are able to know their roles well and start contributing in meani
 
 <a name="consultancy"></a>
 ## Consultancy Solutions
-1.
+1. <br>
 2.
 
 
@@ -53,7 +53,7 @@ When new staff are able to know their roles well and start contributing in meani
 
 <a name="other"></a>
 ## Other Resources
-1.
+1. <br>
 2.
 
 
