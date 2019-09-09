@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: Overview
+- title: About Workplace Learning
   url: /wpl-solutions/overview/
   
   sub-links:
@@ -12,20 +12,20 @@
     url: /wpl-solutions/overview/
   - title: Importance of Workplace Learning
     url: /wpl-solutions/business-operations/
-  - title: Different phases of Workplace Learning
-    url: /wpl-solutions/staff-retention/
     
     
 - title: Phases and Resources available for Workplace Learning
-  url: /mutual-recognition/
+  url: /phases/
   
   sub-links:
+  - title: Overview
+    url: /phases/overview/
   - title: Phase ONE
-    url: /wpl-solutions/overview/
+    url: /phases/phase-one/
   - title: Phase TWO
-    url: /wpl-solutions/business-operations/
+    url: /phases/phase-two/
   - title: Phase THREE
-    url: /wpl-solutions/staff-retention/
+    url: /phases/phase-three/
     
     
 - title: Characteristics of a Workplace Learning company
