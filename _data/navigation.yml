@@ -29,8 +29,8 @@
     
     
 - title: Characteristics of a Workplace Learning company
-  url: /resources/all
-
+  url: /mutual-recognition/
+  
   sub-links:
   - title: Phase ONE
     url: /wpl-solutions/overview/
@@ -40,11 +40,9 @@
     url: /wpl-solutions/staff-retention/
   
   
-  
-  
-  
-  - title: Resources
+- title: Resources
   url: /resources/all
+  
   sub-links:
   - title: All
     url: /resources/all
