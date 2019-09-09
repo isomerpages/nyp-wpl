@@ -7,8 +7,15 @@ collection_name: wpl-solutions
 ---
 
 
-### Operation slows down when I hire new people.
-### I have a problem when I hire new people. My operation becomes less productive as the new staff need time to learn their job well. How can I help my new staff learn to do their work properly and more quickly and efficiently?
+### PHASE ONE OF WORKPLACE LEARNING
+### My company lacks proper training documentation.
+
+#### Work Situations
+* I have a new company and I do not have any SOPs in place for my operations. 
+* I just hired a group of new employees and it takes time to train them, affecting the productivitiy of my operations.
+* I have difficulties capturing the skills and knowledge from my matured employees, and my operations will be hindered if they leaves the company.
+* I find it hard to retain my employees as they felt that I am not training them adequately.
+
 
 
 New staff typically need time to settle in and understand their job role and work tasks well before being able to perform at optimum levels. This is where workplace learning solutions such as a structured on-boarding OJT blueprint can help fast-track them towards optimum performance levels. 
@@ -17,35 +24,35 @@ When new staff are able to know their roles well and start contributing in meani
 
 -------------------
 
-[NACE Training Solutions](#nace-training) | [NACE Consultancy Solutions](#nace-consult) | [IAL Training Solutions](#ial-training) | 
+[Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other) | 
 
 -------------------
 
 
-<a name="nace-training"></a>
-#### NACE Training Solutions
+<a name="training"></a>
+#### Training Solutions
 
-### OJT Blueprint Development Programme
-- Impart skills and knowledge to companies through attending an OJT blueprint programme so staff can create in-house on-boarding OJT blueprint  
-### Coaching and Mentoring Programme
-- Build capabilities in coaching and mentoring at Supervisory levels 
+### Training Programmes
+1. [Workplace Learning Blueprint Development (Conducted by NACE)](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+
+2. Basics of Workplace Learning Design (Conducted by IAL)
 
 [Back to top](#top)
 
 -------------------
 
-<a name="nace-consult"></a>
-#### NACE Consultancy Services
+<a name="consultancy"></a>
+#### Consultancy Solutions
 
-### Provide OJT Blueprint Development consulting. To assist the company to:
-- Create an on-boarding OJT blueprint for new staff on their roles to help staff and Supervisors have a clear and transparent way to train up staff to the appropriate levels
+
 
 [Back to top](#top)
 
 -------------------
 
-<a name="ial-training"></a>
-#### IAL Training Solutions
+<a name="other"></a>
+#### Other Resources
 
-### IAL XXXXXXX
-- Explain XXXXXXX
+
+
+[Back to top](#top)
