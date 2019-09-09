@@ -12,7 +12,7 @@ agency-logo: /images/wpl.jpg
 
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
-hero-subtitle: A Common Landing Page for companies to learn more about the resources available for them to embark on their Workplace Learning journey
+hero-subtitle: A Common Landing Page for companies to learn more about the resources available <br> for them to embark on their Workplace Learning journey
 hero-banner: /images/wpl.jpg
 
 # Call to Action Button
@@ -22,15 +22,15 @@ button:
     
 key-highlights:
   - title: Overview
-    description: --A Common Landing Page for companies--
+    description: -- A Common Landing Page for companies --
     url: /ial/about-ial/
     
-  - title: Workplace Learning Phases and the resources available
-    description: --Resources available for a company's Workplace Learning Journey--
+  - title: Workplace Learning Phases and the Resources available
+    description: 
     url: /nace/about-nace/
     
   - title: Characteristics of a Workplace Learning company
-    description: --Indicators of a company's Workplace Learning Level--
+    description: -- Indicators of a company's Workplace Learning Level --
     url: /nace/about-nace/
     ##################
  #
@@ -41,13 +41,13 @@ key-highlights:
     
 # Info Sections
 info-sections:
-  - section-title: PHASE ONE of WpL
-    section-subtitle: My company lacks proper training documentations.
-    section-description: Characteristics of company under PHASE ONE of WpL <br>
+  - section-title: PHASE ONE of Workplace Learning
+    section-subtitle: My company lacks proper training documentation.
+    section-description: Characteristics of a company under PHASE ONE of WpL <br>
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
-                          * Training 
+                      
     section-more-button: Click here for available resources
     section-more-button-url: /wpl-solutions/business-operations/
     section-image-path: /images/gears.jpg
