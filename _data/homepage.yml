@@ -21,9 +21,9 @@ button:
     url: /mandate/
     
 key-highlights:
-  - title: Overview
+  - title: About Workplace Learning
     description: -- A Common Landing Page for companies --
-    url: /ial/about-ial/
+    url: /phases/about-ial/
     
   - title: Workplace Learning Phases and the Resources available
     description: 
@@ -50,7 +50,7 @@ info-sections:
                          * High turnover rate
                       
     section-more-button: Click here for available resources
-    section-more-button-url: /wpl-solutions/business-operations/
+    section-more-button-url: /phases/phase-one/
     section-image-path: /images/gears.jpg
     
     
@@ -62,10 +62,20 @@ info-sections:
                          * Employee not ready for leadership <br>
                       
     section-more-button: Click here for available resources
-    section-more-button-url: /wpl-solutions/business-operations/
+    section-more-button-url: /phases/phase-two/
     section-image-path: /images/gears.jpg
     
     
+   - section-title: PHASE THREE of Workplace Learning
+    section-subtitle: XXXXXXX
+    section-description: Characteristics of a company under PHASE THREE of WpL <br>
+                         * xxx <br>
+                         * xxx <br>
+                         * xxx <br>
+                      
+    section-more-button: Click here for available resources
+    section-more-button-url: /phases/phase-three/
+    section-image-path: /images/gears.jpg   
     
     
     
