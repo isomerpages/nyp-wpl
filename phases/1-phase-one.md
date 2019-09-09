@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Business Operations
-permalink: /wpl-solutions/business-operations/
-breadcrumb: business-operations
-collection_name: wpl-solutions
+title: Phase One
+permalink: /phases/phase-one/
+breadcrumb: phase-one
+collection_name: phases
 ---
 
 
@@ -24,7 +24,7 @@ When new staff are able to know their roles well and start contributing in meani
 
 -------------------
 
-### [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other) | 
+### [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other)| 
 
 -------------------
 
