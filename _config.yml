@@ -24,7 +24,7 @@ breadcrumbs:
 paginate: 12
 
 # Homepage sections
-homepage_hero_i_want_to: false
+homepage_hero_i_want_to: true
 homepage_resources: true
 homepage_careers: true
 
@@ -42,6 +42,8 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
+  about:
+    output: true
   phases:
     output: true
   category-2:
