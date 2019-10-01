@@ -46,9 +46,11 @@ key-highlights:
     
 # Info Sections
 info-sections:
-  - section-title: PHASE ONE of Workplace Learning
-    section-subtitle: My company lacks proper training documentation.
-    section-description: Some characteristics of a company under PHASE ONE of Workplace Learning <br>
+  - section-title:  
+    section-subtitle: A Journey towards implementing Workplace Learning
+    section-description:  PHASE ONE of Workplace Learning <br>
+                          My company lacks proper training documentation
+                         Some characteristics of a company under PHASE ONE of Workplace Learning <br>
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
