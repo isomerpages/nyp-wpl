@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Workplace Learning Common Landing Page
+title: About Workplace Learning
 permalink: /about/workplace-learning/
 breadcrumb: workplace-learning
 collection_name: workplace-learning
