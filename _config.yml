@@ -1,5 +1,5 @@
-title: IAL and NACE
-title-abbreviated: IAL and NACE
+title: Workplace Learning
+title-abbreviated: Workplace Learning
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -42,7 +42,7 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  phases:
+  phases: about
     output: true
   category-2:
     output: true
