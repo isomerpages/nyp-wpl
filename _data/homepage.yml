@@ -18,12 +18,17 @@ hero-banner: /images/wpl.jpg
 # Call to Action Button
 button:
   - text: Find Out More
-    url: /about/
+    url: /about/workplace-learning
     
 key-highlights:
   - title: About Workplace Learning
     description: -- A Common Landing Page for companies --
-    url: /about/
+    url: /about/workplace-learning
+    
+    
+    
+    
+    
     
   - title: Workplace Learning Phases and the Resources available
     description: -- xxx --
