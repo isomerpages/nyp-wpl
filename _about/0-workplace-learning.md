@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Workplace Learning Common Landing Page
-permalink: /wpl/
-breadcrumb: wpl
-collection_name: wpl
+permalink: /about/workplace-learning/
+breadcrumb: workplace-learning
+collection_name: workplace-learning
 ---
 
 ## **Importance of Workplace Learning**
