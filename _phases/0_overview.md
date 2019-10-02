@@ -11,12 +11,24 @@ collection_name: phases
 
 -------------------
 
-[Why is this a problem?](#why) | [What is the government doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
+[New start-up company](#why) | [Keeping operations consistent](#govt) | [Updating workplace training content](#update) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
 
 -------------------
 
 
 <a name="why"></a>
-#### Why is this a problem? 
+#### New start-up company 
 
-Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Of which, more than half of household food waste can be prevented, with rice, noodles and bread being the most commonly wasted food items.
+XXXXXXXXXXXXXXXX
+
+
+<a name="govt"></a>
+#### Keeping operations consistent 
+
+XXXXXXXXXXXXXXXX
+
+
+<a name="update"></a>
+#### Updating workplace training content
+
+XXXXXXXXXXXXXXXX
