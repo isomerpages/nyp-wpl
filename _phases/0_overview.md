@@ -7,7 +7,11 @@ collection_name: phases
 ---
 
 
-### Overview of Workplace Learning Solutions
+### Benefits of structured in-company learning solutiuons
+
+XXXXXXXXXXXXXX
+
+### Applications of structured learning can be found below:
 
 -------------------
 
