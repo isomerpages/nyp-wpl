@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Phase One
-permalink: /phases/phase-one/
-breadcrumb: phase-one
-collection_name: phases
+title: Application
+permalink: /phases/application/
+breadcrumb: application
+collection_name: application
 ---
 
 
