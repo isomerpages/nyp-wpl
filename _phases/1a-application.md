@@ -4,8 +4,9 @@ title: Application
 permalink: /phases/application/
 breadcrumb: application
 collection_name: application
+second_nav_title: "Phase One"
 ---
 
 
-### PHASE ONE OF WORKPLACE LEARNING
-## My company lacks proper training documentation.
+### New Start-up Company
+## Keeping operations consistent
