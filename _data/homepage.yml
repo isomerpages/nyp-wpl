@@ -75,15 +75,12 @@ info-sections:
     section-image-path: /images/gears.jpg
     
     
-  - section-title: PHASE THREE of Workplace Learning
-    section-subtitle: XXXXXXX
-    section-description: Characteristics of a company under PHASE THREE of WpL <br>
-                         * test <br>
-                         * testing <br>
-                        
-                      
-    section-more-button: Click here for available resources
-    section-more-button-url: /phases/phase-three/
+  - section-title: For PROCESS efficiency:
+    section-subtitle: A need for structured in-company learning solutions
+    section-description: My company lacks proper training documentations
+                                      
+    section-more-button: LEARN MORE
+    section-more-button-url: /phases/phase-one/
     section-image-path: /images/gears.jpg   
     
     
