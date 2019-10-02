@@ -11,7 +11,7 @@ collection_name: phases
 
 -------------------
 
-[New start-up company](#why) | [Keeping operations consistent](#govt) | [Updating workplace training content](#update) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
+[New start-up company](#why) | [Keeping operations consistent](#govt) | [Updating workplace training content](#update) | 
 
 -------------------
 
