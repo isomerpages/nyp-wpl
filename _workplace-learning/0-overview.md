@@ -6,11 +6,11 @@ breadcrumb: workplace-learning
 collection_name: workplace-learning
 ---
 
-## **Importance of Workplace Learning**
+## **Overview of Workplace Learning**
 
 XXXXXXXXXXXX
 
-## **Reasons for a Common Landing Page**
+## **XXXXXXX**
 
 XXXXXXXXXXXX
 
