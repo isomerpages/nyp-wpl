@@ -5,39 +5,44 @@
 ##################################
 
 - title: About Workplace Learning
-  url: /about/workplace-learning/
-  
-  
-    
-    
-- title: Workplace Learning Phases and the Resources available 
-  url: /phases/
+  url: /workplace-learning/
   
   sub-links:
   - title: Overview
-    url: /phases/overview/
-  - title: Phase ONE
-    url: /phases/phase-one/
-  - title: Phase TWO
-    url: /phases/phase-two/
-  - title: Phase THREE
-    url: /phases/phase-three/
-    
-    
-- title: Workplace Learning in pictures
-  url: /mutual-recognition/
+    url: /workplace-learning/overview/
+  - title: Importance
+    url: /workplace-learning/importance/
+  
+  
+  
+- title: National Workplace Learning Framework
+  url: /framework/
   
   sub-links:
-  - title: Comic ONE
-    url: /wpl-solutions/overview/
-  - title: Comic TWO
-    url: /wpl-solutions/business-operations/
-  - title: Comic THREE
-    url: /wpl-solutions/staff-retention/
+  - title: Overview
+    url: /framework/overview/
+  - title: Importance
+    url: /framework/components/
+    
+    
+    
+- title: Workplace Learning Resources 
+  url: /resources/
+  
+  sub-links:
+  - title: Overview
+    url: /resources/overview/
+  - title: Process
+    url: /resources/process/
+  - title: People
+    url: /resources/people/
+  - title: System
+    url: //resources/system/
+    
   
   
-- title: Resources
-  url: /resources/all
+- title: Media
+  url: /media/all
   
   sub-links:
   - title: All
@@ -47,5 +52,13 @@
   - title: Videos
     url: /resources/videos
     
+    
+    
 - title: Contact Us
   url: /contact-us/
+  
+  sub-links:
+  - title: Website-Related
+    url: /contact-us/website
+  - title: Others
+    url: /contact-us/others
