@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Workplace Learning
+title: Overview of Workplace Learning
 permalink: /workplace-learning/overview/
 breadcrumb: overview
 collection_name: workplace-learning
