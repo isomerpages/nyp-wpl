@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: About Workplace Learning
 permalink: /workplace-learning/overview/
-breadcrumb: workplace-learning
+breadcrumb: overview
 collection_name: workplace-learning
 ---
 
