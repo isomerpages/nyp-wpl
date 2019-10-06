@@ -5,7 +5,7 @@
 ##################################
 
 - title: About Workplace Learning
-  url: /workplace-learning/
+  url: /workplace-learning/overview/
   
   sub-links:
   - title: Overview
@@ -16,7 +16,7 @@
   
   
 - title: National Workplace Learning Framework
-  url: /framework/
+  url: /framework/overview/
   
   sub-links:
   - title: Overview
@@ -27,7 +27,7 @@
     
     
 - title: Workplace Learning Resources 
-  url: /resources/
+  url: /resources/overview/
   
   sub-links:
   - title: Overview
@@ -56,9 +56,4 @@
     
 - title: Contact Us
   url: /contact-us/
-  
-  sub-links:
-  - title: Website-Related
-    url: /contact-us/website
-  - title: Others
-    url: /contact-us/others
+
