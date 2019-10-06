@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Workplace Learning
+title: Importance of Workplace Learning
 permalink: /workplace-learning/importance/
 breadcrumb: workplace-learning
 collection_name: workplace-learning
