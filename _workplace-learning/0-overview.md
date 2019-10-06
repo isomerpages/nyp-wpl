@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Workplace Learning
-permalink: /about/workplace-learning/
+permalink: /workplace-learning/overview/
 breadcrumb: workplace-learning
 collection_name: workplace-learning
 ---
