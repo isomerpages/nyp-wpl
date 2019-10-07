@@ -19,41 +19,41 @@ collection_name: framework
 
 
 <a name="S"></a>
-#### STRATEGY
+### STRATEGY
 
 XXXXXXXXXXXXXXXX
 
 
 
 <a name="P"></a>
-#### PLANNING
+### PLANNING
 
 XXXXXXXXXXXXXXXX
 
 
 
 <a name="L"></a>
-#### LEADERSHIP
+### LEADERSHIP
 
 XXXXXXXXXXXXXXXX
 
 
 
 <a name="I"></a>
-#### IMPLEMENTATION & PROCESSES
+### IMPLEMENTATION & PROCESSES
 
 XXXXXXXXXXXXXXXX
 
 
 
 <a name="T"></a>
-#### TRAINING NEEDS ANALYSIS
+### TRAINING NEEDS ANALYSIS
 
 XXXXXXXXXXXXXXXX
 
 
 
 <a name="E"></a>
-#### ENVIRONMENT
+### ENVIRONMENT
 
 XXXXXXXXXXXXXXXX
