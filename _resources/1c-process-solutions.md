@@ -7,12 +7,10 @@ collection_name: resources
 second_nav_title: "PROCESS Intervention"
 ---
 
-
+# **Here are some possible Workplace Learning Solutions:**
 
 -------------------
-
-### [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#other)| 
-
+###### [Training Solutions](#training) | [Consultancy Solutions](#consultancy) | [Other Resources](#others) | 
 -------------------
 
 
@@ -30,16 +28,16 @@ second_nav_title: "PROCESS Intervention"
 <a name="consultancy"></a>
 
 ## Consultancy Solutions
-1. <br>
+1.
 2.
 
 
 -------------------
 
-<a name="other"></a>
+<a name="others"></a>
 
 ## Other Resources
-1. <br>
+1. 
 2.
 
 
