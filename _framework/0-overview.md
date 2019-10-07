@@ -6,7 +6,7 @@ breadcrumb: overview
 collection_name: framework
 ---
 
-# **Overview of National Workplace Learning Framework**
+# **Overview of National Workplace Learning Framework (Largest font in BOLD)**
 
-#### This is the National Workplace Learning Framework consisting of 6 components.
+#### *This is the National Workplace Learning Framework consisting of 6 components (smallest font in itallics).*
 
