@@ -8,7 +8,7 @@ second_nav_title: "PROCESS Intervention"
 ---
 
 
-## **Structured Workplace Learning Solutions can be applied to the following situations:**
+#### **Structured Workplace Learning Solutions can be applied to the following situations:**
 
 -------------------
 
