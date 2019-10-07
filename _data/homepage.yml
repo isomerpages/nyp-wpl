@@ -67,9 +67,13 @@ info-sections:
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
                          * High turnover rate
-                      
+                     
     section-more-button: CLICK HERE FOR AVAILABLE RESOURCES
     section-more-button-url: /resources/process-benefits
+    section-image-path: /images/documentation.jpg   
+    
+    section-more-button: LEARN MORE
+    section-more-button-url: /resources/process-applications
     section-image-path: /images/documentation.jpg
     
     
