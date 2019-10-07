@@ -49,13 +49,13 @@ key-highlights:
 info-sections:
   - section-title: Structured Workplace Learning Solutions 
     section-subtitle: My company lacks proper training documentations and structured training <br>
-    section-description: Possible characteristics of a company in need of structured process interventions* <br>
+    section-description: Possible characteristics of a company in need of structured process interventions <br>
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
                          * High turnover rate
                       
-    section-more-button: Click here for available resources
+    section-more-button: CLICK HERE FOR AVAILABLE RESOURCES
     section-more-button-url: /resources/process/
     section-image-path: /images/documentation.jpg
     
@@ -63,23 +63,23 @@ info-sections:
     
   - section-title: Capability Development
     section-subtitle: My company lacks capable manpower to properly guide my employees
-    section-description: Characteristics <br>
+    section-description: Possible characteristics of a company in need of people development <br>
                          * Already have OJT in place but no one to provide guidance <br>
                          * Do not have assessment criteria to determine competency of employee <br>
                          * Employee not ready for leadership <br>
                       
-    section-more-button: Click here for available resources
-    section-more-button-url: /phases/phase-two/
+    section-more-button: FIND OUT MORE
+    section-more-button-url: /resources/people/
     section-image-path: /images/gears.jpg
     
     
     
   - section-title: Sustainable Workplace Learning Framework
     section-subtitle: My company wants to enhance the existing training system
-    section-description: Characteristics
+    section-description: Possible characteristics of a company in need of a full training system <br>
                                       
     section-more-button: LEARN MORE
-    section-more-button-url: /phases/phase-one/
+    section-more-button-url: /resources/system/
     section-image-path: /images/gears.jpg   
     
     
