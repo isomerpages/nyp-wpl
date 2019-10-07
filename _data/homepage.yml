@@ -10,6 +10,8 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/framework.jpg
 
+notification: A Journey Towards Implementing Workplace Learning <a href="/register/">Register now</a>
+
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
 hero-subtitle: A Common Landing Page for companies to learn more about the resources available <br> for them to embark on their Workplace Learning journey
@@ -18,21 +20,20 @@ hero-banner: /images/wpl.jpg
 # Call to Action Button
 button:
   - text: Find Out More
-    url: /about/workplace-learning
+    url: /workplace-learning/overview
     
 key-highlights:
   - title: About Workplace Learning
     description: -- A Common Landing Page for companies --
-    url: /about/workplace-learning
-    
-    
-    
+    url: /workplace-learning/overview
     
     
     
   - title: Workplace Learning Phases and the Resources available
     description: -- xxx --
     url: /nace/about-nace/
+    
+    
     
   - title: Workplace Learning in pictures
     description: -- xxx --
@@ -46,21 +47,18 @@ key-highlights:
     
 # Info Sections
 info-sections:
-  - section-title:  
-    section-subtitle: A Journey Towards Implementing Workplace Learning <br>
-                      <br>
-                      PHASE ONE of Workplace Learning in company <br>
-    section-description: Company lacks structured training <br>
-                         <br>
-                         Some characteristics of a company under PHASE ONE of Workplace Learning <br>
+  - section-title: Structured Workplace Learning Solutions 
+    section-subtitle: My company lacks proper training documentations and structured training <br>
+    section-description: Possible characteristics of a company in need of structured process interventions <br>
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
                          * High turnover rate
                       
     section-more-button: Click here for available resources
-    section-more-button-url: /phases/phase-one/
+    section-more-button-url: /resources/process/
     section-image-path: /images/documentation.jpg
+    
     
     
   - section-title: PHASE TWO of Workplace Learning
@@ -73,6 +71,7 @@ info-sections:
     section-more-button: Click here for available resources
     section-more-button-url: /phases/phase-two/
     section-image-path: /images/gears.jpg
+    
     
     
   - section-title: For PROCESS efficiency
