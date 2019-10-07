@@ -9,7 +9,7 @@ collection_name: framework
 
 
 
-#### **Six components of the National Workplace Learning Framework:**
+# **Six components of the National Workplace Learning Framework:**
 
 -------------------
 
