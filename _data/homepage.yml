@@ -18,7 +18,7 @@ hero-subtitle: A Common Landing Page for companies to learn more about the resou
 hero-banner: /images/wpl.jpg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "A Journey towards Workplace Learning..."
+hero-dropdown-text: "A Journey towards implementing Workplace Learning..."
 
 # I want to dropdown
 i-want-to:
@@ -29,11 +29,6 @@ i-want-to:
   - title: C
     url: /users/ngo/
 
-
-# Call to Action Button
-button:
-  - text: Find Out More
-    url: /workplace-learning/overview
     
 key-highlights:
   - title: About Workplace Learning
@@ -41,7 +36,7 @@ key-highlights:
     url: /workplace-learning/overview
     
     
-    
+ 
   - title: Workplace Learning Phases and the Resources available
     description: -- xxx --
     url: /nace/about-nace/
