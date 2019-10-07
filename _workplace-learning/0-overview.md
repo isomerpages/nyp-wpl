@@ -15,3 +15,4 @@ XXXXXXXXXXXX
 XXXXXXXXXXXX
 
 
+![Workplace Learning Model](/images/702010.png)
