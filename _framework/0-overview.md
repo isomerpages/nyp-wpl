@@ -7,9 +7,10 @@ collection_name: framework
 ---
 
 # **Overview of National Workplace Learning Framework**
-# **(Largest font in BOLD)
+# **(Largest font in BOLD)**
 
-#### *This is the National Workplace Learning Framework consisting of 6 components (smallest font in itallics).*
+#### *This is the National Workplace Learning Framework consisting of 6 components.*
+#### *(smallest font in itallics)*
 
 ![National Workplace Learning Framework](/images/framework.jpg)
 <caption>National Workplace Learning Framework</caption>
