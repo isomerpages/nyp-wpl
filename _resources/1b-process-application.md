@@ -18,6 +18,7 @@ second_nav_title: "PROCESS Intervention"
 
 <a name="1"></a>
 ### New Start-up Company
+![New Start-up Company](/images/onboarding.jpg)
 
 * I have a new company and I do not have any SOPs in place for my operations. 
 * I just hired a group of new employees and it takes time to train them, affecting the productivitiy of my operations.
