@@ -51,6 +51,8 @@ key-highlights:
   - title: Workplace Learning in pictures
     description: -- xxx --
     url: /nace/about-nace/
+    
+    
     ##################
  #
  #  - title: Outreach Events
@@ -60,9 +62,9 @@ key-highlights:
     
 # Info Sections
 info-sections:
-  - section-title: Structured Workplace Learning Solutions 
+  - section-title: PROCESS Intervention - Structured Workplace Learning Solutions 
     section-subtitle: My company lacks proper training documentations and structured training <br>
-    section-description: Possible characteristics of a company in need of structured process interventions <br>
+    section-description: Possible characteristics of a company in need of Structured Workplace Learning Solutions <br>
                          <br>
     
                          * Brand new start-up <br>
@@ -76,9 +78,9 @@ info-sections:
     
     
     
-  - section-title: Capability Development
+  - section-title: PEOPLE Intervention - Capability Development
     section-subtitle: My company lacks capable manpower to properly guide my employees
-    section-description: Possible characteristics of a company in need of people development <br>
+    section-description: Possible characteristics of a company in need of Capability Development for the employees <br>
                          <br>
        
                          * Already have OJT in place but no one to provide guidance <br>
@@ -91,9 +93,9 @@ info-sections:
     
     
     
-  - section-title: Sustainable Workplace Learning Framework
-    section-subtitle: My company wants to transform into a full training system
-    section-description: Possible characteristics of a company in need of a full training system <br>
+  - section-title: SYSTEM Intervention - Sustainable Workplace Learning Framework
+    section-subtitle: My company wants to transform and have a full training system
+    section-description: Possible characteristics of a company in need of a Sustainable Workplace Learning Framework <br>
                          <br>
        
                          * XXX <br>
