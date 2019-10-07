@@ -17,6 +17,19 @@ hero-title: Workplace Learning@SG <br> Be Future-Ready
 hero-subtitle: A Common Landing Page for companies to learn more about the resources available <br> for them to embark on their Workplace Learning journey
 hero-banner: /images/wpl.jpg
 
+# Hero Dropdown Main Text
+hero-dropdown-text: "A Journey towards Workplace Learning..."
+
+# I want to dropdown
+i-want-to:
+  - title: A
+    url: /users/individual/
+  - title: B
+    url: /users/business/
+  - title: C
+    url: /users/ngo/
+
+
 # Call to Action Button
 button:
   - text: Find Out More
