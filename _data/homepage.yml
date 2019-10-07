@@ -74,7 +74,7 @@ info-sections:
                          * High turnover rate
                       
     section-more-button: CLICK HERE FOR AVAILABLE RESOURCES
-    section-more-button-url: /resources/process/benefits
+    section-more-button-url: /resources/process-benefits
     section-image-path: /images/documentation.jpg
     
     
@@ -90,7 +90,7 @@ info-sections:
                          * Employee not ready for leadership <br>      
                       
     section-more-button: FIND OUT MORE
-    section-more-button-url: /resources/people/
+    section-more-button-url: /resources/people-benefits
     section-image-path: /images/gears.jpg
     
     
@@ -107,7 +107,7 @@ info-sections:
                                       
                                       
     section-more-button: LEARN MORE
-    section-more-button-url: /resources/system/
+    section-more-button-url: /resources/system-benefits
     section-image-path: /images/change.jpg   
     
     
