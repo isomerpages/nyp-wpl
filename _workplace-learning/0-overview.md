@@ -15,4 +15,5 @@ XXXXXXXXXXXX
 XXXXXXXXXXXX
 
 
-![Workplace Learning Model](/images/702010.jpg)
+![Learning Model](/images/702010.jpg)
+<caption>70-20-10 Learning Model</caption>
