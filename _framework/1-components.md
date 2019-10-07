@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: framework
+title: Framework
 permalink: /framework/components/
 breadcrumb: components
 collection_name: framework
