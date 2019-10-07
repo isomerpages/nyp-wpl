@@ -49,7 +49,7 @@ key-highlights:
 info-sections:
   - section-title: Structured Workplace Learning Solutions 
     section-subtitle: My company lacks proper training documentations and structured training <br>
-    section-description: Possible characteristics of a company in need of structured process interventions <br>
+    section-description: # *Possible characteristics of a company in need of structured process interventions* <br>
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
@@ -61,9 +61,9 @@ info-sections:
     
     
     
-  - section-title: PHASE TWO of Workplace Learning
-    section-subtitle: My company lacks capable manpower to properly guide my employees.
-    section-description: Characteristics of a company under PHASE TWO of WpL <br>
+  - section-title: Capability Development
+    section-subtitle: My company lacks capable manpower to properly guide my employees
+    section-description: Characteristics <br>
                          * Already have OJT in place but no one to provide guidance <br>
                          * Do not have assessment criteria to determine competency of employee <br>
                          * Employee not ready for leadership <br>
@@ -74,9 +74,9 @@ info-sections:
     
     
     
-  - section-title: For PROCESS efficiency
-    section-subtitle: A need for structured in-company learning solutions
-    section-description: My company lacks proper training documentations
+  - section-title: Sustainable Workplace Learning Framework
+    section-subtitle: My company wants to enhance the existing training system
+    section-description: Characteristics
                                       
     section-more-button: LEARN MORE
     section-more-button-url: /phases/phase-one/
