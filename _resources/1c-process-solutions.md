@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Structured Workplace Learning Solutions 
 permalink: /resources/process-solutions/
-breadcrumb: Workplace Learning Resources - Process Intervention - Application
+breadcrumb: Workplace Learning Resources - Process Intervention - Solutions
 collection_name: resources
 second_nav_title: "Applications of Structured Workplace Learning Solutions"
 ---
