@@ -50,6 +50,8 @@ info-sections:
   - section-title: Structured Workplace Learning Solutions 
     section-subtitle: My company lacks proper training documentations and structured training <br>
     section-description: Possible characteristics of a company in need of structured process interventions <br>
+                         <br>
+    
                          * Brand new start-up <br>
                          * Inadequate SOP in place <br>
                          * Outdated training materials <br>
@@ -64,9 +66,11 @@ info-sections:
   - section-title: Capability Development
     section-subtitle: My company lacks capable manpower to properly guide my employees
     section-description: Possible characteristics of a company in need of people development <br>
+                         <br>
+       
                          * Already have OJT in place but no one to provide guidance <br>
                          * Do not have assessment criteria to determine competency of employee <br>
-                         * Employee not ready for leadership <br>
+                         * Employee not ready for leadership <br>      
                       
     section-more-button: FIND OUT MORE
     section-more-button-url: /resources/people/
@@ -78,10 +82,10 @@ info-sections:
     section-subtitle: My company wants to transform into a full training system
     section-description: Possible characteristics of a company in need of a full training system <br>
                          <br>
-                         * Already have OJT in place but no one to provide guidance <br>
-                         * Do not have assessment criteria to determine competency of employee <br>
-                         * Employee not ready for leadership <br>             
-                                      
+       
+                         * XXX <br>
+                         * XXX <br>
+                         * XXX <br>             
                                       
                                       
     section-more-button: LEARN MORE
