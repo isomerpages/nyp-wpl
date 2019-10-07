@@ -75,12 +75,18 @@ info-sections:
     
     
   - section-title: Sustainable Workplace Learning Framework
-    section-subtitle: My company wants to enhance the existing training system
+    section-subtitle: My company wants to transform into a full training system
     section-description: Possible characteristics of a company in need of a full training system <br>
+                         <br>
+                         * Already have OJT in place but no one to provide guidance <br>
+                         * Do not have assessment criteria to determine competency of employee <br>
+                         * Employee not ready for leadership <br>             
+                                      
+                                      
                                       
     section-more-button: LEARN MORE
     section-more-button-url: /resources/system/
-    section-image-path: /images/gears.jpg   
+    section-image-path: /images/change.jpg   
     
     
 # Careers Section
