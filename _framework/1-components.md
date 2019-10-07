@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Framework
+title: Components of National Workplace Learning Framework
 permalink: /framework/components/
 breadcrumb: components
 collection_name: framework
@@ -9,7 +9,7 @@ collection_name: framework
 
 
 
-### **Six components of the National Workplace Learning Framework:**
+#### **Six components of the National Workplace Learning Framework:**
 
 -------------------
 
