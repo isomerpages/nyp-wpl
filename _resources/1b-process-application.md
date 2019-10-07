@@ -12,7 +12,7 @@ second_nav_title: "PROCESS Intervention"
 
 -------------------
 
-#### [New Start-up Company](#1) | [Keeping Operations Consistent](#2) | [Updating Workplace Training Contents](#3) | 
+##### [New Start-up Company](#1) | [Keeping Operations Consistent](#2) | [Updating Workplace Training Contents](#3) | 
 -------------------
 
 
