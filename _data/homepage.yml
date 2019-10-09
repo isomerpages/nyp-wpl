@@ -85,7 +85,7 @@ info-sections:
                          * Employee not ready for leadership <br>      
                       
     section-more-button: FIND OUT MORE
-    section-more-button-url: /resources/people-benefits
+    section-more-button-url: /resources/people
     section-image-path: /images/gears.jpg
     
     
@@ -102,7 +102,7 @@ info-sections:
                                       
                                       
     section-more-button: LEARN MORE
-    section-more-button-url: /resources/system-benefits
+    section-more-button-url: /resources/system
     section-image-path: /images/change.jpg   
     
     
