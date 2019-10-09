@@ -22,12 +22,12 @@ hero-dropdown-text: "A Journey towards implementing Workplace Learning..."
 
 # I want to dropdown
 i-want-to:
-  - title: A
-    url: /users/individual/
-  - title: B
-    url: /users/business/
-  - title: C
-    url: /users/ngo/
+  - title: Process
+    url: /resources/process-benefits
+  - title: People
+    url: /resources/people
+  - title: System
+    url: /resources/system
 
     
 key-highlights:
