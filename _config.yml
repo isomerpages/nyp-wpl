@@ -52,13 +52,4 @@ collections:
   resources:
     output: true 
     
-    
-  phases:
-    output: true
-  category-2:
-    output: true
-  about-us:
-    output: true
-  training:
-    output: true
-resources_name: events
+resources_name: media
