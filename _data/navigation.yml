@@ -46,7 +46,7 @@
   
   sub-links:
   - title: All
-    url: /media/all
+    url: /media/
   - title: Infographics
     url: /media/infographics
   - title: News
