@@ -105,12 +105,24 @@ info-sections:
     section-more-button-url: /resources/system
     section-image-path: /images/change.jpg   
     
-    
-    
+ 
+ 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-subtitle: Hear from them
 careers-description: Why is Workplace Learning important?
+
+
+
+# Resources
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Information
+resources-more-button-url: media/
+
+
+    
+
 
 
 # Programmes Section
