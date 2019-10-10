@@ -18,12 +18,12 @@ hero-subtitle: For companies to learn more about the resources available <br> to
 hero-banner: /images/wpl.jpg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "A Journey towards implementing Workplace Learning..."
+hero-dropdown-text: "Solutions towards implementing Workplace Learning..."
 
 # I want to dropdown
 i-want-to:
   - title: Process
-    url: /resources/process-benefits
+    url: /resources/process-solutions
   - title: People
     url: /resources/people
   - title: System
