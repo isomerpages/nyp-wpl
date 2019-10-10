@@ -29,7 +29,7 @@ New staff typically need time to settle in and understand their job role and wor
 When new staff are able to know their roles well and start contributing in meaningful ways to their teams, productivity is enhanced, and a staff’s sense of belonging can strengthen leading to a good work environment. 
 
 
-## *Click [here](https://nyp-nace-staging.netlify.com/resources/process-solutions/){:target="_blank"} for possible solutions.
+### *Click [here](https://nyp-nace-staging.netlify.com/resources/process-solutions/){:target="_blank"} for possible solutions.*
 
 
 [Back to top](#top)
