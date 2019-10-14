@@ -1,16 +1,68 @@
 ---
 layout: leftnav-page-content
-title: Overview of National Workplace Learning Framework
-permalink: /framework/overview/
-breadcrumb: overview
+title: National Workplace Learning Framework
+permalink: /framework/
+breadcrumb: framework
 collection_name: framework
 ---
 
-# **Overview of National Workplace Learning Framework**
-# **(Largest font in BOLD)**
+# **National Workplace Learning Framework**
 
-#### *This is the National Workplace Learning Framework consisting of 6 components.*
-#### *(smallest font in itallics)*
+#### *The National Workplace Learning Framework consists of 6 components.*
+
 
 ![National Workplace Learning Framework](/images/framework.jpg)
 <caption>National Workplace Learning Framework</caption>
+
+# **Six components of the National Workplace Learning Framework:**
+
+-------------------
+
+[STRATEGY](#S) | [PLANNING](#P) | [LEADERSHIP](#L) | [IMPLEMENTATION & PROCESSES](#I) | [TRAINING NEEDS ANALYSIS](#T) | [ENVIRONMENT](#E) | 
+
+-------------------
+
+
+<a name="S"></a>
+### STRATEGY
+
+XXXXXXXXXXXXXXXX
+
+[Back to top](#top)
+
+<a name="P"></a>
+### PLANNING
+
+XXXXXXXXXXXXXXXX
+
+
+
+<a name="L"></a>
+### LEADERSHIP
+
+XXXXXXXXXXXXXXXX
+
+
+
+<a name="I"></a>
+### IMPLEMENTATION & PROCESSES
+
+XXXXXXXXXXXXXXXX
+
+
+
+<a name="T"></a>
+### TRAINING NEEDS ANALYSIS
+
+XXXXXXXXXXXXXXXX
+
+
+
+<a name="E"></a>
+### ENVIRONMENT
+
+XXXXXXXXXXXXXXXX
+
+
+
+[Back to top](#top)
