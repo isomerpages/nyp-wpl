@@ -10,49 +10,52 @@
   sub-links:
   - title: Overview
     url: /workplace-learning/overview/
-  - title: Importance
-    url: /workplace-learning/importance/
+  - title: Benefits
+    url: /workplace-learning/benefits/
+  - title: Success Stories
+    url: /workplace-learning/success-stories/
   
   
   
 - title: National Workplace Learning Framework
-  url: /framework/overview/
+  url: /framework/
+  
+  sub-links:
+  - title: framework
+    url: /framework/
+
+    
+    
+- title: Workplace Learning Implementations 
+  url: /implementations/overview/
   
   sub-links:
   - title: Overview
-    url: /framework/overview/
-  - title: Components
-    url: /framework/components/
+    url: /implementations/overview/
     
+  - title: PEOPLE
+    url: /implementations/people-applications/   
     
-    
-- title: Workplace Learning Solutions 
-  url: /resources/overview/
-  
-  sub-links:
-  - title: Overview
-    url: /resources/overview/
-  - title: PROCESS Intervention
-    url: /resources/process-benefits/ 
-  - title: PEOPLE Intervention
-    url: /resources/people/
-  - title: SYSTEM Intervention
-    url: /resources/system/
+  - title: PROCESS
+    url: /implementations/process-applications/ 
+
+  - title: SYSTEM
+    url: /implementations/system-applications/
     
 
   
 - title: Resources
-  url: /media/
+  url: /resources/
   
   sub-links:
   - title: All
-    url: /media/
+    url: /resources/
   - title: Infographics
-    url: /media/infographics
+    url: /resources/infographics
   - title: News
-    url: /media/news
+    url: /resources/news
   - title: Videos
-    url: /media/videos
+    url: /resources/videos
     
     
     
