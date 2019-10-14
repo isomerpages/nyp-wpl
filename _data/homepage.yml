@@ -10,8 +10,18 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/framework.jpg
 
-# Notification
-notification: A Journey Towards Implementing Workplace Learning
+# Image to appear on all pages when shared via WhatsApp, Facebook, etc
+shareicon: /images/framework.jpg
+
+
+
+############################################################################################################
+# (GovTech to assist to remove)
+# # Notification 
+# notification: A Journey Towards Implementing Workplace Learning
+############################################################################################################
+
+
 
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
@@ -21,19 +31,18 @@ hero-banner: /images/wpl.jpg
 
 
 ############################################################################################################
-
-# Hero Dropdown Main Text
-hero-dropdown-text: "Solutions towards implementing Workplace Learning test..."
+# (Function not needed)
+# # Hero Dropdown Main Text
+# hero-dropdown-text: "Solutions towards implementing Workplace Learning..."
 
 # I want to dropdown
-i-want-to:
-  - title: Process
-    url: /resources/process-solutions
-  - title: People
-    url: /resources/people
-  - title: System
-    url: /resources/system
-
+# i-want-to:
+#  - title: Process
+#    url: /resources/process-solutions
+#  - title: People
+#    url: /resources/people
+#  - title: System
+#    url: /resources/system
 ############################################################################################################
 
 
@@ -41,16 +50,13 @@ i-want-to:
 # Key Highlights  
 key-highlights:
   - title: About Workplace Learning
-    description: -- A Common Landing Page for companies --
+    description: A Common Landing Page for companies
     url: /workplace-learning/overview
     external: true
     
-    ##################
- #
- #  - title: Outreach Events
- #   description: --Advocating Workplace Learning--
-  #  url: "https://yahoo.com"
-   # external: true
+############################################################################################################
+    
+    
     
 # Info Sections
 info-sections:
