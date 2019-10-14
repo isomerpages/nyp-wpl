@@ -71,8 +71,8 @@ info-sections:
                          * Outdated training materials <br>
                          
                      
-    section-more-button: CLICK HERE FOR AVAILABLE RESOURCES
-    section-more-button-url: /resources/process-benefits
+    section-more-button: CLICK HERE FOR POSSIBLE SOLUTIONS
+    section-more-button-url: /solutions/process-benefits
     section-image-path: /images/documentation.jpg   
       
     
@@ -88,7 +88,7 @@ info-sections:
                          * Employee not ready for leadership <br>      
                       
     section-more-button: FIND OUT MORE
-    section-more-button-url: /resources/people
+    section-more-button-url: /solutions/people
     section-image-path: /images/gears.jpg
     
     
@@ -105,7 +105,7 @@ info-sections:
                                       
                                       
     section-more-button: LEARN MORE
-    section-more-button-url: /resources/system
+    section-more-button-url: /solutions/system
     section-image-path: /images/change.jpg   
     
  
@@ -118,10 +118,10 @@ careers-description: Why is Workplace Learning important?
 
 
 # Resources
-resources-title: Media
+resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Information
-resources-more-button-url: media/
+resources-more-button-url: resources/
 
 
     
