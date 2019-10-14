@@ -45,9 +45,8 @@ hero-banner: /images/wpl.jpg
 #    url: /resources/system
 ############################################################################################################
 
-
-
-# Key Highlights  
+# (Function not needed)
+# # Key Highlights  
 key-highlights:
   - title: About Workplace Learning
     description: A Common Landing Page for companies
@@ -60,10 +59,30 @@ key-highlights:
     
 # Info Sections
 info-sections:
-  - section-title: PROCESS Intervention - <br>
-                   Structured Workplace Learning Solutions 
+    
+    
+    
+  - section-title: PEOPLE - <br>
+                   Enhancing Capability Development
+    section-subtitle: My company lacks capable manpower to properly guide my employees
+    section-description: Typical challenges of a company in need of Capability Development for the employees <br>
+                         <br>
+       
+                         * Employee not ready for leadership <br>   
+                         * New employee have no one to provide guidance to <br>
+                         * Do not have assessment criteria to determine competency of employee <br>
+                          
+                      
+    section-more-button: CLICK HERE FOR POSSIBLE SOLUTIONS
+    section-more-button-url: /implementations/people
+    section-image-path: /images/gears.jpg
+    
+    
+    
+  - section-title: PROCESS - <br>
+                   Implementing Structured Workplace Learning Solutions 
     section-subtitle: My company lacks proper training documentations and structured training <br>
-    section-description: Possible characteristics of a company in need of Structured Workplace Learning Solutions <br>
+    section-description: Typical challenges of a company in need of Structured Workplace Learning Solutions <br>
                          <br>
     
                          * Brand new start-up <br>
@@ -72,31 +91,15 @@ info-sections:
                          
                      
     section-more-button: CLICK HERE FOR POSSIBLE SOLUTIONS
-    section-more-button-url: /solutions/process-benefits
-    section-image-path: /images/documentation.jpg   
-      
+    section-more-button-url: /implementations/process
+    section-image-path: /images/documentation.jpg
     
     
-  - section-title: PEOPLE Intervention - <br>
-                   Capability Development
-    section-subtitle: My company lacks capable manpower to properly guide my employees
-    section-description: Possible characteristics of a company in need of Capability Development for the employees <br>
-                         <br>
-       
-                         * Already have OJT in place but no one to provide guidance <br>
-                         * Do not have assessment criteria to determine competency of employee <br>
-                         * Employee not ready for leadership <br>      
-                      
-    section-more-button: FIND OUT MORE
-    section-more-button-url: /solutions/people
-    section-image-path: /images/gears.jpg
-    
-    
-    
-  - section-title: SYSTEM Intervention - <br>
-                   Sustainable Workplace Learning Framework
-    section-subtitle: My company wants to transform and have a full training system
-    section-description: Possible characteristics of a company in need of a Sustainable Workplace Learning Framework <br>
+ 
+  - section-title: SYSTEM - <br>
+                   Building Sustainable Workplace Learning Framework
+    section-subtitle: My company lacks a robust training system
+    section-description: Typical challenges of a company in need of Sustainable Workplace Learning Framework <br>
                          <br>
        
                          * XXX <br>
@@ -127,6 +130,7 @@ resources-more-button-url: resources/
     
 
 
+############################################################################################################
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
@@ -135,3 +139,6 @@ scenarios-subtitle: Public Consultation on Zero Waste Masterplan
 scenarios-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
 scenarios-more-button: More
 scenarios-more-button-url: /consultation/
+
+
+############################################################################################################
