@@ -10,6 +10,7 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/framework.jpg
 
+# Notification
 notification: A Journey Towards Implementing Workplace Learning <a href="/register/">Register now</a>
 
 # Hero Banner
@@ -29,7 +30,7 @@ i-want-to:
   - title: System
     url: /resources/system
 
-    
+# Key Highlights  
 key-highlights:
   - title: About Workplace Learning
     description: -- A Common Landing Page for companies --
