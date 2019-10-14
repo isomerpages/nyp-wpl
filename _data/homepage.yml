@@ -96,7 +96,7 @@ info-sections:
     
     
  
-  - section-title: SYSTEM - <br>
+  - section-title: SYSTEMS - <br>
                    Building Sustainable Workplace Learning Framework
     section-subtitle: My company lacks a robust and reliable training system
     section-description: Typical challenges of a company in need of Sustainable Workplace Learning Framework <br>
@@ -108,7 +108,7 @@ info-sections:
                                       
                                       
     section-more-button: LEARN MORE
-    section-more-button-url: /solutions/system
+    section-more-button-url: /implementations/systems
     section-image-path: /images/change.jpg   
     
  
