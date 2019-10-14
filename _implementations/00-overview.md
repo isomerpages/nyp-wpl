@@ -7,4 +7,4 @@ collection_name: implementations
 ---
 
 
-## **Overview of Workplace Learning Implementations**
+![People - Process - Systems Interventions](/images/pps.jpg)
