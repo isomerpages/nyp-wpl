@@ -11,15 +11,19 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/framework.jpg
 
 # Notification
-notification: A Journey Towards Implementing Workplace Learning <a href="/register/">Register now</a>
+notification: A Journey Towards Implementing Workplace Learning
 
 # Hero Banner
 hero-title: Workplace Learning@SG <br> Be Future-Ready
 hero-subtitle: For companies to learn more about the resources available <br> to embark on their Workplace Learning journey
 hero-banner: /images/wpl.jpg
 
+
+
+############################################################################################################
+
 # Hero Dropdown Main Text
-hero-dropdown-text: "Solutions towards implementing Workplace Learning..."
+hero-dropdown-text: "Solutions towards implementing Workplace Learning test..."
 
 # I want to dropdown
 i-want-to:
@@ -30,12 +34,16 @@ i-want-to:
   - title: System
     url: /resources/system
 
+############################################################################################################
+
+
+
 # Key Highlights  
 key-highlights:
   - title: About Workplace Learning
     description: -- A Common Landing Page for companies --
     url: /workplace-learning/overview
-    
+    external: true
     
     ##################
  #
