@@ -48,10 +48,10 @@ hero-banner: /images/wpl.jpg
 # (Function not needed)
 # # Key Highlights  
 # key-highlights:
-  - title: About Workplace Learning
-    description: A Common Landing Page for companies
-    url: /workplace-learning/overview
-    external: true
+#  - title: About Workplace Learning
+#    description: A Common Landing Page for companies
+#    url: /workplace-learning/overview
+#    external: true
     
 ############################################################################################################
     
