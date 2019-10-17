@@ -4,7 +4,7 @@ title: PEOPLE - Enhancing Capability Development
 permalink: /implementations/people/
 breadcrumb: Workplace Learning Implementations - People
 collection_name: implementations
-second_nav_title: "PEOPLE"
+second_nav_title: "PEOPLE - Enhancing Capability Development"
 ---
 
 
