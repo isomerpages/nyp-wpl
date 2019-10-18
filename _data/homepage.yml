@@ -77,7 +77,7 @@ info-sections:
     section-more-button: CLICK HERE FOR POSSIBLE SOLUTIONS <br>
                          TO ENHANCE CAPABILITY DEVELOPMENT
     section-more-button-url: /implementations/people
-    section-image-path: /images/gears.jpg
+    section-image-path: /images/team.jpg
     
     
     
@@ -111,7 +111,7 @@ info-sections:
                                       
     section-more-button: LEARN MORE
     section-more-button-url: /implementations/systems
-    section-image-path: /images/change.jpg   
+    section-image-path: /images/gears.jpg   
     
  
  
