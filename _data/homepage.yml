@@ -66,16 +66,18 @@ info-sections:
                    Enhancing Capability Development
     section-subtitle: My company lacks capable manpower to properly guide my employees
     section-description: <br>
-                         Typical challenges of a company in need of Capability Development for the employees <br>
+                         Typical challenges of a company in need of <br>
+                         Capability Development for the employees <br>
                          <br>
        
                          * Employee not ready for leadership <br>   
-                         * New employee have no one to provide guidance to <br>
+                         * New employee has no one to turn to for guidance <br>
+                         * Lack of skilled manpower to help employee learn and grow <br>
                          * Do not have assessment criteria to determine competency of employee <br>
                         
                       
-    section-more-button: CLICK HERE FOR POSSIBLE SOLUTIONS <br>
-                         TO ENHANCE CAPABILITY DEVELOPMENT
+    section-more-button: CLICK HERE FOR POSSIBLE APPROACHES <br>
+                         TO ENHANCE MANPOWER CAPABILITY DEVELOPMENT
     section-more-button-url: /implementations/people
     section-image-path: /images/team.jpg
     
