@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: PEOPLE IMPLEMENTATION - DEVELOPING PEOPLE THROUGH WORKPLACE LEARNING
+title: Approaches to enhance Capability Development in employees
 permalink: /implementations/people/
 breadcrumb: Workplace Learning Implementations - People
 collection_name: implementations
-second_nav_title: "Approaches to enhance Capability Development"
+second_nav_title: "PEOPLE implementation - Developing PEOPLE through Workplace Learning"
 ---
 
 
