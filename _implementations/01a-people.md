@@ -25,7 +25,7 @@ second_nav_title: "PEOPLE implementation"
 New employees need proper guidance from experienced supervisor to properly train, guide and assist them when in doubt, before they can handle their job role independently. <br>
 Having a competent supervisor, performing the role of a coach, will accelerate the learning process of new employees.
 
-## **Approaches**
+## **Approaches - test table**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
