@@ -26,6 +26,13 @@ New employees need proper guidance from experienced supervisor to properly train
 Having a competent supervisor, performing the role of a coach, will accelerate the learning process of new employees.
 
 ## **Approaches**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-gvnd{background-color:#ecf4ff;border-color:#333333;text-align:center;vertical-align:top}
+</style>
 <table class="tg">
   <tr>
     <td class="tg-gvnd" rowspan="2">Training Programmes</td>
