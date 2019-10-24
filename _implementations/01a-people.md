@@ -9,12 +9,12 @@ second_nav_title: "PEOPLE implementation"
 
 
 
-## **Approaches to enhance Capability Development in employees:**
+### **Approaches to enhance Capability Development in employees:**
 
 -------------------
 
 ##### [New employees have no one to turn to for guidance](#1) |
-##### [Employees have no skilled managers to help them learn and grow](#2) | <br>
+##### [Employees have no skilled managers to help them learn and grow](#2) |
 ##### [Employees have difficulties in adapting to their leadership roles](#3) | 
 -------------------
 
