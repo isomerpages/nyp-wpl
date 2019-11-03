@@ -7,7 +7,7 @@ collection_name: implementations
 ---
 
 
-![People - Process - Systems Interventions](/images/pps.jpg)
+![People - Process - Systems Interventions](/images/teach.jpg)
 
 
 Test text
