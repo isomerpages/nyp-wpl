@@ -10,16 +10,16 @@ collection_name: implementations
 ![People - Process - Systems Interventions](/images/teach.jpg)
 
 
-Test text test
+Test text test text
 
 ---
 
 <div>
 	      <div class="row is-multiline">
-		            <div class="col is-two-third-desktop is-two-third-tablet">
+		            <div class="col is-half-desktop is-half-tablet">
 			                  <a href="/implementations/people"><img src="/images/team.jpg" alt="people"></a>
 		            </div>
-		            <div class="col is-two-third-desktop is-two-third-tablet">
+		            <div class="col is-one-third-desktop is-one-third-tablet">
 			                  <a href="/implementations/process"><img src="/images/documentation.jpg" alt="process"></a>
 		            </div>
 		            <div class="col is-one-third-desktop is-one-third-tablet">
