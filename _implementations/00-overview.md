@@ -35,3 +35,19 @@ testing
 		            </div>
 	      </div>
 </div>
+
+
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/test/s.png" alt="strategy"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/test/l.png" alt="leadership"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/test/p.png" alt="planning"></a>
+		</div>
+	</div>
+</div>
