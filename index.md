@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Your journey towards implementing Workplace Learning at your company
+title: Journey towards implementing Workplace Learning at your company
 permalink: /
 ---
 
