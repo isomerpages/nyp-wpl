@@ -97,3 +97,35 @@ testing
 </p>
 
 --------------------------
+
+
+#### **Wpl Framework**
+<div class="row">
+	<div class="col is-6">
+		  <figure style="margin:0;">
+			<img src="/images/test/p.png" alt="Planning">
+			<figcaption>Planning caption</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/test/s.png" alt="Strategy (no caption below)">
+		</figure>
+	</div>
+</div>
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/test/l.png" alt="Leadership">
+			<figcaption>The company establish policies</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			test text
+		</p>
+	</div>
+</div>
+
+--------------------------------------------------
+
