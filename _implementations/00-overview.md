@@ -36,7 +36,7 @@ testing
 	      </div>
 </div>
 
-
+---
 
 <div>
 	<div class="row is-multiline">
@@ -51,3 +51,28 @@ testing
 		</div>
 	</div>
 </div>
+
+---
+
+### **Strategy**
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/test/s.png" alt="Strategy"/>
+			<figcaption>WpL Framework - Strategy</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>
+            Strategy includes:
+            <ul>
+                <li>1. </li>
+                <li>2. </li>
+            </ul>
+		</p>
+	</div>
+</div>
+
+---
+
+
