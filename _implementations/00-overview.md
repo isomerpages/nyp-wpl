@@ -140,7 +140,7 @@ testing
     </div>
  <div class="col is-6">
         <figure>
-            <img src="/images/teach.jpg" alt="teach">
+            <a href="/implementations/process"><img src="/images/test/l.png" alt="Leadership"></a>
             <figcaption class="has-text-weight-bold" style="color:#814227">short caption</figcaption>
             Long text
         </figure>
