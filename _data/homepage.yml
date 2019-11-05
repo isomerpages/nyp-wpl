@@ -10,6 +10,13 @@ favicon: /images/framework-icon.ico
 # Agency logo
 agency-logo: /images/framework-logo.png
 
+
+###############################################################################################################################
+# Notification (For text at top notification of main page, go to /index.md)
+notification: A Journey towards implementing Workplace Learning
+###############################################################################################################################
+
+
 # Image to appear on all pages when shared via WhatsApp, Facebook, etc
 shareicon: /images/framework-logo.png
 
