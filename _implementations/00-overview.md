@@ -12,7 +12,7 @@ collection_name: implementations
 
 testing
 
----
+---------------------------------------
 
 <div>
         <div class="row is-multiline">
@@ -36,7 +36,7 @@ testing
 	      </div>
 </div>
 
----
+-------------------------------------------
 
 <div>
 	<div class="row is-multiline">
@@ -52,7 +52,7 @@ testing
 	</div>
 </div>
 
----
+--------------------------------------------
 
 ### **Strategy**
 <div class="row">
@@ -73,6 +73,27 @@ testing
 	</div>
 </div>
 
----
+------------------------------------------
 
 
+#### **Leadership**
+<div class="row reverse-row-order">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/test/l.png" alt="Leadership"/>
+		</figure>
+	</div>
+	<div class="col is-6">
+		<p>
+			Leadership xxxxxxxxxxxx
+			<br />
+		</p>
+	</div>
+</div>
+<p>
+	xxxxxxxxxxxxxxx
+	<br />
+	test
+</p>
+
+--------------------------
