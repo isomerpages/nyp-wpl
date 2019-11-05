@@ -18,7 +18,7 @@ testing
         <div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/implementations/process" class="project-link">
-				<img src="/images/s.png" alt="Strategy" class="project-image">
+				<img src="/images/test/s.png" alt="Strategy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Strategy</b></h5>
@@ -28,10 +28,10 @@ testing
 	   
 		 </div>
 		 <div class="col is-one-third-desktop is-one-third-tablet">
-			 <a href="/implementations/process"><img src="/images/l.png" alt="process"></a>
+			 <a href="/implementations/process"><img src="/images/test/l.png" alt="process"></a>
 		 </div>
 		 <div class="col is-one-third-desktop is-one-third-tablet">
-			 <a href="/implementations/system"><img src="/images/p.png" alt="system"></a>
+			 <a href="/implementations/system"><img src="/images/test/p.png" alt="system"></a>
 		            </div>
 	      </div>
 </div>
