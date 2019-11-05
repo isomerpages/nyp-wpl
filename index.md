@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Workplace Learning at SG
+title: Your journey towards implementing Workplace Learning at your company
 permalink: /
 ---
 
