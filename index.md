@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: NYP NACE
+title: Workplace Learning @ SG
 permalink: /
 ---
 
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
 
-### *A Journey towards implementing Workplace Learning*
+### *A Journey towards implementing Workplace Learning at your company*
