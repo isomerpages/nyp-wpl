@@ -129,3 +129,14 @@ testing
 
 --------------------------------------------------
 
+
+<div class="row">
+    <div class="col is-6">
+        <figure>
+            <img src="/images/gears.jpg" alt="gears">
+            <figcaption class="has-text-weight-bold" style="color:#814997">fun facts with colour code</figcaption>
+            caption about gears
+        </figure>
+    </div>
+	
+---------------------------------------------------
