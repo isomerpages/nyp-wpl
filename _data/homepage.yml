@@ -21,9 +21,14 @@ notification: A Journey towards implementing Workplace Learning
 shareicon: /images/framework-logo.png
 
 # Hero Banner
+hero-title: Workplace Learning @ SG
+hero-subtitle: Embark on your comapany's Workplace Learning journey today!
 hero-banner: /images/wpl.jpg
 
-
+#Call to Action Button
+button:
+  - text: START NOW
+    url: /implementations/overview
 
 ############################################################################################################
 # (Function not needed)
