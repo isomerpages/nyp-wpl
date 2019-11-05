@@ -117,7 +117,8 @@ testing
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/test/l.png" alt="Leadership">
-			<figcaption>The company establish policies</figcaption>
+			<a href="/implementations/process"><img src="/images/test/l.png" alt="Leadership"></a>
+			<figcaption>The company establish policies xxxxxxxxxxxxxxxxxx</figcaption>
 		</figure>
     </div>
 	<div class="col is-6">
