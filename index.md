@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Workplace Learning @ SG
+title: Workplace Learning at SG
 permalink: /
 ---
 
