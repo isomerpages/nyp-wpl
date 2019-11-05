@@ -138,5 +138,12 @@ testing
             caption about gears
         </figure>
     </div>
-</div>	
+ <div class="col is-6">
+        <figure>
+            <img src="/images/teach.jpg" alt="teach">
+            <figcaption class="has-text-weight-bold" style="color:#814227">short caption</figcaption>
+            Long text
+        </figure>
+    </div>
+</div>
 ---------------------------------------------------
