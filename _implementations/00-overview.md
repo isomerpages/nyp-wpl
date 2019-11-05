@@ -138,5 +138,5 @@ testing
             caption about gears
         </figure>
     </div>
-	
+</div>	
 ---------------------------------------------------
