@@ -57,4 +57,4 @@ collections:
   resources:
     output: true 
     
-resources_name: media
+resources_name: resources
