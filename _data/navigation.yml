@@ -10,10 +10,6 @@
   sub-links:
   - title: Overview
     url: /workplace-learning/overview/
-  - title: Benefits
-    url: /workplace-learning/benefits/
-  - title: Success Stories
-    url: /workplace-learning/success-stories/
   
   
   
@@ -29,14 +25,8 @@
   - title: Overview
     url: /implementations/overview/
     
-  - title: PEOPLE
+  - title: Implementation and Processes
     url: /implementations/people/   
-    
-  - title: PROCESS
-    url: /implementations/process/ 
-
-  - title: SYSTEMS
-    url: /implementations/systems/
     
 
   
