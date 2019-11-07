@@ -62,7 +62,18 @@ info-sections:
     
     
     
-  - section-title: PEOPLE implementation - <br>
+  - section-title: Implementation and Processes
+    section-subtitle: Small operation – no time for training!
+    section-description: <br>
+                         I don’t have time to send staff for classroom training as our operations needs full manpower on board. What can I do to help them learn at work?
+                         <br>                      
+    section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
+    section-more-button-url: /implementations/people
+    section-image-path: /images/teach.jpg
+    
+    
+    
+   - section-title: PEOPLE implementation - <br>
                    Developing PEOPLE through Workplace Learning
     section-subtitle: My company lacks capable manpower to properly train and guide my employees
     section-description: <br>
@@ -79,6 +90,3 @@ info-sections:
     section-more-button-url: /implementations/people
     section-image-path: /images/team.jpg
     
-    
-    
- 
