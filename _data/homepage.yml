@@ -59,8 +59,7 @@ button:
     
 # Info Sections
 info-sections:
-
-   - section-title: PEOPLE implementation - <br>
+  - section-title: PEOPLE implementation - <br>
                    Developing PEOPLE through Workplace Learning
     section-subtitle: My company lacks capable manpower to properly train and guide my employees
     section-description: <br>
