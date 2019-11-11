@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview of Workplace Learning Implementations
-permalink: /implementations/overview/
+permalink: /implementations/overview/to hide first
 breadcrumb: Workplace Learning Implementations - Overview
 collection_name: implementations
 ---
