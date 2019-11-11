@@ -59,15 +59,23 @@ button:
     
 # Info Sections
 info-sections:
-  - section-title: Training Needs Analysis
-    section-subtitle: I think my staff can perform better with the right skills.
+  - section-title: (From A) Training Needs Analysis
+    section-subtitle: I think my staff can perform better with <br> the right skills.
     section-description: I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?                   
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/people
     section-image-path: /images/team.jpg
     
 
-
+  - section-title: (From PS) Training Needs Analysis
+    section-subtitle: My staff seem to lack the skills needed to do their job competently. 
+    section-description: I want to improve operational efficiency by increasing staff capabilities; but I am unsure of the specific skills gaps they have.
+    section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
+    section-more-button-url: /implementations/people
+    section-image-path: /images/gears.jpg
+    
+    
+    
   - section-title: OLD VERSION (to ignore) <br>
                    PEOPLE Development - <br>
                    Developing PEOPLE through Workplace Learning
