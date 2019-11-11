@@ -8,8 +8,8 @@ second_nav_title: "Training Needs Analysis"
 ---
 
 
-
-# **Problem Statement: <br> I think my staff can perform better with the right skills.**
+#### Problem Statement:
+# **I think my staff can perform better with the right skills.**
 
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
