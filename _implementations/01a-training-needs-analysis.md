@@ -9,19 +9,19 @@ second_nav_title: "Training Needs Analysis"
 
 
 
-# **Problem Statement: I think my staff can perform better with the right skills.**
+# **Problem Statement: <br> I think my staff can perform better with the right skills.**
 
-### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
+#### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
-Effective training and development of staff depends on knowing what is required for staff capability development. 
+## Effective training and development of staff depends on knowing what is required for staff capability development. 
 
-As most organisations may have limited budgets and time for training, there is a strong need to ensure that the training provided helps close the real skills gaps and help people perform to their full potential. Organisations will then see a positive change in performance, a positive return on investment in training and staff will feel more equipped to do their job well.
+## As most organisations may have limited budgets and time for training, there is a strong need to ensure that the training provided helps close the real skills gaps and help people perform to their full potential. Organisations will then see a positive change in performance, a positive return on investment in training and staff will feel more equipped to do their job well.
 
 
-## **Potential Solutions**
+# **Potential Solutions**
 
-### Training Programmes / Learning Opportunities
-1. [Training Needs and Skills Gap Analysis Programme (Conducted by NACE)](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+## Training Programmes / Learning Opportunities
+1. [Training Needs and Skills Gap Analysis Programme (Conducted by NACE)](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"} <br>
 •	TNA enables organisations to channel resources into the areas where they will contribute the most to employee development, enhancing morale and organisational performance.
 
 2. [Workplace Learning Facilitator Programme (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/other-continuing-and-professional-development/Basics-of-Workplace-Learning-Design.html){:target="_blank"}
