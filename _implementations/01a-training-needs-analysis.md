@@ -11,6 +11,8 @@ second_nav_title: "Training Needs Analysis"
 
 # **I think my staff can perform better with the right skills.**
 
+![Training Needs Analysis](/images/tna.jpg)
+
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
 Effective training and development of staff depends on knowing what is required for staff capability development. 
