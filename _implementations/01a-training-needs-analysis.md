@@ -15,10 +15,6 @@ second_nav_title: "Training Needs Analysis"
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
 		</div>
 		
-<div class="col is-two-third-desktop is-two-third-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
-		
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
 Effective training and development of staff depends on knowing what is required for staff capability development. 
