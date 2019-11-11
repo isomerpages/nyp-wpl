@@ -13,9 +13,9 @@ second_nav_title: "Training Needs Analysis"
 
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
-### Effective training and development of staff depends on knowing what is required for staff capability development. 
+## Effective training and development of staff depends on knowing what is required for staff capability development. 
 
-### As most organisations may have limited budgets and time for training, there is a strong need to ensure that the training provided helps close the real skills gaps and help people perform to their full potential. Organisations will then see a positive change in performance, a positive return on investment in training and staff will feel more equipped to do their job well.
+## As most organisations may have limited budgets and time for training, there is a strong need to ensure that the training provided helps close the real skills gaps and help people perform to their full potential. Organisations will then see a positive change in performance, a positive return on investment in training and staff will feel more equipped to do their job well.
 
 
 # **Potential Solutions**
