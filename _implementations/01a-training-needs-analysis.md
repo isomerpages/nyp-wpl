@@ -11,10 +11,6 @@ second_nav_title: "Training Needs Analysis"
 
 # **I think my staff can perform better with the right skills.**
 
-<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
-		
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
 		</div>
