@@ -24,9 +24,9 @@ second_nav_title: "Training Needs Analysis"
 1. [Training Needs and Skills Gap Analysis Programme (Conducted by NACE)](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"} <br>
 •	TNA enables organisations to channel resources into the areas where they will contribute the most to employee development, enhancing morale and organisational performance.
 
-2. [Workplace Learning Facilitator Programme (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/other-continuing-and-professional-development/Basics-of-Workplace-Learning-Design.html){:target="_blank"}
+2. [Workplace Learning Facilitator (WLF) Programme (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-trainer-programme.html){:target="_blank"}
 
-3. [Certified Workplace Learning Specialist Programme (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/other-continuing-and-professional-development/Basics-of-Workplace-Learning-Design.html){:target="_blank"}
+3. [Certified Workplace Learning Specialist (CWLS) Programme (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
 
 [Back to top](#top)
 
@@ -35,15 +35,15 @@ second_nav_title: "Training Needs Analysis"
 ### Consultancy Services
 1. [Skills Gap Analysis (Conducted by NACE)](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
-2. [Learning Enterprise Alliance (Conducted by IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/other-continuing-and-professional-development/Basics-of-Workplace-Learning-Design.html){:target="_blank"}
+2. [Learning Enterprise Alliance (Conducted by IAL)](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
 
 [Back to top](#top)
 
 
 
 ### Self-Help Resources
-1. [Skills Framework from SkillsFuture Singapore](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+1. [Skills Framework from SkillsFuture Singapore](https://www.skillsfuture.sg/skills-framework){:target="_blank"}
 
-2. [Learning@Work online portal (By IAL)](https://www.ial.edu.sg/learn-at-ial/ial-programmes/other-continuing-and-professional-development/Basics-of-Workplace-Learning-Design.html){:target="_blank"}
+2. [Learning@Work online portal (By IAL)](https://learningatwork.ial.edu.sg/){:target="_blank"}
 
 [Back to top](#top)
