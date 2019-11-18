@@ -12,7 +12,7 @@ collection_name: framework
 
 
 ![National Workplace Learning Framework](/images/framework-header.jpg)
-<caption>National Workplace Learning Framework</caption>
+<caption>National Workplace Learning Framework jpg</caption>
 
 # **Six components of the National Workplace Learning Framework:**
 
