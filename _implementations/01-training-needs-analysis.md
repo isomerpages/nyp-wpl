@@ -4,12 +4,11 @@ title: Potential Solutions - Training Needs Analysis
 permalink: /implementations/training-needs-analysis/
 breadcrumb: Workplace Learning Implementations - Training Needs Analysis
 collection_name: implementations
-second_nav_title: "Training Needs Analysis"
 ---
 
 
 
-# **I think my staff can perform better with the right skills.**
+# **My staff does not seem to have the right skills to do their job well.**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
@@ -17,9 +16,16 @@ second_nav_title: "Training Needs Analysis"
 		
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?* 
 
-Effective training and development of staff depends on knowing what is required for staff capability development. 
+Effective manpower development requires a clear understanding of skills gaps. This will ensure that limited training budget gets allocated to skills interventions that can close actual skills gaps, hence boosting staff morale, engagement and performance on the job.
 
-As most organisations may have limited budgets and time for training, there is a strong need to ensure that the training provided helps close the real skills gaps and help people perform to their full potential. Organisations will then see a positive change in performance, a positive return on investment in training and staff will feel more equipped to do their job well.
+Conducting a Training Needs Analysis include:
+
+- Clarifying the current and future performance requirements for roles in the company
+* Determining the skills gaps in staff’s current knowledge, skills and attitude (KSA)
+Determining  the needs and requirements for workplace learning
+Determining the costs and benefits of workplace learning
+Establishing a total company training plan
+
 
 
 # **Potential Solutions**
