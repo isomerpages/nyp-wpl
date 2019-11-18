@@ -8,7 +8,7 @@ collection_name: implementations
 
 
 
-# **The Manager/Supervisors in my organisation are not able to coach their people well and help them improve their work performance.**
+# **The Managers / Supervisors in my organisation are not able to coach their people well and help them improve their work performance.**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
