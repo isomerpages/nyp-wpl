@@ -66,8 +66,7 @@ info-sections:
     section-more-button-url: /implementations/training-needs-analysis
     section-image-path: /images/tna big.jpg
     
-    
-    
+        
   - section-title: (From A) Implementation and Processes
     section-subtitle: Sending my staff out for training disrupts my work operations!
     section-description: I don’t have time to send staff for classroom training as our operations need full manpower on board. What can I do to help them learn at work?
@@ -75,7 +74,6 @@ info-sections:
     section-more-button-url: /implementations/training-needs-analysis
     section-image-path: /images/tna big.jpg
     
-
 
   - section-title: (From A) Leadership
     section-subtitle: The Manager/Supervisors in my organisation are not able to coach their people well and help them improve their work performance.
@@ -85,14 +83,29 @@ info-sections:
     section-image-path: /images/tna big.jpg
 
 
-
-
-  - section-title: 
-    section-subtitle: 
-    section-description: 
+  - section-title: (From A) Planning
+    section-subtitle: My staff does undergo training at work but I’m not sure if the skills and knowledge they are acquiring are relevant and will help them to prepare for our future growth as a business.
+    section-description: Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/training-needs-analysis
     section-image-path: /images/tna big.jpg
+    
+    
+  - section-title: (From A) Strategy
+    section-subtitle: Our organisation is embarking on digitalisation project for some of our work processes and this may impact some job roles and make them redundant.
+    section-description: We will need to retrain and redeploy staff in other roles, and we are uncertain how to move forward.
+    section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
+    section-more-button-url: /implementations/training-needs-analysis
+    section-image-path: /images/tna big.jpg
+    
+    
+   - section-title: (From A) Environment
+    section-subtitle: Not all my staff are able to attend the scheduled training as they are on shift duty or they may have health issues and miss the training.
+    section-description: Sometimes it is difficult to create learning sessions at the workplace  that suits all the staff. 
+    section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
+    section-more-button-url: /implementations/training-needs-analysis
+    section-image-path: /images/tna big.jpg   
+    
     
     
     
