@@ -1,0 +1,58 @@
+---
+layout: leftnav-page-content
+title: Potential Solutions - Leadership
+permalink: /implementations/training-needs-analysis/
+breadcrumb: Workplace Learning Implementations - Leadership
+collection_name: implementations
+---
+
+
+
+# **The Manager/Supervisors in my organisation are not able to coach their people well and help them improve their work performance.**
+
+<div class="col is-half-desktop is-half-tablet">
+			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
+		</div>
+		
+#### *I have Supervisors who are very good at their job but they’re not able to help groom their staff to perform just as well or even better than them. How can I help my staff learn from the best people I have?* 
+
+Leaders can foster a learning culture within the organisation by promoting learning as a key value in the organisation. They can be good role-models for learning by upgrading their own skills and knowledge continuously and sharing their knowledge and skills through coaching and mentoring.
+
+Leadership policies and practices that promote a learning-friendly culture include:
+
+- Strengthening the skill of managers to coach and motivate staff to learn
+- Supporting staff in their learning and development
+- Providing platforms and resources that support learning
+- Supporting peer learning at work
+- Assessing the impact of learning on staff
+
+
+
+# **Potential Solutions**
+
+### Training Programmes / Learning Opportunities
+1. [Effective Coaching for Workplace Trainers Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+
+2. [Mentoring for the Workplace Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+
+2. [Workplace Learning Facilitator (WLF) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-trainer-programme.html){:target="_blank"}
+
+3. [Certified Workplace Learning Specialist (CWLS) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
+
+[Back to top](#top)
+
+
+
+### Consultancy Services
+1. [??](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+
+2. [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
+
+[Back to top](#top)
+
+
+
+### Self-Help Resources
+1. [Learning@Work online portal](https://learningatwork.ial.edu.sg/){:target="_blank"}
+
+[Back to top](#top)
