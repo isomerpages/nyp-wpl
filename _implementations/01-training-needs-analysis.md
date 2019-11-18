@@ -21,10 +21,10 @@ Effective manpower development requires a clear understanding of skills gaps. Th
 Conducting a Training Needs Analysis include:
 
 - Clarifying the current and future performance requirements for roles in the company
-* Determining the skills gaps in staff’s current knowledge, skills and attitude (KSA)
-Determining  the needs and requirements for workplace learning
-Determining the costs and benefits of workplace learning
-Establishing a total company training plan
+- Determining the skills gaps in staff’s current knowledge, skills and attitude (KSA)
+- Determining  the needs and requirements for workplace learning
+- Determining the costs and benefits of workplace learning
+- Establishing a total company training plan
 
 
 
