@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Potential Solutions - Leadership
-permalink: /implementations/training-needs-analysis/
+permalink: /implementations/leadership/
 breadcrumb: Workplace Learning Implementations - Leadership
 collection_name: implementations
 ---
