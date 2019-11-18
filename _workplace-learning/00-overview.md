@@ -8,7 +8,7 @@ collection_name: workplace-learning
 
 ## **Overview of Workplace Learning**
 
-To include What is Wpl? Success stories, 703010, text of wpl become source of learning...
+To include What is Wpl? Success stories, 70:20:10, etc...
 
 ## **XXXXXXX**
 
