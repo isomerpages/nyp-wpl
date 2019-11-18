@@ -8,7 +8,7 @@ collection_name: framework
 
 # **National Workplace Learning Framework**
 
-#### *The National Workplace Learning Framework consists of 6 components.*
+#### *The National Workplace Learning Framework consists of 6 components jpg.*
 
 
 ![National Workplace Learning Framework](/images/framework-header.jpg)
