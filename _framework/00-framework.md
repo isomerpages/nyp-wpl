@@ -11,7 +11,7 @@ collection_name: framework
 #### *The National Workplace Learning Framework consists of 6 components.*
 
 
-![National Workplace Learning Framework](/images/framework.jpg)
+![National Workplace Learning Framework](/images/framework-logo.png)
 <caption>National Workplace Learning Framework</caption>
 
 # **Six components of the National Workplace Learning Framework:**
