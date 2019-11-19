@@ -16,14 +16,16 @@ collection_name: implementations
 		
 #### *I don’t have time to send staff for classroom training as our operations need full manpower on board. What can I do to help them learn at work?* 
 
-While sending staff for external training programmes can be beneficial, it can be a challenge for small businesses to maintain their normal operations. To increase opportunities for learning at the workplace, appropriate learning solutions can be provided.
+While sending staff for external training programmes can be beneficial, it can be a challenge for small businesses to maintain their normal operations. To increase opportunities for learning at the workplace, appropriate learning solutions can be provided that take place at work itself. 
 
 Implementing processes and activities that support workplace learning include:
 
 - Preparing structured learning (On-the-Job training) for job roles 
 - Implementing bite-sized learning solutions
+- Implementing e-learning solutions and providing staff access to e-learning
 - Providing informal learning opportunities for staff (such as Communities of Practice, etc)
-- Applying continuous improvement to learning programmes
+- Applying continuous improvement to workplace learning programmes
+
 
 
 
