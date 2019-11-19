@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Strategy
+title: Strategy
 permalink: /implementations/strategy/
 breadcrumb: Workplace Learning Implementations - Strategy
 collection_name: implementations
