@@ -66,6 +66,7 @@ The essential competencies for the company are identified and validated and meas
 	</div>
 </div>
 
+### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
 
 [Back to top](#top)
 
