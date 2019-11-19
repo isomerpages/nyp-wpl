@@ -8,21 +8,23 @@ collection_name: implementations
 
 
 
-# **Our organisation is embarking on digitalisation project for some of our work processes and this may impact some job roles and make them redundant.**
+# **Our company is embarking on digitalisation and it may make some roles and skills redundant.**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
 		</div>
 		
-#### *We will need to retrain and redeploy staff in other roles, and we are uncertain how to move forward.* 
+#### *We know that some jobs will be impacted and we are uncertain how to move forward. We will probably need to retrain and redeploy staff to other roles and other parts of the company, but where and what?* 
 
+Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
 Having a strategy for workplace learning include:
 
-- Taking stock of competencies within the company for current and future needs
+- Taking stock of competencies within the organisation for current and future needs
+- Identifying appropriate knowledge and skills for competency development in line with the future growth and development of the organisation
 - Anchoring competency development as a strategic goal
-- Promoting the benefits of workplace learning through various platforms internally
-- Selecting appropriate learning interventions for competency development in line with the future growth and development of the company
+- Promoting the benefits of workplace learning through various channels and platforms internally
+
 
 
 
