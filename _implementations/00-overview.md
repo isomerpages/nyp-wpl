@@ -66,8 +66,9 @@ The essential competencies for the company are identified and validated and meas
 	</div>
 	<div class="col is-6">
         <p>
+
+**Having a strategy for workplace learning include:**    
             <ul>
-		**Having a strategy for workplace learning include:**    
                 <li>Taking stock of competencies within the company for current and future needs</li>
                 <li>Anchoring competency development as a strategic goal</li>
 		<li>Promoting the benefits of workplace learning through various platforms internally</li>
