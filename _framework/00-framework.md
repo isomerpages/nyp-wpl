@@ -61,8 +61,8 @@ The essential competencies for the company are identified and validated and meas
                 <li>Anchoring competency development as a strategic goal</li>
 		<li>Promoting the benefits of workplace learning through various platforms internally</li>
                 <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>
-		[Click here for the possible solutions available](/implementations/strategy){:target="_blank"}
-		    
+		[Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
+		### Click [here](https://nyp-nace-staging.netlify.com/implementations/strategy/){:target="_blank"} for possible solutions.		    
             </ul>
 		</p>
 	</div>
