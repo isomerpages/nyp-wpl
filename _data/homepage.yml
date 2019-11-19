@@ -59,7 +59,7 @@ button:
     
 # Info Sections
 info-sections:
-  - section-title: (From A) Training Needs Analysis
+  - section-title: 
     section-subtitle: My staff does not seem to have the right skills to do their job well.
     section-description: I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
@@ -67,7 +67,7 @@ info-sections:
     section-image-path: /images/tna big.jpg
     
         
-  - section-title: (From A) Implementation and Processes
+  - section-title: 
     section-subtitle: Sending my staff out for training disrupts my work operations!
     section-description: I don’t have time to send staff for classroom training as our operations need full manpower on board. What can I do to help them learn at work?
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
@@ -75,7 +75,7 @@ info-sections:
     section-image-path: /images/tna big.jpg
     
 
-  - section-title: (From A) Leadership
+  - section-title: 
     section-subtitle: The Managers / Supervisors in my organisation are not able to coach their people well and help them improve their work performance.
     section-description: I have Supervisors who are very good at their job but they’re not able to help groom their staff to perform just as well or even better than them. How can I help my staff learn from the best people I have?
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
@@ -83,7 +83,7 @@ info-sections:
     section-image-path: /images/tna big.jpg
 
 
-  - section-title: (From A) Planning
+  - section-title: 
     section-subtitle: My staff does undergo training at work but I’m not sure if the skills and knowledge they are acquiring are relevant and will help them to prepare for our future growth as a business.
     section-description: Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
@@ -91,7 +91,7 @@ info-sections:
     section-image-path: /images/tna big.jpg
     
     
-  - section-title: (From A) Strategy
+  - section-title: 
     section-subtitle: Our organisation is embarking on digitalisation project for some of our work processes and this may impact some job roles and make them redundant.
     section-description: We will need to retrain and redeploy staff in other roles, and we are uncertain how to move forward.
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
@@ -99,7 +99,7 @@ info-sections:
     section-image-path: /images/tna big.jpg
     
     
-  - section-title: (From A) Environment
+  - section-title: 
     section-subtitle: Not all my staff are able to attend the scheduled training as they are on shift duty or they may have health issues and miss the training.
     section-description: Sometimes it is difficult to create learning sessions at the workplace  that suits all the staff. 
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
