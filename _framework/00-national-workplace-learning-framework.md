@@ -26,6 +26,8 @@ collection_name: framework
 ### **STRATEGY**
 ***Strategic Considerations for Competency Development***
 
+Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
+
 The organisation is aware of the competencies it needs in order to achieve its goals and be successful. 
 The essential competencies for the organisation are identified and validated and measures are defined.
 
@@ -33,13 +35,11 @@ The essential competencies for the organisation are identified and validated and
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#814227">Workplace Learning Framework - Strategy component</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#123456">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
-        <p>
-		Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
-		
+        <p>	
 		<b>Having a strategy for workplace learning include:</b>
             <ul>
                 <li>Taking stock of competencies within the company for current and future needs</li>
