@@ -161,17 +161,69 @@ While sending staff for external training programmes can be beneficial, it can b
 
 
 
+<a name="T"></a>
 
+### **Training Needs Analysis**
+***Considering the Needs, Costs, Benefits and Suitability of Learning Solutions***
 
+Effective manpower development requires a clear understanding of skills gaps and learning solutions. Appropriate resources need to be provided for learning solutions that can close actual skills gaps, hence boosting staff morale and engagement, and leading to improvements in job performance over time. 
 
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/tna.jpg" alt="Strategy"/>
+			<figcaption class="has-text-weight-bold" style="color:#D2A00A">The organisation conducts its own workplace training needs analysis. It has a good grasp of its overall manpower skills requirements and the job specific training and workplace learning solutions needed.</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>	
+		<b>Conducting a Training Needs Analysis include:</b>
+            <ul>
+                <li>Clarifying the current and future performance requirements for roles in the organisation</li>
+                <li>Determining the skills gaps in staff’s current knowledge, skills and attitude (KSA)</li>
+		<li>Determining  the needs and requirements for workplace learning</li>
+                <li>Determining the costs and benefits of workplace learning</li>
+		<li>Establishing a total company training plan (TCTP)</li>    		    
+            </ul>
+		</p>
+	</div>
+</div>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/training-needs-analysis/){:target="_blank"}
+
+[Back to top](#top)
+
+------------------------------------------
 
 
 
 <a name="E"></a>
-### ENVIRONMENT
 
-XXXXXXXXXXXXXXXX
+### **Environment**
+***Promoting Learning in the Workplace***
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/tna.jpg" alt="Strategy"/>
+			<figcaption class="has-text-weight-bold" style="color:#0ACED2">The organisation supports learning at work and creates opportunities for learning at work to happen for a diversity of employee profiles. A positive environment for workplace learning is evident and suitable approaches for workplace learning are used for diverse employee needs and profiles.</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>	
+		<b>Providing a supportive learning environment includes:</b>
+            <ul>
+                <li>Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of health and changing lifestyle</li>
+                <li>Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance </li>
+		<li>Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc </li>  		    
+            </ul>
+		</p>
+	</div>
+</div>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/environment/){:target="_blank"}
 
 [Back to top](#top)
+
+------------------------------------------
+
