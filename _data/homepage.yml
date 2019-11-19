@@ -28,7 +28,7 @@ hero-banner: /images/wpl.jpg
 #Call to Action Button
 button:
   - text: START NOW
-    url: /framework/
+    url: /framework/National-Workplace-Learning-Framework/
 
 ############################################################################################################
 # (Function not needed)
