@@ -12,7 +12,7 @@ collection_name: framework
 
 
 ![National Workplace Learning Framework](/images/framework-header.png)
-<caption>National Workplace Learning Framework</caption>
+<caption> </caption>
 
 # **Six components of the National Workplace Learning Framework:**
 
@@ -25,8 +25,17 @@ collection_name: framework
 
 <a name="S"></a>
 ### STRATEGY
+***Strategic Considerations for Competency Development*
 
-XXXXXXXXXXXXXXXX
+The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
+The essential competencies for the company are identified and validated and measures are defined. 
+
+Having a strategy for workplace learning include:
+- Taking stock of competencies within the company for current and future needs
+- Anchoring competency development as a strategic goal
+- Promoting the benefits of workplace learning through various platforms internally
+- Selecting appropriate learning interventions for competency development in line with the future growth and development of the company
+
 
 [Back to top](#top)
 
