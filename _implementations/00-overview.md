@@ -61,7 +61,7 @@ The essential competencies for the company are identified and validated and meas
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/test/s.png" alt="Strategy"/>
-			<figcaption>**Workplace Learning Framework - Strategy component**</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#814227">Workplace Learning Framework - Strategy component</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
