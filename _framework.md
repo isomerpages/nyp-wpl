@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: National Workplace Learning Framework
-permalink: /framework/framework
+permalink: /framework/
 breadcrumb: framework
 collection_name: framework
 ---
