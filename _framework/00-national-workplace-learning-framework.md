@@ -50,10 +50,7 @@ Embarking on new directions for the growth and development of the organisation c
 </div>
 #### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
 
-
 [Back to top](#top)
-
-
 
 ------------------------------------------
 
@@ -87,13 +84,11 @@ To harness the benefits of workplace learning, it is critical to plan for staff 
 		</p>
 	</div>
 </div>
-#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
-
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/planning/){:target="_blank"}
 
 [Back to top](#top)
+
 ------------------------------------------
-
-
 
 
 
