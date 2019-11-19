@@ -8,7 +8,7 @@ collection_name: implementations
 
 
 
-# **My staff does undergo training at work but I’m not sure if the skills and knowledge they are acquiring are relevant and will help them to prepare for our future growth as a business.**
+# **My staff attends training but it is not always relevant to their work.**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
@@ -26,7 +26,6 @@ Planning for purposeful and systematic workplace learning include:
 - Working with training vendors to ensure a high quality of training is delivered
 - Establishing and maintaining an effective induction programme for new hires in all roles
 - Supporting the development of in-house trainers
-
 
 
 
