@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: National Workplace Learning Framework
-permalink: /framework/
+permalink: /framework/National-Workplace-Learning-Framework/
 breadcrumb: framework
+collection_name: framework
 ---
 
 ## **National Workplace Learning Framework**
