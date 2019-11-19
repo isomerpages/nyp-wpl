@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: National Workplace Learning Framework
 permalink: /framework/
 breadcrumb: framework
-collection_name: framework
 ---
 
 ## **National Workplace Learning Framework**
