@@ -22,7 +22,7 @@ shareicon: /images/framework-logo.png
 
 # Hero Banner
 hero-title: Workplace Learning @ SG
-hero-subtitle: Embark on your comapany's Workplace Learning journey today!
+hero-subtitle: Embark on your company's Workplace Learning journey today!
 hero-banner: /images/wpl.jpg
 
 #Call to Action Button
@@ -60,8 +60,8 @@ button:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: My staff does not seem to have the right skills to do their job well.
-    section-description: I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the core skills they are lacking in and I should train them in? What can I do?
+    section-subtitle: My staff does not have the right skills to do their job well.  
+    section-description: I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the key skills they need. What can I do?
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/training-needs-analysis
     section-image-path: /images/tna big.jpg
@@ -76,15 +76,15 @@ info-sections:
     
 
   - section-title: 
-    section-subtitle: The Managers / Supervisors in my organisation are not able to coach their people well and help them improve their work performance.
-    section-description: I have Supervisors who are very good at their job but they’re not able to help groom their staff to perform just as well or even better than them. How can I help my staff learn from the best people I have?
+    section-subtitle: Leaders in my organisation do not promote learning as a key value. 
+    section-description: Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/leadership
     section-image-path: /images/tna big.jpg
 
 
   - section-title: 
-    section-subtitle: My staff does undergo training at work but I’m not sure if the skills and knowledge they are acquiring are relevant and will help them to prepare for our future growth as a business.
+    section-subtitle: My staff attends training but it is not always relevant to their work.
     section-description: Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/planning
@@ -92,16 +92,16 @@ info-sections:
     
     
   - section-title: 
-    section-subtitle: Our organisation is embarking on digitalisation project for some of our work processes and this may impact some job roles and make them redundant.
-    section-description: We will need to retrain and redeploy staff in other roles, and we are uncertain how to move forward.
+    section-subtitle: Our company is embarking on digitalisation and it may make some roles and skills redundant. 
+    section-description: We know that some jobs will be impacted and we are uncertain how to move forward. We will probably need to retrain and redeploy staff to other roles and other parts of the company, but where and what? 
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/strategy
     section-image-path: /images/tna big.jpg
     
     
   - section-title: 
-    section-subtitle: Not all my staff are able to attend the scheduled training as they are on shift duty or they may have health issues and miss the training.
-    section-description: Sometimes it is difficult to create learning sessions at the workplace  that suits all the staff. 
+    section-subtitle: Not all my staff like to learn… or learns the same way! 
+    section-description: Sometimes it is difficult to create learning sessions at the workplace  that suits the needs and preferences of all the staff. Some staff are not so good in understanding English, some staff like to learn on their own while others like to learn together.. They are different people!
     section-more-button: CLICK HERE FOR POTENTIAL SOLUTIONS
     section-more-button-url: /implementations/environment
     section-image-path: /images/tna big.jpg   
