@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Leadership
+title: Leadership
 permalink: /implementations/leadership/
 breadcrumb: Workplace Learning Implementations - Leadership
 collection_name: implementations
