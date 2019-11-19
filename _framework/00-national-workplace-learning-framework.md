@@ -28,9 +28,6 @@ collection_name: framework
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
-The organisation is aware of the competencies it needs in order to achieve its goals and be successful. 
-The essential competencies for the organisation are identified and validated and measures are defined.
-
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
