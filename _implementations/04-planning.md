@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Planning
+title: Planning
 permalink: /implementations/planning/
 breadcrumb: Workplace Learning Implementations - Planning
 collection_name: implementations
