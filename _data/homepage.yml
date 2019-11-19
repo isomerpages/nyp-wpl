@@ -28,7 +28,7 @@ hero-banner: /images/wpl.jpg
 #Call to Action Button
 button:
   - text: START NOW
-    url: /implementations/overview
+    url: /framework/
 
 ############################################################################################################
 # (Function not needed)
