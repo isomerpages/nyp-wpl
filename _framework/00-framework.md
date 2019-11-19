@@ -25,7 +25,7 @@ collection_name: framework
 
 <a name="S"></a>
 ### STRATEGY
-***Strategic Considerations for Competency Development*
+***Strategic Considerations for Competency Development***
 
 The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
 The essential competencies for the company are identified and validated and measures are defined. 
