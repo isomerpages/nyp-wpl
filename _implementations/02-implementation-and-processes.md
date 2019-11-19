@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Implementation and Processes
+title: Implementation and Processes
 permalink: /implementations/implementation-and-processes/
 breadcrumb: Workplace Learning Implementations - Implementation and Processes
 collection_name: implementations
