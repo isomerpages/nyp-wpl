@@ -54,24 +54,24 @@ testing
 ### **STRATEGY**
 ***Strategic Considerations for Competency Development***
 
-**The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
-The essential competencies for the company are identified and validated and measures are defined.** 
+The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
+The essential competencies for the company are identified and validated and measures are defined.
 
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/test/s.png" alt="Strategy"/>
-			<figcaption>Workplace Learning Framework - Strategy component</figcaption>
+			<figcaption>**Workplace Learning Framework - Strategy component**</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
         <p>
-            Having a strategy for workplace learning include:
+            **Having a strategy for workplace learning include:**
             <ul>
-                <li>- Taking stock of competencies within the company for current and future needs</li>
-                <li>- Anchoring competency development as a strategic goal</li>
-		<li>- Promoting the benefits of workplace learning through various platforms internally</li>
-                <li>- Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>
+                <li>Taking stock of competencies within the company for current and future needs</li>
+                <li>Anchoring competency development as a strategic goal</li>
+		<li>Promoting the benefits of workplace learning through various platforms internally</li>
+                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>
             </ul>
 		</p>
 	</div>
