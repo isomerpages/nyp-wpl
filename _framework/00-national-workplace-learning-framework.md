@@ -33,7 +33,7 @@ Embarking on new directions for the growth and development of the organisation c
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-normal" style="color:#FF0000">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
+			<figcaption class="has-text-justified-weight-normal" style="color:#FF0000">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
