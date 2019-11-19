@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Training Needs Analysis
+title: Training Needs Analysis
 permalink: /implementations/training-needs-analysis/
 breadcrumb: Workplace Learning Implementations - Training Needs Analysis
 collection_name: implementations
