@@ -8,13 +8,13 @@ collection_name: implementations
 
 
 
-# **Not all my staff are able to attend the scheduled training as they are on shift duty or they may have health issues and miss the training.**
+# **Not all my staff like to learn… or learns the same way!**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
 		</div>
 		
-#### *Sometimes it is difficult to create learning sessions at the workplace  that suits all the staff.* 
+#### *Sometimes it is difficult to create learning sessions at the workplace that suits the needs and preferences of all the staff. Some staff are not so good in understanding English, some staff like to learn on their own while others like to learn together.. They are different people!* 
 
 
 Providing a supportive learning environment includes: 
@@ -22,6 +22,7 @@ Providing a supportive learning environment includes:
 - Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of health and changing lifestyle
 - Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance 
 - Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc 
+
 
 
 
