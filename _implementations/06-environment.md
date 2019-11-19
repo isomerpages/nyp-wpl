@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Potential Solutions - Environment
+title: Environment
 permalink: /implementations/environment/
 breadcrumb: Workplace Learning Implementations - Environment
 collection_name: implementations
