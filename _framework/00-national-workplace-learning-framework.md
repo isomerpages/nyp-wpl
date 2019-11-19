@@ -33,7 +33,7 @@ Embarking on new directions for the growth and development of the organisation c
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#634789">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#FF0000">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
@@ -67,7 +67,7 @@ To harness the benefits of workplace learning, it is critical to plan for staff 
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#814255">The organisation organises workplace learning activities systematically and purposefully. It supports the growth and development of its in-house trainers. The quality of workplace learning is continuously improved to suit current and future business needs.</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#0AD25A">The organisation organises workplace learning activities systematically and purposefully. It supports the growth and development of its in-house trainers. The quality of workplace learning is continuously improved to suit current and future business needs.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
@@ -102,7 +102,7 @@ Leaders can foster a learning culture within the organisation by promoting learn
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#814255">The organisation establishes policies and practices that foster a learning-friendly culture. Leaders consistently communicate that learning is essential for the organisation’s growth and success in the medium and long term. Promoting continuous learning at work is recognised as an essential leadership task.</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#960AD2">The organisation establishes policies and practices that foster a learning-friendly culture. Leaders consistently communicate that learning is essential for the organisation’s growth and success in the medium and long term. Promoting continuous learning at work is recognised as an essential leadership task.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
@@ -123,31 +123,47 @@ Leaders can foster a learning culture within the organisation by promoting learn
 [Back to top](#top)
 
 ------------------------------------------
-<a name="P"></a>
-### PLANNING
-
-XXXXXXXXXXXXXXXX
-
-
-
-<a name="L"></a>
-### LEADERSHIP
-
-XXXXXXXXXXXXXXXX
 
 
 
 <a name="I"></a>
-### IMPLEMENTATION & PROCESSES
 
-XXXXXXXXXXXXXXXX
+### **Implementation and Processes**
+***Implementing Effective Workplace Learning Practices***
+
+While sending staff for external training programmes can be beneficial, it can be a challenge for small businesses to maintain their normal operations. To increase opportunities for learning at the workplace, appropriate learning solutions can be provided that take place at work itself. 
+
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/tna.jpg" alt="Strategy"/>
+			<figcaption class="has-text-weight-bold" style="color:#D2CB0A">The organisation implements workplace learning activities based on employee learning profile and skills needs. Appropriate learning delivery solutions  are selected, and suitable instructional methods and job aids are used.</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>	
+		<b>Implementing processes and activities that support workplace learning include:</b>
+            <ul>
+                <li>Preparing structured learning (On-the-Job training) for job roles </li>
+                <li>Implementing bite-sized learning solutions</li>
+		<li>Implementing e-learning solutions and providing staff access to e-learning</li>
+                <li>Providing informal learning opportunities for staff (such as Communities of Practice, etc)</li>
+		<li>Applying continuous improvement to workplace learning programmes</li>    		    
+            </ul>
+		</p>
+	</div>
+</div>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/Implementation-and-Processes/){:target="_blank"}
+
+[Back to top](#top)
+
+------------------------------------------
 
 
 
-<a name="T"></a>
-### TRAINING NEEDS ANALYSIS
 
-XXXXXXXXXXXXXXXX
+
+
 
 
 
