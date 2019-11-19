@@ -60,7 +60,7 @@ The essential competencies for the company are identified and validated and meas
 <a name="S"></a>
 
 ### **Testing**
-***Strategic Considerations for Competency Development***
+***Testing***
 
 The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
 The essential competencies for the company are identified and validated and measures are defined.
@@ -76,10 +76,10 @@ The essential competencies for the company are identified and validated and meas
         <p>
 		**Having a strategy for workplace learning include:**  
             <ul>
-                <li>Taking stock of competencies within the company for current and future needs</li>
-                <li>Anchoring competency development as a strategic goal</li>
-		<li>Promoting the benefits of workplace learning through various platforms internally</li>
-                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
+                <li>xx</li>
+                <li>xx</li>
+		<li>xx</li>
+                <li>xx</li>		    
             </ul>
 	</p>
 	</div>
@@ -90,25 +90,6 @@ The essential competencies for the company are identified and validated and meas
 [Back to top](#top)
 
 ------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
