@@ -74,7 +74,7 @@ The essential competencies for the company are identified and validated and meas
 	</div>
 	<div class="col is-6">
         <p>
-		**Having a strategy for workplace learning include:**  
+		<b>Having a strategy for workplace learning include:</b>  
             <ul>
                 <li>xx</li>
                 <li>xx</li>
