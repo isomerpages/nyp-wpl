@@ -8,8 +8,6 @@ collection_name: framework
 
 # **National Workplace Learning Framework**
 
-#### *The National Workplace Learning Framework consists of 6 components.*
-
 
 ![National Workplace Learning Framework](/images/framework-header.png)
 <caption> </caption>
@@ -63,6 +61,8 @@ The essential competencies for the company are identified and validated and meas
                 <li>Anchoring competency development as a strategic goal</li>
 		<li>Promoting the benefits of workplace learning through various platforms internally</li>
                 <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>
+		[Click here for the possible solutions available](/implementations/strategy){:target="_blank"}
+		    
             </ul>
 		</p>
 	</div>
