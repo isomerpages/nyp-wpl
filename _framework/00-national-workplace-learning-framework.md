@@ -58,7 +58,7 @@ Embarking on new directions for the growth and development of the organisation c
 
 <a name="P"></a>
 
-### **Planning**
+### **PLANNING**
 ***Shaping Workplace Learning within the Organisation***
 
 To harness the benefits of workplace learning, it is critical to plan for staff learning and development with a set roadmap towards targeted capability development that is aligned to current and future business needs. 
@@ -91,7 +91,38 @@ To harness the benefits of workplace learning, it is critical to plan for staff 
 ------------------------------------------
 
 
+<a name="L"></a>
 
+### **LEADERSHIP**
+***Leadership Practices that Foster a Learning Culture***
+
+Leaders can foster a learning culture within the organisation by promoting learning as a key value in the organisation. They can be good role-models for learning by upgrading their own skills and knowledge continuously and sharing their knowledge and skills through coaching and mentoring.
+
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/tna.jpg" alt="Strategy"/>
+			<figcaption class="has-text-weight-bold" style="color:#814255">The organisation establishes policies and practices that foster a learning-friendly culture. Leaders consistently communicate that learning is essential for the organisation’s growth and success in the medium and long term. Promoting continuous learning at work is recognised as an essential leadership task.</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>	
+		<b>Leadership policies and practices that promote a learning-friendly culture include:</b>
+            <ul>
+                <li>Strengthening the skill of managers to coach, mentor and motivate staff to learn</li>
+                <li>Supporting staff in their learning and development</li>
+		<li>Providing platforms and resources that support learning</li>
+                <li>Supporting peer learning at work</li>
+		<li>Assessing the impact of learning on staff</li>    		    
+            </ul>
+		</p>
+	</div>
+</div>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/leadership/){:target="_blank"}
+
+[Back to top](#top)
+
+------------------------------------------
 <a name="P"></a>
 ### PLANNING
 
