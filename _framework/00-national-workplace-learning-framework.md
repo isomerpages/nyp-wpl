@@ -21,6 +21,7 @@ collection_name: framework
 -------------------
 
 
+
 <a name="S"></a>
 
 ### **STRATEGY**
@@ -32,7 +33,7 @@ Embarking on new directions for the growth and development of the organisation c
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#123456">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#634789">The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
@@ -52,42 +53,44 @@ Embarking on new directions for the growth and development of the organisation c
 
 [Back to top](#top)
 
+
+
 ------------------------------------------
 
 
 
-<a name="S"></a>
+<a name="P"></a>
 
-### **Testing**
-***Testing***
+### **Planning**
+***Shaping Workplace Learning within the Organisation***
 
-The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
-The essential competencies for the company are identified and validated and measures are defined.
+To harness the benefits of workplace learning, it is critical to plan for staff learning and development with a set roadmap towards targeted capability development that is aligned to current and future business needs. 
 
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#814227">Workplace Learning Framework - Strategy component</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#814255">The organisation organises workplace learning activities systematically and purposefully. It supports the growth and development of its in-house trainers. The quality of workplace learning is continuously improved to suit current and future business needs.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
-        <p>
-		<b>Having a strategy for workplace learning include:</b>  
+        <p>	
+		<b>Planning for purposeful and systematic workplace learning include:</b>
             <ul>
-                <li>xx</li>
-                <li>xx</li>
-		<li>xx</li>
-                <li>xx</li>		    
+                <li>Ensuring learning programmes are relevant, current and future oriented</li>
+                <li>Establishing a schedule for learning activities</li>
+		<li>Tracking learning application at work after formal training interventions</li>
+                <li>Working with training vendors to ensure a high quality of training is delivered</li>
+		<li>Establishing and maintaining an effective induction programme for new hires in all roles</li>    
+		<li>Supporting the development of in-house trainers</li>    		    
             </ul>
-	</p>
+		</p>
 	</div>
 </div>
 #### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
 
 
 [Back to top](#top)
-
 ------------------------------------------
 
 
