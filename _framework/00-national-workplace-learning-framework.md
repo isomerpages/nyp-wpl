@@ -57,6 +57,63 @@ The essential competencies for the company are identified and validated and meas
 
 
 
+<a name="S"></a>
+
+### **Testing**
+***Strategic Considerations for Competency Development***
+
+The company is aware of the competencies it needs in order to achieve its corporate goals and be successful. 
+The essential competencies for the company are identified and validated and measures are defined.
+
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/tna.jpg" alt="Strategy"/>
+			<figcaption class="has-text-weight-bold" style="color:#814227">Workplace Learning Framework - Strategy component</figcaption>
+		</figure>
+	</div>
+
+**Having a strategy for workplace learning include:**  
+	<div class="col is-6">
+        <p>
+            <ul>
+                <li>Taking stock of competencies within the company for current and future needs</li>
+                <li>Anchoring competency development as a strategic goal</li>
+		<li>Promoting the benefits of workplace learning through various platforms internally</li>
+                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
+            </ul>
+	</p>
+	</div>
+</div>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
+
+
+[Back to top](#top)
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a name="P"></a>
 ### PLANNING
