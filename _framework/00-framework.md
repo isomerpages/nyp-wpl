@@ -63,10 +63,11 @@ The essential competencies for the company are identified and validated and meas
                 <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
             </ul>
 		</p>
+#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
 	</div>
 </div>
 
-### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/strategy/){:target="_blank"}
+
 
 [Back to top](#top)
 
