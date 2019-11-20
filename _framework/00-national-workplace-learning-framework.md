@@ -201,13 +201,13 @@ Effective manpower development requires a clear understanding of skills gaps and
 ### **Environment**
 ***Promoting Learning in the Workplace***
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+The organisation supports learning at work and creates opportunities for learning at work to happen for a diversity of employee profiles. A positive environment for workplace learning is evident and suitable approaches for workplace learning are used for diverse employee needs and profiles.
 
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#0ACED2">The organisation supports learning at work and creates opportunities for learning at work to happen for a diversity of employee profiles. A positive environment for workplace learning is evident and suitable approaches for workplace learning are used for diverse employee needs and profiles.</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#0ACED2"></figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
