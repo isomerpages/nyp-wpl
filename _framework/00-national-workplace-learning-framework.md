@@ -207,7 +207,7 @@ The organisation supports learning at work and creates opportunities for learnin
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/tna.jpg" alt="Strategy"/>
-			<figcaption class="has-text-weight-bold" style="color:#0ACED2"></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#0ACED2"> </figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
