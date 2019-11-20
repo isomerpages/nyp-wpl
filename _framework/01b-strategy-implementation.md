@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: National Workplace Learning Framework
+title: Strategy - Implementation
 permalink: /framework/strategy-implementation/
-breadcrumb: strategy-implementation
+breadcrumb: Strategy
 collection_name: framework
+second_nav_title: "National Workplace Learning Framework - Strategy"
 ---
 
 testing two
