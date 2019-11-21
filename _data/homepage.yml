@@ -31,17 +31,19 @@ hero-banner: /images/wpl.jpg
 #    url: /framework/National-Workplace-Learning-Framework/
   
   
-Hero Dropdown Main Text
+# Hero Dropdown Main Text
 hero-dropdown-text: "Find out how to"
 
-I want to dropdown
+# I want to dropdown
 i-want-to:
-  - title: Process
-    url: /resources/process-solutions
-  - title: People
-    url: /resources/people
-  - title: System
-    url: /resources/system  
+  - title: an Individual
+    url: /users/individual/
+  - title: a Business
+    url: /users/business/
+  - title: an NGO
+    url: /users/ngo/
+  - title: a Teacher
+    url: /users/teacher/
   
   
 key-highlights:
