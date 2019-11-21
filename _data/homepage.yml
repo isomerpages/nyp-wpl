@@ -29,6 +29,12 @@ hero-banner: /images/wpl.jpg
 button:
   - text: START NOW
     url: /framework/National-Workplace-Learning-Framework/
+    
+
+key-highlights:
+  - title: Highlight A
+    description: Important highlight A is important
+    url: https://google.com
 
 ############################################################################################################
 # (Function not needed)
