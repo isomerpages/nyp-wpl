@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Strategy - Implementation
+title: Scenario
 permalink: /framework/strategy-implementation/
 breadcrumb: Strategy
 collection_name: framework
-second_nav_title: "National Workplace Learning Framework - Strategy"
+second_nav_title: "Strategy"
 ---
 
 testing two
