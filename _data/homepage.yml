@@ -25,14 +25,14 @@ hero-title: Workplace Learning @ SG
 hero-subtitle: Embark on your company's Workplace Learning journey today!
 hero-banner: /images/wpl.jpg
 
-#Call to Action Button
-button:
-  - text: Find out how to 
-    url: /framework/National-Workplace-Learning-Framework/
+##Call to Action Button
+#button:
+#  - text: Find out how to 
+#    url: /framework/National-Workplace-Learning-Framework/
   
   
 Hero Dropdown Main Text
-hero-dropdown-text: "Solutions towards implementing Workplace Learning..."
+hero-dropdown-text: "Find out how to"
 
 I want to dropdown
 i-want-to:
