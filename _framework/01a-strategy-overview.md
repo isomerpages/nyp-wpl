@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Strategy - Overview
+title: Overview
 permalink: /framework/strategy-overview/
 breadcrumb: Strategy
 collection_name: framework
