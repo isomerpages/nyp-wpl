@@ -4,7 +4,7 @@ title: Strategy - Overview
 permalink: /framework/strategy-overview/
 breadcrumb: Strategy
 collection_name: framework
-second_nav_title: "National Workplace Learning Framework - Strategy"
+second_nav_title: "Strategy"
 ---
 
 
