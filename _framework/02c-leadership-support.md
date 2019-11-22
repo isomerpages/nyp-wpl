@@ -9,7 +9,7 @@ second_nav_title: "Leadership"
 
 
 
-# **Potential Solutions**
+# **Available Support**
 
 ### Training Programmes / Learning Opportunities
 1. [Effective Coaching for Workplace Trainers Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
@@ -29,7 +29,7 @@ second_nav_title: "Leadership"
 
 
 ### Consultancy Services
-1. [??](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+1. [NACE Consultancy Services](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
 2. [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
 
