@@ -96,7 +96,7 @@ collection_name: framework
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/framework/environment-overview/" class="project-link">
-				<img src="/images/environment.jpg" alt="Environment"project-image">
+				<img src="/images/environment.jpg" alt="Environment" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Environment</b></h5>
