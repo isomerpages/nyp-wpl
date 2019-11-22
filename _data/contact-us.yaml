@@ -6,9 +6,14 @@
 
 #Contact Us
 
-locations:
-  # NATIONAL CENTRE OF EXCELLENCE FOR WORKPLACE LEARNING (NACE) [REQUIRED]
-  - title:
-    address: TEST
-  # Contact US [OPTIONAL]
-    operating-hours-Contact-Us:
+
+# Contact Us
+column:
+  - title: 
+    content:
+    - line: nace@nyp.edu.sg (email)
+    - line: +65 6550 0066
+    # If you have an email, put (email) after the actual email
+
+# Image
+image-url:
