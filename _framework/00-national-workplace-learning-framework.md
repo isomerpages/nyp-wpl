@@ -52,7 +52,7 @@ collection_name: framework
 				<img src="/images/strategy.jpg" alt="Strategy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h1><b>Strategy</b></h1>
+					<b>Strategy</b>
 				</div>
 			</div>
 			</a>
