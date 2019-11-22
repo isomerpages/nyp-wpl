@@ -27,6 +27,7 @@ collection_name: framework
 			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
+			<figcaption class="has-text-weight-bold" style="color:#814997">LEADERSHIP</figcaption>
 			<a href="/framework/leadership-overview/"><img src="/images/team.jpg" alt="leadership"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
@@ -50,7 +51,7 @@ collection_name: framework
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/framework/strategy-overview/" class="project-link">
-			<figcaption class="has-text-weight-bold" style="color:#814997">fun facts with colour code</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
 				<img src="/images/strategy.jpg" alt="Strategy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--s">
