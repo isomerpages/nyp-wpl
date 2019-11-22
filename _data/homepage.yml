@@ -33,7 +33,7 @@ hero-dropdown-text: "Find out how to..."
 # I want to dropdown
 i-want-to:
   - title: Implement a strategy for workplace learning
-    url: /users/individual/
+    url: framework/strategy-implementation/
   - title: Foster a learning culture through enlightened leadership practices
     url: /users/business/
   - title: Plan for workplace learning purposefully and systematically
