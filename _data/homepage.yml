@@ -98,7 +98,7 @@ info-sections:
     section-description: Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?
     section-more-button: CLICK HERE FOR AVAILABLE SUPPORT
     section-more-button-url: /implementations/leadership
-    section-image-path: /images/tna big.jpg
+    section-image-path: /images/team.jpg
     
     
     
@@ -135,25 +135,5 @@ info-sections:
     section-more-button: CLICK HERE FOR AVAILABLE SUPPORT
     section-more-button-url: /implementations/environment
     section-image-path: /images/tna big.jpg   
-    
-    
-    
-    
-  - section-title: OLD VERSION (to ignore) <br>
-                   PEOPLE Development - <br>
-                   Developing PEOPLE through Workplace Learning
-    section-subtitle: My company lacks capable manpower to properly train and guide my employees
-    section-description: <br>
-                         Typical challenges of a company in need of <br>
-                         CAPABILITY DEVELOPMENT for the employees <br>
-                         <br>
-       
-                         * New employees have no one to turn to for guidance <br>
-                         * Employees have no skilled managers to help them learn and grow <br>
-                         * Employees have difficulties in adapting to their leadership roles <br>   
-                        
-                      
-    section-more-button: CLICK HERE FOR POSSIBLE solutions <br> TO ENHANCE CAPABILITY DEVELOPMENT <br> IN EMPLOYEES
-    section-more-button-url: /implementations/people
-    section-image-path: /images/team.jpg
+ 
     
