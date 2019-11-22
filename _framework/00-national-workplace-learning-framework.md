@@ -19,7 +19,8 @@ collection_name: framework
 
 #### **Click on the following to find out more about the 6 components of the National Workplace Learning Framework:**
 
-
+<p><p>
+	
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
