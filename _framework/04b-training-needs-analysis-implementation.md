@@ -10,9 +10,6 @@ second_nav_title: "Training Needs Analysis"
 
 # **"My staff does not have the right skills to do their job well."**
 
-<div class="col is-half-desktop is-half-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
 		
 #### *I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the key skills they need. What can I do?* 
 
