@@ -16,33 +16,27 @@
 - title: National Workplace Learning Framework
   url: /framework/National-Workplace-Learning-Framework/
 
-    
-    
-- title: Workplace Learning Implementation 
-  url: /implementations/overview/
-  
   sub-links:
-  - title: Overview
-    url: /implementations/overview/
+  - title: Workplace Learning Framework
+    url: framework/national-workplace-learning-framework/
     
-  - title: Training Needs Analysis
-    url: /implementations/training-needs-analysis/
-    
-  - title: Implementation and Processes
-    url: /implementations/implementation-and-processes/
+  - title: Strategy
+    url: framework/strategy-overview/
 
   - title: Leadership
-    url: /implementations/leadership/
-
-  - title: Planning
-    url: /implementations/planning/
-
-  - title: Strategy
-    url: /implementations/strategy/
-
-  - title: Environment
-    url: /implementations/environment/
+    url: framework/leadership-overview/
     
+  - title: Planning
+    url: framework/planning-overview/  
+    
+  - title: Training Needs Analysis
+    url: framework/training-needs-analysis-overview/
+    
+  - title: Environment
+    url: framework/environment-overview/
+
+  - title: Implementation and Processes
+    url: framework/implementation-and-processes-overview/   
     
     
   
