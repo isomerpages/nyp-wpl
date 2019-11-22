@@ -7,15 +7,15 @@ collection_name: framework
 ---
 
 
-#### The National Workplace Learning Framework serves as a support for enterprises to build up a sustainable workplace learning system which can lead to a learning organisation, future proofing its competency, and adopting Best-In-Class practices which can potentially improve staff retention and talent management.
+### The National Workplace Learning Framework serves as a support for enterprises to build up a sustainable workplace learning system which can lead to a learning organisation, future proofing its competency, and adopting Best-In-Class practices which can potentially improve staff retention and talent management.
 
 
 ![National Workplace Learning Framework](/images/framework-header.png)
-<caption>Six components of the National Workplace Learning Framework</caption>
+<caption> </caption>
 
 -------------------
 
-#### **Click on the following to find out more about the 6 components of the National Workplace Learning Framework:**
+#### **Click on the following to find out more about the six components of the National Workplace Learning Framework:**
 
 <p><p>
 	
