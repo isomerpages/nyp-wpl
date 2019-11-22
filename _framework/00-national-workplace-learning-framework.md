@@ -32,8 +32,13 @@ collection_name: framework
 			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="planning"></a>
+			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="training-needs-analysis"></a>
 		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/environment-overview/"><img src="/images/environment.jpg" alt="environment"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes"></a>
 	</div>
 </div>
 
