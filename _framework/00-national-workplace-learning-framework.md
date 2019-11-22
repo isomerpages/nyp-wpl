@@ -42,17 +42,41 @@ collection_name: framework
 	</div>
 </div>
 
-#### [STRATEGY](https://nyp-wpl-staging.netlify.com/framework/strategy-overview/){:target="_blank"}
-
-#### [LEADERSHIP](https://nyp-wpl-staging.netlify.com/framework/leadership-overview/){:target="_blank"}
-
-#### [PLANNING](https://nyp-wpl-staging.netlify.com/framework/planning-overview/){:target="_blank"}
-
-#### [TRAINING NEEDS ANALYSIS](https://nyp-wpl-staging.netlify.com/framework/training-needs-analysis-overview/){:target="_blank"}
-
-#### [ENVIRONMENT](https://nyp-wpl-staging.netlify.com/framework/environment-overview/){:target="_blank"}
-
-#### [IMPLEMENTATION AND PROCESSES](https://nyp-wpl-staging.netlify.com/framework/implementation-and-processes-overview/){:target="_blank"}
 
 
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/strategy-overview/" class="project-link">
+				<img src="/images/strategy.jpg" alt="Strategy" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Strategy</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/leadership-overview/" class="project-link">
+				<img src="/images/team.jpg" alt="Leadership" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Leadership</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/planning-overview/" class="project-link">
+				<img src="/images/planning.jpg" alt="Planning" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Planning</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
 
