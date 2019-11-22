@@ -24,6 +24,7 @@ collection_name: framework
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy"></a>
+			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/framework/leadership-overview/"><img src="/images/team.jpg" alt="leadership"></a>
