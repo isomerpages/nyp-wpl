@@ -8,7 +8,7 @@ second_nav_title: "Environment"
 ---
 
 
-# **Not all my staff like to learn… or learns the same way!**
+# **"Not all my staff like to learn… or learns the same way!"**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
