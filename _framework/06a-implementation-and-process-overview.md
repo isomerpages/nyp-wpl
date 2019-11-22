@@ -16,7 +16,7 @@ The organisation implements workplace learning activities based on employee lear
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/tna.jpg" alt="Strategy"/>
+			<img src="/images/implementation.jpg" alt="Implementation"/>
 			<figcaption class="has-text-weight-bold" style="color:#D2CB0A"> </figcaption>
 		</figure>
 	</div>
