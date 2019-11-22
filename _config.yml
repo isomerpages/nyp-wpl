@@ -31,9 +31,11 @@ homepage_careers: true
 # Feedback Form URL
 feedback_form_url: "google.com.sg"
 
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
+#############################
+# # FAQ URL
+# faq_url: "/faq/"
+# faq_url_external: false
+#############################
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
