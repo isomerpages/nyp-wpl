@@ -10,9 +10,6 @@ second_nav_title: "Implementation and Processes"
 
 # **"Sending my staff out for training disrupts my work operations!"**
 
-<div class="col is-half-desktop is-half-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
 		
 #### *I don’t have time to send staff for classroom training as our operations need full manpower on board. What can I do to help them learn at work?* 
 
