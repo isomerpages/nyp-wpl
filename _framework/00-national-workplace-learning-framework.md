@@ -49,6 +49,7 @@ collection_name: framework
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/framework/strategy-overview/" class="project-link">
+			<figcaption class="has-text-weight-bold" style="color:#814997">fun facts with colour code</figcaption>
 				<img src="/images/strategy.jpg" alt="Strategy" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--s">
@@ -117,6 +118,3 @@ collection_name: framework
 	</div>
 </div>
 
-<p><p>
-	
-[Back to top](#top)
