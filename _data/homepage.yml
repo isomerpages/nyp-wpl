@@ -32,18 +32,18 @@ hero-dropdown-text: "Find out how to..."
 
 # I want to dropdown
 i-want-to:
-  - title: Implement a strategy for workplace learning
-    url: framework/strategy-implementation/
-  - title: Foster a learning culture through enlightened leadership practices
-    url: /users/business/
-  - title: Plan for workplace learning purposefully and systematically
-    url: /users/ngo/
-  - title: Conduct Training Needs Analysis
-    url: /users/teacher/
-  - title: Design, develop and implement workplace learning solutions
-    url: /users/teacher/
-  - title: Provide a supportive learning environment
-    url: /users/teacher/
+  - title: Implement a STRATEGY for workplace learning
+    url: /framework/strategy-implementation/
+  - title: Foster a learning culture through enlightened LEADERSHIP practices
+    url: /framework/leadership-implementation/
+  - title: PLAN for workplace learning purposefully and systematically
+    url: /framework/planning-implementation/
+  - title: Conduct TRAINING NEEDS ANALYSIS
+    url: /framework/training-needs-analysis-implementation/
+  - title: Provide a supportive learning ENVIRONMENT
+    url: /framework/environment-implementation/
+  - title: Design, develop and IMPLEMENT workplace learning solutions
+    url: /framework/implementation-and-processes-implementation/
   
 key-highlights:
   - title: Do you have the following challenges that Workplace Learning can address?
