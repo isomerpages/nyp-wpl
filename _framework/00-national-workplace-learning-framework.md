@@ -51,8 +51,8 @@ collection_name: framework
 			<a href="/framework/strategy-overview/" class="project-link">
 				<img src="/images/strategy.jpg" alt="Strategy" class="project-image">
 			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<b>Strategy</b>
+				<div class="project-title margin--bottom--s">
+					<h5><b>Strategy</b></h5>
 				</div>
 			</div>
 			</a>
