@@ -80,3 +80,40 @@ collection_name: framework
 	</div>
 </div>
 
+<p><p>
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/training-needs-analysis-overview/" class="project-link">
+				<img src="/images/training.jpg" alt="Training Needs Analysis" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Training Needs Analysis</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/environment-overview/" class="project-link">
+				<img src="/images/environment.jpg" alt="Environment"project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Environment</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/implementation-and-processes-overview/" class="project-link">
+				<img src="/images/implementation.jpg" alt="Implementation and Processes" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Implementation and Processes</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
