@@ -23,13 +23,16 @@ collection_name: framework
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/implementations/process"><img src="/images/strategy.jpg" alt="strategy"></a>
+			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/implementations/process"><img src="/images/team.jpg" alt="leadership"></a>
+			<a href="/framework/leadership-overview/"><img src="/images/team.jpg" alt="leadership"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/implementations/process"><img src="/images/planning.jpg" alt="planning"></a>
+			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="planning"></a>
 		</div>
 	</div>
 </div>
