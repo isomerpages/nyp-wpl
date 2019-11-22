@@ -8,7 +8,7 @@ second_nav_title: "Training Needs Analysis"
 ---
 
 
-# **My staff does not have the right skills to do their job well.**
+# **"My staff does not have the right skills to do their job well."**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
