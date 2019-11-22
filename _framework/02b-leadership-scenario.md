@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Scenario
-permalink: /framework/leadership-scenario/
+title: Implementation
+permalink: /framework/leadership-implementation/
 breadcrumb: Leadership
 collection_name: framework
 second_nav_title: "Leadership"
