@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Training Needs Analysis
+title: Available Support
 permalink: /framework/training-needs-analysis-support/
 breadcrumb: Training Needs Analysis
 collection_name: framework
