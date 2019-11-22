@@ -18,7 +18,7 @@ It has a good grasp of its overall manpower skills requirements and the job spec
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/tna.jpg" alt="Strategy"/>
+			<img src="/images/training.jpg" alt="Training"/>
 			<figcaption class="has-text-weight-bold" style="color:#D2A00A"> </figcaption>
 		</figure>
 	</div>
