@@ -29,6 +29,6 @@ Leadership policies and practices that promote a learning-friendly culture inclu
 
 
 
-#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/leadership/){:target="_blank"}
+#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/leadership-support/){:target="_blank"}
 
 [Back to top](#top)
