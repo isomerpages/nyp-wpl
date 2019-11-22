@@ -17,7 +17,7 @@ Promoting continuous learning at work is recognised as an essential leadership t
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/team.jpg" alt="Strategy"/>
+			<img src="/images/team.jpg" alt="Leadership"/>
 			<figcaption class="has-text-weight-bold" style="color:#960AD2"> </figcaption>
 		</figure>
 	</div>
