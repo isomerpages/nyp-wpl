@@ -35,8 +35,3 @@ The organisation organises workplace learning activities systematically and purp
 		</p>
 	</div>
 </div>
-
-
-#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/planning/){:target="_blank"}
-
-[Back to top](#top)
