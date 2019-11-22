@@ -10,9 +10,6 @@ second_nav_title: "Planning"
 
 # **"My staff attends training but it is not always relevant to their work."**
 
-<div class="col is-half-desktop is-half-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
 		
 #### *Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.* 
 
