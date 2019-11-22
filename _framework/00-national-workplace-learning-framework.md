@@ -27,7 +27,7 @@ collection_name: framework
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">LEADERSHIP</figcaption>
-			<a href="/framework/leadership-overview/"><img src="/images/team.jpg" alt="leadership"></a>
+			<a href="/framework/leadership-overview/"><img src="/images/leadership.jpg" alt="leadership"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">PLANNING</figcaption>
