@@ -18,25 +18,25 @@
 
   sub-links:
   - title: Overview
-    url: framework/national-workplace-learning-framework/
+    url: /framework/national-workplace-learning-framework/
     
   - title: Strategy
-    url: framework/strategy-implementation/
+    url: /framework/strategy-overview/
     
   - title: Leadership
-    url: framework/leadership-overview/
+    url: /framework/leadership-overview/
     
   - title: Planning
-    url: framework/planning-overview/  
+    url: /framework/planning-overview/  
     
   - title: Training Needs Analysis
-    url: framework/training-needs-analysis-overview/
+    url: /framework/training-needs-analysis-overview/
     
   - title: Environment
-    url: framework/environment-overview/
+    url: /framework/environment-overview/
 
   - title: Implementation and Processes
-    url: framework/implementation-and-processes-overview/   
+    url: /framework/implementation-and-processes-overview/   
     
     
   
