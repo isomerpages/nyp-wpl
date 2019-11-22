@@ -9,7 +9,7 @@ second_nav_title: "Leadership"
 
 
 
-# **Leaders in my organisation do not promote learning as a key value.**
+# **"Leaders in my organisation do not promote learning as a key value."**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
