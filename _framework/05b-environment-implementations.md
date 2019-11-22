@@ -10,9 +10,6 @@ second_nav_title: "Environment"
 
 # **"Not all my staff like to learn… or learns the same way!"**
 
-<div class="col is-half-desktop is-half-tablet">
-			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
-		</div>
 		
 #### *Sometimes it is difficult to create learning sessions at the workplace that suits the needs and preferences of all the staff. Some staff are not so good in understanding English, some staff like to learn on their own while others like to learn together.. They are different people!* 
 
