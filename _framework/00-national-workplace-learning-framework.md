@@ -19,7 +19,20 @@ collection_name: framework
 
 #### **Click the following links to find out more about the 6 components of the National Workplace Learning Framework:**
 
--------------------
+
+<div>
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/strategy.jpg" alt="strategy"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/team.jpg" alt="leadership"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/implementations/process"><img src="/images/planning.jpg" alt="planning"></a>
+		</div>
+	</div>
+</div>
 
 #### [STRATEGY](https://nyp-wpl-staging.netlify.com/framework/strategy-overview/){:target="_blank"}
 
