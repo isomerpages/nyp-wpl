@@ -8,7 +8,7 @@ second_nav_title: "Implementation and Processes"
 ---
 
 
-# **Sending my staff out for training disrupts my work operations!**
+# **"Sending my staff out for training disrupts my work operations!"**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
