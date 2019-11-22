@@ -17,7 +17,7 @@ The organisation organises workplace learning activities systematically and purp
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/tna.jpg" alt="Strategy"/>
+			<img src="/images/planning.jpg" alt="Planning"/>
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>
