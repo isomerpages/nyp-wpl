@@ -9,7 +9,7 @@ second_nav_title: "Strategy"
 
 
 
-# **Our company is embarking on digitalisation and it may make some roles and skills redundant.**
+# **"Our company is embarking on digitalisation and it may make some roles and skills redundant."**
 
 <div class="col is-half-desktop is-half-tablet">
 			<a href="/implementations/training-needs-analysis"><img src="/images/tna.jpg" alt="tna"></a>
