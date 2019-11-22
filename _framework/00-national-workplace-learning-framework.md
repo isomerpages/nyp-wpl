@@ -23,23 +23,27 @@ collection_name: framework
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy"></a>
 			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
+			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">LEADERSHIP</figcaption>
 			<a href="/framework/leadership-overview/"><img src="/images/team.jpg" alt="leadership"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
+			<figcaption class="has-text-weight-bold" style="color:#814997">PLANNING</figcaption>
 			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
+			<figcaption class="has-text-weight-bold" style="color:#814997">TRAINING NEEDS ANALYSIS</figcaption>
 			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="training-needs-analysis"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
+			<figcaption class="has-text-weight-bold" style="color:#814997">ENVIRONMENT</figcaption>
 			<a href="/framework/environment-overview/"><img src="/images/environment.jpg" alt="environment"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
+			<figcaption class="has-text-weight-bold" style="color:#814997">IMPLEMENTATION AND PROCESSES</figcaption>
 			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes"></a>
 	</div>
 </div>
