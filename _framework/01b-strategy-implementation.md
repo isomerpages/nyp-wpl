@@ -28,6 +28,6 @@ Having a strategy for workplace learning include:
 
 
 
-#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/implementations/environment/){:target="_blank"}
+#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/strategy-support/){:target="_blank"}
 
 [Back to top](#top)
