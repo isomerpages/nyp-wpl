@@ -32,6 +32,7 @@ homepage_careers: false
 feedback_form_url: "https://form.gov.sg/5dd7a2badc8ff1001264b8b5"
 
 #############################
+# Function not needed
 # # FAQ URL
 # faq_url: "/faq/"
 # faq_url_external: false
