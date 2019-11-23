@@ -8,6 +8,7 @@ collection_name: framework
 
 
 The National Workplace Learning framework provides a pathway for enterprises to build up a sustainable organisation-wide workplace learning eco-system that is the foundation of a learning organisation. 
+
 Adopting the framework will help enterprises align capability development and business needs and establish best in class workplace learning practices that can potentially enhance staff performance, improve retention rates, advance talent development and foster a learning culture. 
 
 
