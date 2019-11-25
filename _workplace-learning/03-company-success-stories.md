@@ -7,7 +7,7 @@ collection_name: workplace-learning
 ---
 
 
-#### **Sharing Knowledge Across Generations**
+#### **Sharing Knowledge Across Generationsss**
 <div class="row">
         <div class="col is-6">
 		<figure style="margin:0;">
