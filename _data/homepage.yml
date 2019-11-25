@@ -7,18 +7,18 @@
 # Favicon
 favicon: /images/framework-icon.ico
 
+
 # Agency logo
 agency-logo: /images/framework-logo.png
 
 
-###############################################################################################################################
 # Notification (For text at top notification of main page, go to /index.md)
-notification: A Journey towards implementing Workplace Learning
-###############################################################################################################################
+notification: Implementing Workplace Learning at your company
 
 
 # Image to appear on all pages when shared via WhatsApp, Facebook, etc
 shareicon: /images/framework-logo.png
+
 
 # Hero Banner
 hero-title: Workplace Learning @ SG
@@ -45,9 +45,7 @@ i-want-to:
   - title: Design, develop and IMPLEMENT workplace learning solutions
     url: /framework/implementation-and-processes-implementation/
   
-key-highlights:
-  - title: Do you have the following challenges that Workplace Learning can address?
-    description: Scroll below to see the challenges some companies face
+
 
 ############################################################################################################
 # (Function not needed)
@@ -71,7 +69,11 @@ key-highlights:
 #     description: A Common Landing Page for companies
 #     url: /workplace-learning/overview
 #     external: true
-    
+
+
+# key-highlights:
+#  - title: Do you have the following challenges that Workplace Learning can address?
+#    description: Scroll below to see the challenges some companies face
 ############################################################################################################
 
 # (Function not needed)
