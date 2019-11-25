@@ -82,16 +82,6 @@ key-highlights:
 
 #############################################################################################################    
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: Welcome to our site.
-programmes-subtitle: Do you have the following challenges that Workplace Learning can address?
-programmes-description: Scroll below to see the challenges some companies face and find out more on the available support. 
-programmes-more-button: More Information
-programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
-
-
-
 # Info Sections
 info-sections:
   - section-title: 
