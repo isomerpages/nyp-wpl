@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Workplace Learning implementation at your company
+title: Workplace Learning @ SG
 permalink: /
 ---
 
