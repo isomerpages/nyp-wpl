@@ -34,7 +34,7 @@ collection_name: workplace-learning
     </div>
 	<div class="col is-6">
 		<p>
-			Workplace Learning training programmes assisted the hotel in relooking and redesigning processes to innovate and improve productivity in an open, transparent and inclusive discussion with employees of all levels.
+			"Workplace Learning training programmes assisted the hotel in relooking and redesigning processes to innovate and improve productivity in an open, transparent and inclusive discussion with employees of all levels." <br> <strong> - Quote from Novotel Singapore, Stevens </strong>
 		</p>
 	</div>
 </div>
@@ -51,8 +51,8 @@ collection_name: workplace-learning
     </div>
 	<div class="col is-6">
 		<p>
-			“Having a structured OJT training curriculum in place will help to improve the service of Okada Sweets’s staff. With the development of the OJT blueprints for front-of-house and back-of-house job roles, those training our new staff will be more confident and will be able to approach the training in a more systematic way.” <br> 
-      - Quote from Director, Okada Sweets Pte Ltd  
+			“Having a structured OJT training curriculum in place will help to improve the service of Okada Sweets’s staff. With the development of the OJT blueprints for front-of-house and back-of-house job roles, those training our new staff will be more confident and will be able to approach the training in a more systematic way.” <br> <strong> - Quote from Director, Okada Sweets Pte Ltd </strong>
+        
 		</p>
 	</div>
 </div>
