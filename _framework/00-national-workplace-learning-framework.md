@@ -13,7 +13,7 @@ Adopting the framework will help enterprises align capability development and bu
 
 
 ![National Workplace Learning Framework](/images/framework-title.png)
-<p style="text-align:center" style="color:#814997">Six components of the National Workplace Learning Framework</p>
+<p style="text-align:center">Six components of the National Workplace Learning Framework</p>
 
 -------------------
 
