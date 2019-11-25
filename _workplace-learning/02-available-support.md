@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Available support for SME on Workplace Learning
-permalink: /workplace-learning/available-support-for-sme/
-breadcrumb: available-support-for-sme
+permalink: /workplace-learning/available-support/
+breadcrumb: available-support
 collection_name: workplace-learning
 ---
 
