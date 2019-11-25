@@ -25,26 +25,26 @@ Adopting the framework will help enterprises align capability development and bu
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
-			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy"></a>
+			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">LEADERSHIP</figcaption>
-			<a href="/framework/leadership-overview/"><img src="/images/leadership.jpg" alt="leadership"></a>
+			<a href="/framework/leadership-overview/"><img src="/images/leadership.jpg" alt="leadership" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">PLANNING</figcaption>
-			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning"></a>
+			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">TRAINING NEEDS ANALYSIS</figcaption>
-			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="training-needs-analysis"></a>
+			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="training-needs-analysis" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">ENVIRONMENT</figcaption>
-			<a href="/framework/environment-overview/"><img src="/images/environment.jpg" alt="environment"></a>
+			<a href="/framework/environment-overview/"><img src="/images/environment.jpg" alt="environment" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">IMPLEMENTATION AND PROCESSES</figcaption>
-			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:350px;height:300px;"></a>
+			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:350px;height:250px;"></a>
 	        </div>
 </div>
