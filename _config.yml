@@ -25,7 +25,7 @@ paginate: 12
 
 # Homepage sections # if i_want_to is true, there will be no key highlights
 homepage_hero_i_want_to: true
-homepage_programmes: true
+homepage_programmes: false
 homepage_resources: false
 homepage_careers: true
 
