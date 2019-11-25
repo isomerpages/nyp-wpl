@@ -23,8 +23,9 @@ breadcrumbs:
 # Resource Room and Pagination
 paginate: 12
 
-# Homepage sections
+# Homepage sections # if i_want_to is true, there will be no key highlights
 homepage_hero_i_want_to: true
+homepage_programmes: true
 homepage_resources: false
 homepage_careers: false
 
