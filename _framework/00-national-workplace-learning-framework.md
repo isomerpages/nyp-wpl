@@ -45,6 +45,6 @@ Adopting the framework will help enterprises align capability development and bu
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">IMPLEMENTATION AND PROCESSES</figcaption>
-			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:128px;height:128px;"></a>
+			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:250px;height:190px;"></a>
 	        </div>
 </div>
