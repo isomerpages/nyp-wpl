@@ -84,6 +84,7 @@ i-want-to:
 
 #############################################################################################################    
 
+# (Function not needed)
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: Products and Services
@@ -92,6 +93,7 @@ programmes-description: Using technology to make an impact, inspire change. We h
 programmes-more-button: More Products and Services
 programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
+##############################################################################################################3
 
 
 # Info Sections
@@ -144,8 +146,13 @@ info-sections:
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/implementation-and-processes-implementation/
     section-image-path: /images/implementation.jpg
-    
 
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: Company Success Stories
+careers-description: Be inspired by these companies which have implemented Workplace Learning into their operations. Support such as grants and trainings are available!
 
 
  
