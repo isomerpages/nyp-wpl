@@ -7,7 +7,7 @@ collection_name: workplace-learning
 ---
 
 
-#### **Sharing Knowledge Across Generationsss**
+#### **Sharing Knowledge Across Generations**
 <div class="row">
         <div class="col is-6">
 		<figure style="margin:0;">
@@ -17,7 +17,7 @@ collection_name: workplace-learning
         </div>
         <div class="col is-6">
       <p>
-		“Without structured training, an employee may take about 6 months to work independently. With structured training, staff is now able to work independently after only 4 months, shortening the lead-time by around 30%.” <br> - Quote from Operations Manager, Gardenia 
+		“Without structured training, an employee may take about 6 months to work independently. With structured training, staff is now able to work independently after only 4 months, shortening the lead-time by around 30%.” <br> <strong> - Quote from Operations Manager, Gardenia </strong>
 	  </p>
 	</div>
 </div>
