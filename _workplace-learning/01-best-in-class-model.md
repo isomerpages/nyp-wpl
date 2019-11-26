@@ -7,6 +7,6 @@ collection_name: workplace-learning
 ---
 
 
-## A Global Focus on Workplace Learning
+## XXXXXXXXXXXXX
 
 
