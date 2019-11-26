@@ -12,7 +12,7 @@ second_nav_title: "Strategy"
 # **Available Support**
 
 ### Training Programmes / Learning Opportunities
-1. [NACE Masterclass](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+1. [Masterclass for leaders](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
 2. [Certified Workplace Learning Specialist (CWLS) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
 
