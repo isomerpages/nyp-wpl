@@ -51,19 +51,10 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Zero Waste Masterplan
-    section-description: Singapore’s inaugural Zero Waste Masterplan details our key strategies to build a sustainable, resource-efficient and climate-resilient nation.
-    section-more-button: Learn more
-    section-more-button-url: /zero-waste-masterplan
-    section-image-path: /images/Hm_masterplan2.png
-    
-
-
-  - section-title: 
-    section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skill's redundant."'
     section-description: We know that some jobs will be impacted and we are uncertain how to move forward. We will probably need to retrain and redeploy staff to other roles and other parts of the company, but where and what? 
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/strategy.jpg
-
+    
 
     
