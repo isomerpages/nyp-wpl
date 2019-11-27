@@ -32,7 +32,7 @@ hero-dropdown-text: "Find out how to..."
 
 # I want to dropdown
 i-want-to:
-  - title: Implement a STRATEGY for workplace learninggg
+  - title: Implement a STRATEGY for workplace learning
     url: /framework/strategy-implementation/
   - title: Foster a learning culture through enlightened LEADERSHIP practices
     url: /framework/leadership-implementation/
@@ -47,3 +47,11 @@ i-want-to:
   
   
   
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Zero Waste Masterplan
+    section-description: Singapore’s inaugural Zero Waste Masterplan details our key strategies to build a sustainable, resource-efficient and climate-resilient nation.
+    section-more-button: Learn more
+    section-more-button-url: /zero-waste-masterplan
+    section-image-path: /images/Hm_masterplan2.png
