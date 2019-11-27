@@ -77,8 +77,8 @@ i-want-to:
 ############################################################################################################
 
 # (Function not needed)
-##Call to Action Button
-#button:
+# #Call to Action Button
+# button:
 #  - text: Find out how to 
 #    url: /framework/National-Workplace-Learning-Framework/
 
@@ -93,7 +93,7 @@ i-want-to:
 # programmes-more-button: More Products and Services
 # programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
-##############################################################################################################3
+##############################################################################################################
 
 
 # Info Sections
@@ -104,8 +104,8 @@ info-sections:
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/strategy.jpg
-
-
+    
+    
   - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning as a key value."' 
     section-description: Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?
