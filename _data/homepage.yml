@@ -57,7 +57,7 @@ info-sections:
     section-image-path: /images/strategy.jpg
     
 
-- section-title: 
+  - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning as a key value."' 
     section-description: Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?
     section-more-button: CLICK HERE FOR MORE INFORMATION
