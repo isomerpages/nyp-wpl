@@ -47,54 +47,6 @@ i-want-to:
   
 
 
-############################################################################################################
-# (Function not needed)
-# # Hero Dropdown Main Text
-# hero-dropdown-text: "Solutions towards implementing Workplace Learning..."
-
-# I want to dropdown
-# i-want-to:
-#  - title: Process
-#    url: /resources/process-solutions
-#  - title: People
-#    url: /resources/people
-#  - title: System
-#    url: /resources/system
-############################################################################################################
-
-# (Function not needed)
-# # Key Highlights  
-# key-highlights:
-#   - title: About Workplace Learning
-#     description: A Common Landing Page for companies
-#     url: /workplace-learning/overview
-#     external: true
-
-
-# key-highlights:
-#  - title: Do you have the following challenges that Workplace Learning can address?
-#    description: Scroll below to see the challenges some companies face
-############################################################################################################
-
-# (Function not needed)
-# #Call to Action Button
-# button:
-#  - text: Find out how to 
-#    url: /framework/National-Workplace-Learning-Framework/
-
-#############################################################################################################    
-
-# (Function not needed)
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-# programmes-title: Products and Services
-# programmes-subtitle: Co-creating for better value
-# programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-# programmes-more-button: More Products and Services
-# programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
-
-##############################################################################################################
-
 
 # Info Sections
 info-sections:
