@@ -114,14 +114,12 @@ info-sections:
     section-image-path: /images/team.jpg
     
     
-    
   - section-title: 
     section-subtitle: '"My staff attends training but it is not always relevant to their work."'
     section-description: Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/planning-implementation/
     section-image-path: /images/planning.jpg
-    
     
     
   - section-title: 
