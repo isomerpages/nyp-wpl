@@ -48,3 +48,14 @@ Adopting the framework will help enterprises align capability development and bu
 			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:350px;height:225px;"></a>
 	        </div>
 </div>
+
+
+
+	
+<p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
+<p style="text-align:right"><a href="https://nyp-wpl-staging.netlify.com/">Back to Homepage</a>
+
+<p> <span style="float:left;"><a href="#" onclick="history.go(-1)">Back to previous page</span> <span style="float:right;"><a href="https://nyp-wpl-staging.netlify.com/">Back to Homepage</span> </p>
+
+
+
