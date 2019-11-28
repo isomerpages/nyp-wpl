@@ -23,7 +23,7 @@ The organisation organises workplace learning activities systematically and purp
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Planning for purposeful and systematic workplace learning include:</b>
+		<b>Planning for workplace learning purposefully and systematically include:</b>
             <ul>
                 <li>Ensuring learning programmes are relevant, current and future oriented</li>
                 <li>Establishing a schedule for learning activities</li>
