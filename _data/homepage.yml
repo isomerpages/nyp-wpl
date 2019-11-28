@@ -56,8 +56,8 @@ info-sections:
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
-    section-description:  
-    section-more-button: What is our strategy for developing new capabilities?
+    section-description: What is our strategy for developing new capabilities?
+    section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/test/strategyquestion2.jpg
     
