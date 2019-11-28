@@ -51,7 +51,7 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: <font size="7">test</font>
+    section-description: <font size="6">Scroll below to see the challenges some companies face and find out more on the available support.</font>
     section-image-path: /images/team.jpg
     
   - section-title: 
