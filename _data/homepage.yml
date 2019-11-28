@@ -51,14 +51,14 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: <big><big>Scroll below to see the challenges some companies face and find out more on the available support.<big></big>
+    section-description: <big>Scroll below to see the challenges some companies face and find out more on the available support.</big>
     section-more-button: 
     section-more-button-url: 
     section-image-path: /images/team.jpg
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
-    section-description: <big><big>What is our strategy for developing new capabilities?<big></big>
+    section-description: <big>What is our strategy for developing new capabilities?</big>
     section-more-button: FIND OUT MORE
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/test/strategyquestion2.jpg
@@ -66,7 +66,7 @@ info-sections:
 
   - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning as a key value."' 
-    section-description: Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?
+    section-description: <big>Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?</big>
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/leadership-implementation/
     section-image-path: /images/team.jpg
@@ -74,7 +74,7 @@ info-sections:
     
   - section-title: 
     section-subtitle: '"My staff attends training but it is not always relevant to their work."'
-    section-description: Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.
+    section-description: <big>Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.</big>
     section-more-button: CLICK HERE FOR MORE INFORMATION
     section-more-button-url: /framework/planning-implementation/
     section-image-path: /images/planning.jpg
