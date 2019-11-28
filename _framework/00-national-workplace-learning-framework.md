@@ -9,6 +9,8 @@ collection_name: framework
 <p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
 <p style="text-align:right"><a href="https://nyp-wpl-staging.netlify.com/">Back to Homepage</a>
 
+</p>
+
 
 #### The National Workplace Learning framework provides a pathway for enterprises to build up a sustainable organisation-wide workplace learning eco-system that is the foundation of a learning organisation. 
 
