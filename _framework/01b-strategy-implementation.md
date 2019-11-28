@@ -15,7 +15,7 @@ second_nav_title: "Strategy"
 #### *We know that some jobs will be impacted and we are uncertain how to move forward. We will probably need to retrain and redeploy staff to other roles and other parts of the company, but where and what?* 
 
 ![Strategy](/images/test/strategyquestion2.jpg)
-(/images/test/strategyquestion2.jpg)
+
 
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
