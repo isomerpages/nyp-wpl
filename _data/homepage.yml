@@ -53,7 +53,10 @@ info-sections:
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
     section-description: <big>Scroll below to see the challenges some companies face and find out more on the available support.</big>
     section-more-button: 
-    section-more-button-url: 
+    section-more-button-url: a.disabled {
+                               pointer-events: none;
+                               cursor: default;
+                              }
     section-image-path: /images/team.jpg
     
   - section-title: 
