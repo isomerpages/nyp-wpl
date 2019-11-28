@@ -6,6 +6,7 @@ breadcrumb: framework
 collection_name: framework
 ---
 
+<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 #### The National Workplace Learning framework provides a pathway for enterprises to build up a sustainable organisation-wide workplace learning eco-system that is the foundation of a learning organisation. 
 
