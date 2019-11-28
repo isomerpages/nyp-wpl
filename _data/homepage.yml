@@ -51,14 +51,14 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: <big>Scroll below to see the challenges some companies face and find out more on the available support..</big>
+    section-description: <big><big>Scroll below to see the challenges some companies face and find out more on the available support.<big></big>
     section-more-button: 
     section-more-button-url: 
     section-image-path: /images/team.jpg
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
-    section-description: <font size="6">What is our strategy for developing new capabilities?</font>
+    section-description: <big><big>What is our strategy for developing new capabilities?<big></big>
     section-more-button: FIND OUT MORE
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/test/strategyquestion2.jpg
