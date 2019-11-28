@@ -22,7 +22,7 @@ The organisation implements workplace learning activities based on employee lear
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Implementing processes and activities that support workplace learning include:</b>
+		<b>Designing, developing and implementing workplace learning solutions include:</b>
             <ul>
                 <li>Preparing structured learning (On-the-Job training) for job roles </li>
                 <li>Implementing bite-sized learning solutions</li>
