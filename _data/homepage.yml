@@ -51,7 +51,9 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: Scroll below to see the challenges some companies face and find out more on the available suppor.
+    section-description: 
+    section-more-button: Scroll below to see the challenges some companies face and find out more on the available support.
+    section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/team.jpg
     
     
