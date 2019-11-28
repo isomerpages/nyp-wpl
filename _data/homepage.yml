@@ -50,8 +50,8 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: <p style="text-align:center">Do you have the following challenges that Workplace Learning can address??</p>
-    section-description: Scroll below to see the challenges some companies face and find out more on the available support.
+    section-subtitle: <p style="text-align:justify">Do you have the following challenges that Workplace Learning can address?</p>
+    section-description: <font size="7">Scroll below to see the challenges some companies face and find out more on the available support.</font>
     section-image-path: /images/team.jpg
     
   - section-title: 
