@@ -69,40 +69,40 @@ info-sections:
 
   - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning as a key value."' 
-    section-description: <big>Some supervisors and managers are very good at their job but they do not help the staff learn well through coaching and mentoring them effectively. How can I help my staff learn from the best people I have?</big>
-    section-more-button: CLICK HERE FOR MORE INFORMATION
+    section-description: <big>How can we lead people to keep learning?</big>
+    section-more-button: FIND OUT MORE
     section-more-button-url: /framework/leadership-implementation/
     section-image-path: /images/team.jpg
     
     
   - section-title: 
     section-subtitle: '"My staff attends training but it is not always relevant to their work."'
-    section-description: <big>Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.</big>
-    section-more-button: CLICK HERE FOR MORE INFORMATION
+    section-description: <big>What is our plan to align learning to business growth?</big>
+    section-more-button: FIND OUT MORE
     section-more-button-url: /framework/planning-implementation/
     section-image-path: /images/planning.jpg
     
     
   - section-title: 
     section-subtitle: '"My staff does not have the right skills to do their job well."'  
-    section-description: I want to improve my operations through helping my staff improve their current skills, but I don’t know what are the key skills they need. What can I do?
-    section-more-button: CLICK HERE FOR MORE INFORMATION
+    section-description: <big>What do we need to train?</big>
+    section-more-button: FIND OUT MORE
     section-more-button-url: /framework/training-needs-analysis-implementation/
     section-image-path: /images/training.jpg
     
         
   - section-title: 
     section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
-    section-description: Sometimes it is difficult to create learning sessions at the workplace  that suits the needs and preferences of all the staff. Some staff are not so good in understanding English, some staff like to learn on their own while others like to learn together.. They are different people!
-    section-more-button: CLICK HERE FOR MORE INFORMATION
+    section-description: <big>How can we provide a conducive environment for learning?</big>
+    section-more-button: FIND OUT MORE
     section-more-button-url: /framework/environment-implementation/
     section-image-path: /images/environment.jpg   
     
     
   - section-title: 
     section-subtitle: '"Sending my staff out for training disrupts my work operations!"'
-    section-description: I don’t have time to send staff for classroom training as our operations need full manpower on board. What can I do to help them learn at work?
-    section-more-button: CLICK HERE FOR MORE INFORMATION
+    section-description: <big>How can we implement structured learning at work?</big> 
+    section-more-button: FIND OUT MORE
     section-more-button-url: /framework/implementation-and-processes-implementation/
     section-image-path: /images/implementation.jpg
 
