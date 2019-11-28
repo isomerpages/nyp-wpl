@@ -9,7 +9,7 @@ favicon: /images/framework-icon.ico
 
 
 # Agency logo
-agency-logo: /images/framework-logo.png
+agency-logo: /images/test/fw-logo.png
 
 
 # Notification (For text at top notification of main page, go to /index.md)
