@@ -52,7 +52,7 @@ info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
     section-description: Scroll below to see the challenges some companies face and find out more on the available support.
-    
+    section-image-path: /images/team.jpg
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
