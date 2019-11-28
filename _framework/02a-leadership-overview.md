@@ -23,7 +23,7 @@ Promoting continuous learning at work is recognised as an essential leadership t
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Leadership policies and practices that promote a learning-friendly culture include:</b>
+		<b>Fostering a learning culture through enlightened Leadership practices include:</b>
             <ul>
                 <li>Strengthening the skill of managers to coach, mentor and motivate staff to learn</li>
                 <li>Supporting staff in their learning and development</li>
