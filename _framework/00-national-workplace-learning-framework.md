@@ -25,7 +25,7 @@ Adopting the framework will help enterprises align capability development and bu
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">STRATEGY</figcaption>
-			<a href="/framework/strategy-overview/"><img src="/images/strategy.jpg" alt="strategy" style="width:350px;height:250px;"></a>
+			<a href="/framework/strategy-overview/"><img src="/images/test/strategy6.jpg" alt="strategy" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">LEADERSHIP</figcaption>
@@ -37,7 +37,7 @@ Adopting the framework will help enterprises align capability development and bu
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">TRAINING NEEDS ANALYSIS</figcaption>
-			<a href="/framework/training-needs-analysis-overview/"><img src="/images/training.jpg" alt="training-needs-analysis" style="width:350px;height:250px;"></a>
+			<a href="/framework/training-needs-analysis-overview/"><img src="/images/test/training6.jpg" alt="training-needs-analysis" style="width:350px;height:250px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">ENVIRONMENT</figcaption>
@@ -45,7 +45,7 @@ Adopting the framework will help enterprises align capability development and bu
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">IMPLEMENTATION AND PROCESSES</figcaption>
-			<a href="/framework/implementation-and-processes-overview/"><img src="/images/implementation.jpg" alt="implementation-and-processes" style="width:350px;height:225px;"></a>
+			<a href="/framework/implementation-and-processes-overview/"><img src="/images/test/process6.jpg" alt="implementation-and-processes" style="width:350px;height:225px;"></a>
 	        </div>
 </div>
 
