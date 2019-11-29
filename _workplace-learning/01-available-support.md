@@ -16,6 +16,3 @@ Find out more about the available support for SME on Workplace Learning
 2. [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
 
 
-## Others
-
-1. ???
