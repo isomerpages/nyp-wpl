@@ -28,7 +28,7 @@ collection_name: workplace-learning
 <div class="row reverse-row-order">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/gears.jpg" alt="Novotel">
+			<img src="/images/test/novotel.jpg" alt="Novotel">
 			<figcaption>  </figcaption>
 		</figure>
     </div>
@@ -45,7 +45,7 @@ collection_name: workplace-learning
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/gears.jpg" alt="okada">
+			<img src="/images/test/okada.jpg" alt="okada">
 			<figcaption> </figcaption>
 		</figure>
     </div>
