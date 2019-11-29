@@ -16,7 +16,7 @@ We know that some jobs will be impacted and we are uncertain how to move forward
 
 ![Strategy](/images/test/strategyquestion2.png)
 
-<a href="/framework/strategy-overview/"><img src="/images/test/strategyquestion2.png" alt="strategy" style="width:500px;height:450px;"></a>
+<img src="/images/test/strategyquestion2.png" alt="strategy" style="width:700px;height:650px;"></a>
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
