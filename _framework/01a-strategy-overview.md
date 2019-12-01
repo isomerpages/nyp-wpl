@@ -18,7 +18,7 @@ The essential competencies for the organisation are identified and validated and
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/strategy.jpg" alt="Strategy"/>
+			<img src="/images/framework-icon/strategy-icon.jpg" alt="strategy" style="width:285px;height:300px;">
 			<figcaption class="has-text-justified-weight-normal" style="color:#FF0000"> </figcaption>
 		</figure>
 	</div>
