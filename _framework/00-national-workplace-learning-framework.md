@@ -55,7 +55,7 @@ Adopting the framework will help enterprises align capability development and bu
 
 
 <p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
-<p style="text-align:centre"><a href="#top">Back to top</a>
+<p style="text-align:center"><a href="#top">Back to top</a>
 <p style="text-align:right"><a href="https://nyp-wpl-staging.netlify.com/">Back to Home page</a>
 	
 
