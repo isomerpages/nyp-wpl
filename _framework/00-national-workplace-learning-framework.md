@@ -24,7 +24,7 @@ Adopting the framework will help enterprises align capability development and bu
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#70AD47"><big>STRATEGY</big></figcaption>
+			<figcaption class="has-text-centre-weight-bold" style="color:#70AD47"><big>STRATEGY</big></figcaption>
 			<a href="/framework/strategy-overview/"><img src="/images/framework-icon/strategy-icon.jpg" alt="strategy" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
@@ -52,9 +52,8 @@ Adopting the framework will help enterprises align capability development and bu
 </div>
 
 
-<ensp>
-	
-<p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
-<p style="text-align:center"><a href="#top">Back to top</a>
+
+<p style="text-indent :5em;"><a href="#" onclick="history.go(-1)">Back to previous page</a>
+<p style="text-indent :5em;"><a href="#top">Back to top</a>
 <p style="text-align:right"><a href="https://nyp-wpl-staging.netlify.com/">Back to Home page</a>
 
