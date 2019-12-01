@@ -32,8 +32,8 @@ Adopting the framework will help enterprises align capability development and bu
 			<a href="/framework/leadership-overview/"><img src="/images/framework-icon/leadership-icon.jpg" alt="leadership" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#814997">PLANNING</figcaption>
-			<a href="/framework/planning-overview/"><img src="/images/planning.jpg" alt="planning" style="width:350px;height:250px;"></a>
+			<figcaption class="has-text-weight-bold" style="color:#4472C4"><big>PLANNING</big></figcaption>
+			<a href="/framework/planning-overview/"><img src="/images/framework-icon/planning-icon.jpg" alt="planning" style="width:285px;height:200px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">TRAINING NEEDS ANALYSIS</figcaption>
