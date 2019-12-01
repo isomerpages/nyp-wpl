@@ -50,7 +50,7 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: <h1><i>Do you have the following challenges that Workplace Learning can address?</i></h1>
+    section-subtitle: <h1><i><b>Do you</b> have the following challenges that Workplace Learning can address?</i></h1>
     section-description: <h3>Scroll below to see the challenges some companies face and find out more on the available support.</h3>
     section-more-button: 
     section-more-button-url:
