@@ -19,7 +19,7 @@ The essential competencies for the organisation are identified and validated and
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/framework-icon/strategy-icon.jpg">
-			<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+			<a href="https://www.w3schools.com">Visit W3Schools.com</a>{:target="_blank"}
 			<figcaption class="has-text-justified-weight-normal" style="color:#FF0000"> </figcaption>
 		</figure>
 	</div>
