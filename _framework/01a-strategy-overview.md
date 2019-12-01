@@ -33,7 +33,7 @@ The essential competencies for the organisation are identified and validated and
                 <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
             </ul>
 		</p>
-
+	</div>
 </div>
 
 
