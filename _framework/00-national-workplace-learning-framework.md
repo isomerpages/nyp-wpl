@@ -24,15 +24,15 @@ Adopting the framework will help enterprises align capability development and bu
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-centre-weight-bold" style="color:#70AD47"><big>STRATEGY</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#70AD47"><big> </big></figcaption>
 			<a href="/framework/strategy-overview/"><img src="/images/framework-icon/strategy-icon.jpg" alt="strategy" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#C00000"><big>LEADERSHIP</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#C00000"><big> </big></figcaption>
 			<a href="/framework/leadership-overview/"><img src="/images/framework-icon/leadership-icon.jpg" alt="leadership" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#4472C4"><big>PLANNING</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#4472C4"><big> </big></figcaption>
 			<a href="/framework/planning-overview/"><img src="/images/framework-icon/planning-icon.jpg" alt="planning" style="width:285px;height:300px;"></a>
 		</div>
 		<br>
@@ -52,10 +52,10 @@ Adopting the framework will help enterprises align capability development and bu
 </div>
 
 
-<p>Some text<span class="tab">tabbed Text</span></p>
 
-<p style="text-indent :5em;"><a href="#" onclick="history.go(-1)">Back to previous page</a>
-<p style="text-indent :5em;"><a href="#top">Back to top</a>
+
+<p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
+<p style="text-align:right"><a href="#top">Back to top</a>
 <p style="text-align:right"><a href="https://nyp-wpl-staging.netlify.com/">Back to Home page</a>
 	
 
