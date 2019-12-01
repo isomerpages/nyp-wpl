@@ -18,7 +18,7 @@ The essential competencies for the organisation are identified and validated and
 <div class="row">
     <div class="col is-6">
 			<img src="/images/framework-icon/strategy-icon.jpg">
-			<a href="https://nyp-wpl-staging.netlify.com/framework/strategy-support/" target="_blank"> <p style="color:#FF0000"> <big>Click here for available support</big></a>
+			<a href="https://nyp-wpl-staging.netlify.com/framework/strategy-support/" target="_blank"> <big>Click here for available support</big></a>
 	</div>
 	<div class="col is-6">
         <p>	
