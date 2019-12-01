@@ -33,19 +33,19 @@ Adopting the framework will help enterprises align capability development and bu
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#4472C4"><big>PLANNING</big></figcaption>
-			<a href="/framework/planning-overview/"><img src="/images/framework-icon/planning-icon.jpg" alt="planning" style="width:235px;height:250px;"></a>
+			<a href="/framework/planning-overview/"><img src="/images/framework-icon/planning-icon.jpg" alt="planning" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#814997">TRAINING NEEDS ANALYSIS</figcaption>
-			<a href="/framework/training-needs-analysis-overview/"><img src="/images/test/training6.jpg" alt="training-needs-analysis" style="width:350px;height:250px;"></a>
+			<figcaption class="has-text-weight-bold" style="color:#FFC000"><big>TRAINING NEEDS ANALYSIS</big></figcaption>
+			<a href="/framework/training-needs-analysis-overview/"><img src="/images/framework-icon/tna-icon.jpg" alt="training-needs-analysis" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#814997">ENVIRONMENT</figcaption>
-			<a href="/framework/environment-overview/"><img src="/images/environment.jpg" alt="environment" style="width:350px;height:250px;"></a>
+			<figcaption class="has-text-weight-bold" style="color:#FF6600"><big>ENVIRONMENT</big></figcaption>
+			<a href="/framework/environment-overview/"><img src="/images/framework-icon/environment-icon.jpg" alt="environment" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#814997">IMPLEMENTATION AND PROCESSES</figcaption>
-			<a href="/framework/implementation-and-processes-overview/"><img src="/images/test/process6.jpg" alt="implementation-and-processes" style="width:350px;height:225px;"></a>
+			<figcaption class="has-text-weight-bold" style="color:#D9D9D9"><big>IMPLEMENTATION AND PROCESSES</big></figcaption>
+			<a href="/framework/implementation-and-processes-overview/"><img src="/images/framework-icon/inp-icon.jpg" alt="implementation-and-processes" style="width:285px;height:300px;"></a>
 	        </div>
 </div>
 
