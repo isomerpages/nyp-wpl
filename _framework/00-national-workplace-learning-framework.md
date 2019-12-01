@@ -35,8 +35,8 @@ Adopting the framework will help enterprises align capability development and bu
 			<figcaption class="has-text-weight-bold" style="color:#4472C4"><big>PLANNING</big></figcaption>
 			<a href="/framework/planning-overview/"><img src="/images/framework-icon/planning-icon.jpg" alt="planning" style="width:285px;height:300px;"></a>
 		</div>
-		<p>
-		<p>
+		<br>
+		<br>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#FFC000"><big>TRAINING NEEDS ANALYSIS</big></figcaption>
 			<a href="/framework/training-needs-analysis-overview/"><img src="/images/framework-icon/tna-icon.jpg" alt="training-needs-analysis" style="width:285px;height:300px;"></a>
@@ -52,7 +52,7 @@ Adopting the framework will help enterprises align capability development and bu
 </div>
 
 
-
+<ensp>
 	
 <p style="text-align:left"><a href="#" onclick="history.go(-1)">Back to previous page</a>
 <p style="text-align:center"><a href="#top">Back to top</a>
