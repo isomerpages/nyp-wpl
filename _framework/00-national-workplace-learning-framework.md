@@ -24,7 +24,7 @@ Adopting the framework will help enterprises align capability development and bu
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#70AD47"><big>STRATEGY</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#70AD47"><big><big>STRATEGY<big></big></figcaption>
 			<a href="/framework/strategy-overview/"><img src="/images/framework-icon/strategy-icon.jpg" alt="strategy" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
