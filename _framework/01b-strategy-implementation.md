@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Implementation
+title: Application
 permalink: /framework/strategy-implementation/
 breadcrumb: Strategy
 collection_name: framework
