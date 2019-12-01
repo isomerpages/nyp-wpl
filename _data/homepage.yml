@@ -50,8 +50,8 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: <h4>Do you have the following challenges that Workplace Learning can address?</h4>
-    section-description: <big>Scroll below to see the challenges some companies face and find out more on the available support.</big>
+    section-subtitle: <h2>Do you have the following challenges that Workplace Learning can address?</h2>
+    section-description: <h3>Scroll below to see the challenges some companies face and find out more on the available support.</h3>
     section-more-button: 
     section-more-button-url:
     section-image-path: /images/test/54429374_M.jpg
