@@ -29,7 +29,7 @@ Adopting the framework will help enterprises align capability development and bu
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#C00000">LEADERSHIP</figcaption>
-			<a href="/framework/leadership-overview/"><img src="/images/test/L3.png" alt="leadership" style="width:400px;height:350px;"></a>
+			<a href="/framework/leadership-overview/"><img src="/images/test/L3.png" alt="leadership" style="width:400px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<figcaption class="has-text-weight-bold" style="color:#814997">PLANNING</figcaption>
