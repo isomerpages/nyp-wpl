@@ -17,7 +17,7 @@ The organisation implements workplace learning activities, in a systematic and d
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/framework-icon/inp-icon.jpg" alt="Implementation"/>
-			<a href="https://nyp-wpl-staging.netlify.com/framework/framework/implementation-and-processes-support/" target="_blank"> <h4>Click here for available support</h4></a>
+			<a href="https://nyp-wpl-staging.netlify.com/framework/implementation-and-processes-support/" target="_blank"> <h4>Click here for available support</h4></a>
 			<figcaption class="has-text-weight-bold" style="color:#D2CB0A"> </figcaption>
 		</figure>
 	</div>
