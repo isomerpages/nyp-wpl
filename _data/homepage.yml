@@ -52,7 +52,7 @@ info-sections:
   - section-title: <p><font size="5" color="red">This is some text!</font></p>
     section-subtitle: <h1>Do you have the following challenges that Workplace Learning can address?</h1>
     section-description: <h3><i><b>Scroll below to see the challenges some companies face and find out more on the available support.</b></i></h3>
-    section-more-button: <p><font size="3" color="red">Find Out More</font></p>
+    section-more-button: <p><color="red">Find Out Moreee</font></p>
     section-more-button-url: /framework/national-workplace-learning-framework/
     section-image-path: /images/test/54429374_M.jpg
     
