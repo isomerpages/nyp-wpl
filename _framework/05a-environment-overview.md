@@ -17,7 +17,7 @@ The organisation supports learning at work and creates opportunities for learnin
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/framework-icon/strategy-icon.jpg" alt="Environment"/>
+			<img src="/images/framework-icon/environment-icon.jpg" alt="Environment"/>
 			<a href="https://nyp-wpl-staging.netlify.com/framework/environment-support/" target="_blank"> <h4>Click here for available support</h4></a>
 			<figcaption class="has-text-weight-bold" style="color:#0ACED2"> </figcaption>
 		</figure>
