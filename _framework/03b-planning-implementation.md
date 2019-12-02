@@ -11,11 +11,11 @@ second_nav_title: "Planning"
 # **"My staff attends training but it is not always relevant to their work."**
 
 		
-#### *Without a structured workplace learning system aligned to our business needs, our staff learning activities may be insufficient and misdirected, and not aligned to the growth and development needs of our organisation.* 
+Without a structured workplace learning system aligned to business needs, staff learning and development activites may be insufficient and not aligned to the growth and development needs of the organisation.
 
 To harness the benefits of workplace learning, it is critical to plan for staff learning and development with a set roadmap towards targeted capability development that is aligned to current and future business needs. 
 
-Planning for purposeful and systematic workplace learning include:
+Planning for purposeful and systematic workplace learning aligned to business growth include:
 
 - Ensuring learning programmes are relevant, current and future oriented
 - Establishing a schedule for learning activities
