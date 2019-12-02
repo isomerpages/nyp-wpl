@@ -11,8 +11,7 @@ second_nav_title: "Strategy"
 
 # **"Our company is embarking on digitalisation and it may make some roles and skills redundant."**
 	
-	
-We know that some jobs will be impacted and we are uncertain how to move forward. We will probably need to retrain and redeploy staff to other roles and other parts of the company, but where and what?
+We know that new strategies like digitalisation can impact certain jobs. There will be a need to retrain and redeploy staff to other roles and other parts of the company. But where and what?	
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
