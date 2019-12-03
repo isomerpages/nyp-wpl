@@ -58,7 +58,7 @@ info-sections:
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
-    section-description: <big>What is our strategy for developing new capabilities?</big>
+    section-description: <h4>What is our strategy for developing new capabilities?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/test/strategyquestion2.png
@@ -66,7 +66,7 @@ info-sections:
 
   - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning and help foster a learning culture."' 
-    section-description: <h2>How can leaders foster a learning culture in our organisation?</h2>
+    section-description: <h4>How can leaders foster a learning culture in our organisation?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/leadership-implementation/
     section-image-path: /images/test/leadershipquestion.png
