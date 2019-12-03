@@ -49,25 +49,25 @@ i-want-to:
   
 # Info Sections
 info-sections:
-  - section-title: <p><font size="5" color="red">This is some text!</font></p>
-    section-subtitle: <h1>Do you have the following challenges that Workplace Learning can address?</h1>
-    section-description: <h3><i><b>Scroll below to see the challenges some companies face and find out more on the available support.</b></i></h3>
-    section-more-button: <p><font color="red">Find Out More</font></p>
+  - section-title: 
+    section-subtitle: Do you have the following challenges that Workplace Learning can address?
+    section-description: <h3>Scroll below to see the challenges some companies face and find out more on the available support.</h3>
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/national-workplace-learning-framework/
     section-image-path: /images/test/54429374_M.jpg
     
   - section-title: 
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
     section-description: <big>What is our strategy for developing new capabilities?</big>
-    section-more-button: FIND OUT MORE
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/strategy-implementation/
     section-image-path: /images/test/strategyquestion2.png
     
 
   - section-title: 
     section-subtitle: '"Leaders in my organisation do not promote learning and help foster a learning culture."' 
-    section-description: <big>How can leaders foster a learning culture in our organisation?</big>
-    section-more-button: FIND OUT MORE
+    section-description: <h2>How can leaders foster a learning culture in our organisation?</h2>
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/leadership-implementation/
     section-image-path: /images/test/leadershipquestion.png
     
