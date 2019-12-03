@@ -51,7 +51,7 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: <h3>Scroll below to see the challenges some companies face and find out more on the available support.</h3>
+    section-description: <h4>Scroll below to see the challenges some companies face and find out more on the available support.</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/national-workplace-learning-framework/
     section-image-path: /images/test/54429374_M.jpg
@@ -74,32 +74,32 @@ info-sections:
     
   - section-title: 
     section-subtitle: '"My staff attends training but it is not always relevant to their work."'
-    section-description: <big>What is our plan to align learning to business growth?</big>
-    section-more-button: FIND OUT MORE
+    section-description: <h4>What is our plan to align learning to business growth?</h4>
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/planning-implementation/
     section-image-path: /images/test/planquestion2.jpg
     
     
   - section-title: 
     section-subtitle: '"My staff does not have the right skills to do their job well."'  
-    section-description: <big>What do we need to train?</big>
-    section-more-button: FIND OUT MORE
+    section-description: <h4>What do we need to train?</h4>
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/training-needs-analysis-implementation/
     section-image-path: /images/test/trainquestion.png
     
         
   - section-title: 
     section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
-    section-description: <big>How can we provide a supportive environment for learning?</big>
-    section-more-button: FIND OUT MORE
+    section-description: <h4>How can we provide a supportive environment for learning?</h4>
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/environment-implementation/
     section-image-path: /images/test/environmentquestion2.jpg 
     
     
   - section-title: 
     section-subtitle: '"Sending my staff out for training disrupts my work operations!"'
-    section-description: <big>How can we implement structured learning at work?</big> 
-    section-more-button: FIND OUT MORE
+    section-description: <h4>How can we implement structured learning at work?</h4> 
+    section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/implementation-and-processes-implementation/
     section-image-path: /images/test/implementquestion.png
 
