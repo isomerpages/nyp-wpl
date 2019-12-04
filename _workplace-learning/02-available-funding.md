@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Available support for SME on Workplace Learning
-permalink: /workplace-learning/available-support/
-breadcrumb: available-support
+title: Available Funding for Workplace Learning
+permalink: /workplace-learning/available-funding/
+breadcrumb: available-funding
 collection_name: workplace-learning
 ---
 
-Find out more about the available support for SME on Workplace Learning
+Available funding for Workplace Learning
 
 
 ## Funding
