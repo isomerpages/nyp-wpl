@@ -11,10 +11,10 @@ collection_name: workplace-learning
 
 Today the workplace itself is a significant source of learning and workplace learning is broadly defined as the acquisition of knowledge or skills by formal or informal means that occurs in the workplace. With the rapid speed of change and the need for new knowledge and skills to keep pace with change, working is increasingly interconnected with learning and skills can be continuously upgraded to stay relevant through workplace learning. 
 
-![Learning Model](/images/introduction/702010.jpg)
-<caption> </caption>
 
-<img src="/images/introduction/702010.jpg" alt="702010" style="width:285px;height:300px;"></a>
+<figcaption class="has-text-weight-bold" style="color:#70AD47">Workplace itself is a significant source of learning</figcaption>
+<img src="/images/introduction/702010.jpg" alt="702010" style="width:530px;height:500px;">
+
 
 According to the 70:20:10 model of learning proposed by Michael M. Lombardo and Robert W. Eichinger, 70% of our learning comes from working on-the-job or from our experiences at the workplace, 20% of our learning comes from observing, being coached and mentored by others while 10% of our learning comes from attending classes or formal learning programmes.
 
