@@ -10,9 +10,9 @@
   sub-links:
   - title: Introduction
     url: /workplace-learning/introduction/
-    
-  - title: Best-In-Class Practices
-    url: /workplace-learning/best-in-class/ 
+   
+   
+   
   
   - title: Available Funding
     url: /workplace-learning/available-support/ 
@@ -48,7 +48,7 @@
     
     
   
-- title: Resources
+#- title: Resources
   url: /resources/
   
   sub-links:
