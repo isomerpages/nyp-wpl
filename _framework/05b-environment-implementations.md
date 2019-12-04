@@ -18,9 +18,9 @@ Some staff are not so good in understanding English, some staff like to learn on
 
 Providing a supportive learning environment includes: 
 
-- Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of health and changing lifestyle
+- Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle
 - Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance 
-- Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc 
+- Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; for example: based on age, gender, education levels, language abilities, etc 
 
 
 
