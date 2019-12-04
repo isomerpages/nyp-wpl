@@ -7,11 +7,11 @@ collection_name: workplace-learning
 ---
 
 
-#### **Sharing Knowledge Across Generations**
+#### **Reducing training lead-time**
 <div class="row">
         <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/test/gardenia.png" alt="gardenia">
+			<img src="/images/training6.jpg" alt="gardenia">
 			<figcaption> </figcaption>
 		</figure>
         </div>
