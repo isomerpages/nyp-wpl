@@ -17,7 +17,7 @@ Appropriate resources need to be provided for learning solutions that can close 
 Deciding on what to train requires conducting a TNA which includes:
 
 - Clarifying the current and future performance requirements for roles in the organisation
-- Determining the skills gaps in staff’s current knowledge, skills and attitude (KSA)
+- Determining the skills gaps in staff’s (including in-house coaches and trainers) current Knowledge, Skills and Attitude (KSA)
 - Determining  the needs and requirements for workplace learning
 - Determining the costs and benefits of workplace learning
 - Establishing a total company training plan (TCTP)
