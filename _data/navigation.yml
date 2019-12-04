@@ -4,34 +4,66 @@
 #                                #
 ##################################
 
-- title: Category 1
-  url: /category-1/subpage-A/
+- title: About Workplace Learning
+  url: /workplace-learning/overview/
+  
   sub-links:
-  - title: Subpage A
-    url: /category-1/subpage-A/
-  - title: Subpage B
-    url: /category-1/subpage-B/
-- title: Category 2
-  url: /category-2/anotherpage-A/
+  - title: Overview
+    url: /workplace-learning/overview/
+    
+  - title: Best-In-Class practices
+    url: /workplace-learning/best-in-class/ 
+  
+  - title: Available support
+    url: /workplace-learning/available-support/ 
+    
+  - title: Company Success Stories
+    url: /workplace-learning/company-success-stories/ 
+       
+    
+- title: National Workplace Learning Framework
+  url: /framework/National-Workplace-Learning-Framework/
+
   sub-links:
-  - title: Anotherpage A
-    url: /category-2/anotherpage-A/
-  - title: Anotherpage B
-    url: /category-2/anotherpage-B/
-- title: Microsoft
-  url: /microsoft/
-- title: Page 1
-  url: /page-1/
-- title: Page 2
-  url: /page-2/
-- title: Events
-  url: /events/
+  - title: Six Components of National Workplace Learning Framework
+    url: /framework/national-workplace-learning-framework/
+    
+  - title: Strategy
+    url: /framework/strategy-overview/
+    
+  - title: Leadership
+    url: /framework/leadership-overview/
+    
+  - title: Planning
+    url: /framework/planning-overview/  
+    
+  - title: Training Needs Analysis
+    url: /framework/training-needs-analysis-overview/
+    
+  - title: Environment
+    url: /framework/environment-overview/
+
+  - title: Implementation and Processes
+    url: /framework/implementation-and-processes-overview/   
+    
+    
+  
+- title: Resources
+  url: /resources/
+  
   sub-links:
   - title: All
-    url: /events/
-  - title: Type A
-    url: /events/type-a/
-  - title: Type B
-    url: /events/type-b/
+    url: /resources/
+  - title: Infographics
+    url: /resources/infographics
+  - title: News
+    url: /resources/news
+  - title: Videos
+    url: /resources/videos
+  - title: FAQ
+    url: /faq/
+    
+    
 - title: Contact Us
   url: /contact-us/
+

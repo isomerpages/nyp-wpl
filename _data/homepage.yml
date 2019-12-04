@@ -5,35 +5,109 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/framework-icon.ico
+
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/test/fw-logo.png
+
+
+# Notification (For text at top notification of main page, go to /index.md)
+notification: Implementing Workplace Learning at your company
+
+
+# Image to appear on all pages when shared via WhatsApp, Facebook, etc
+shareicon: /images/framework-logo.png
+
 
 # Hero Banner
-hero-title: NYP NACE
-hero-subtitle: Your Subtitle Here
-hero-banner: /images/hero-banner.png
+hero-title: Workplace Learning @ SG
+hero-subtitle: Embark on your company's Workplace Learning journey today!
+hero-banner: /images/wpl.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /page-1/
+
+
+# Hero Dropdown Main Text
+hero-dropdown-text: "Find out how to..."
+
+# I want to dropdown
+i-want-to:
+  - title: Implement a STRATEGY for workplace learning
+    url: /framework/strategy-overview/
+  - title: Foster a learning culture through enlightened LEADERSHIP practices
+    url: /framework/leadership-overview/
+  - title: PLAN for workplace learning purposefully and systematically
+    url: /framework/planning-overview/
+  - title: Conduct TRAINING NEEDS ANALYSIS
+    url: /framework/training-needs-analysis-overview/
+  - title: Provide a supportive learning ENVIRONMENT
+    url: /framework/environment-overview/
+  - title: Design, develop and IMPLEMENT workplace learning solutions
+    url: /framework/implementation-and-processes-overview/
+  
+  
+  
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Do you have the following challenges that Workplace Learning can address?
+    section-description: <h4>Scroll below to see the challenges some companies face and find out more on the available support.</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/national-workplace-learning-framework/
+    section-image-path: /images/test/54429374_M.jpg
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page 1
-    description: Page 1 is important too
-    url: /page-1/
+  - section-title: 
+    section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
+    section-description: <h4>What is our strategy for developing new capabilities?</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/strategy-implementation/
+    section-image-path: /images/test/strategyquestion2.png
+    
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: Events/
+  - section-title: 
+    section-subtitle: '"Leaders in my organisation do not promote learning and help foster a learning culture."' 
+    section-description: <h4>How can leaders foster a learning culture in our organisation?</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/leadership-implementation/
+    section-image-path: /images/test/leadershipquestion.png
+    
+    
+  - section-title: 
+    section-subtitle: '"My staff attends training but it is not always relevant to their work."'
+    section-description: <h4>What is our plan to align learning to business growth?</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/planning-implementation/
+    section-image-path: /images/test/planquestion2.jpg
+    
+    
+  - section-title: 
+    section-subtitle: '"My staff does not have the right skills to do their job well."'  
+    section-description: <h4>What do we need to train?</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/training-needs-analysis-implementation/
+    section-image-path: /images/test/trainquestion.png
+    
+        
+  - section-title: 
+    section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
+    section-description: <h4>How can we provide a supportive environment for learning?</h4>
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/environment-implementation/
+    section-image-path: /images/test/environmentquestion2.jpg 
+    
+    
+  - section-title: 
+    section-subtitle: '"Sending my staff out for training disrupts my work operations!"'
+    section-description: <h4>How can we implement structured learning at work?</h4> 
+    section-more-button: <font color="red">Find Out More</font>
+    section-more-button-url: /framework/implementation-and-processes-implementation/
+    section-image-path: /images/test/implementquestion.png
+
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: Company Success Stories
+careers-description: Be inspired by these companies which have benefited from Workplace Learning. <br> Support such as grants and trainings are available!
+
+    
