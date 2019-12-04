@@ -11,10 +11,10 @@
   - title: Introduction
     url: /workplace-learning/introduction/
     
-  - title: Best-In-Class practices
+  - title: Best-In-Class Practices
     url: /workplace-learning/best-in-class/ 
   
-  - title: Available support
+  - title: Available Funding for Workplace Learning
     url: /workplace-learning/available-support/ 
     
   - title: Company Success Stories
@@ -54,15 +54,12 @@
   sub-links:
   - title: All
     url: /resources/
-  - title: Infographics
-    url: /resources/infographics
-  - title: News
-    url: /resources/news
   - title: Videos
     url: /resources/videos
+  - title: Available Support
+    url: /available support/
   - title: FAQ
-    url: /faq/
-    
+    url: /faq/    
     
 - title: Contact Us
   url: /contact-us/
