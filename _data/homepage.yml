@@ -60,7 +60,7 @@ info-sections:
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
     section-description: <h4>What is our strategy for developing new capabilities?</h4>
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: /framework/strategy-implementation/
+    section-more-button-url: (https://nyp-wpl-staging.netlify.com/framework/strategy-overview/){:target="_blank"}
     section-image-path: /images/test/strategyquestion2.png
     
 
