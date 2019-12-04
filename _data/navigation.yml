@@ -5,11 +5,11 @@
 ##################################
 
 - title: About Workplace Learning
-  url: /workplace-learning/overview/
+  url: /workplace-learning/introduction/
   
   sub-links:
-  - title: Overview
-    url: /workplace-learning/overview/
+  - title: Introduction
+    url: /workplace-learning/introduction/
     
   - title: Best-In-Class practices
     url: /workplace-learning/best-in-class/ 
