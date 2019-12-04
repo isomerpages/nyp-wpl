@@ -11,12 +11,12 @@ second_nav_title: "Environment"
 # **"Not all my staff like to learn… or learns the same way!"**
 
 		
-It is often difficult to create learning sessions at the workplace that suits the needs and preferences of all the staff. People tend to have different learning styles and learning preferences.
+It is often difficult to create learning sessions at the workplace that suits the needs and preferences of all the staff. People tend to have different learning styles and learning preferences. 
 
-Some staff are not so good in understanding English, some staff like to learn on their own while others like to learn together.. They are different people!* 
+There is also a need to ensure that supportive learning spaces can be provided and time for workplace learning to happen can be made available.  
 
 
-Providing a supportive learning environment includes: 
+**Providing a supportive learning environment includes:** 
 
 - Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle
 - Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance 
