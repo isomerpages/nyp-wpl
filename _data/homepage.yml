@@ -77,7 +77,7 @@ info-sections:
     section-description: <h4>What is our plan to align learning to business growth?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/planning-implementation/
-    section-image-path: /images/test/planquestion2.jpg
+    section-image-path: /images/homepage/planning.jpg
     
     
   - section-title: 
@@ -85,7 +85,7 @@ info-sections:
     section-description: <h4>What do we need to train?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/training-needs-analysis-implementation/
-    section-image-path: /images/test/trainquestion.png
+    section-image-path: /images/homepage/training.jpg
     
         
   - section-title: 
