@@ -13,7 +13,7 @@ Today the workplace itself is a significant source of learning and workplace lea
 
 
 <img src="/images/introduction/702010.jpg" alt="702010" style="width:530px;height:500px;">
-<figcaption class="has-text-weight-bold" style="color:#70AD47">test</figcaption>
+<figcaption class="has-text-weight-bold" style="color:#70AD47"> </figcaption>
 
 
 According to the 70:20:10 model of learning proposed by Michael M. Lombardo and Robert W. Eichinger, 70% of our learning comes from working on-the-job or from our experiences at the workplace, 20% of our learning comes from observing, being coached and mentored by others while 10% of our learning comes from attending classes or formal learning programmes.
