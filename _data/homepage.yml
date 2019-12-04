@@ -33,7 +33,7 @@ hero-dropdown-text: "Find out how to..."
 # I want to dropdown
 i-want-to:
   - title: Implement a STRATEGY for workplace learning
-    url: /framework/strategy-overview/ {:target="_blank"}
+    url: (https://nyp-wpl-staging.netlify.com/framework/strategy-overview/){:target="_blank"}
   - title: Foster a learning culture through enlightened LEADERSHIP practices
     url: /framework/leadership-overview/
   - title: PLAN for workplace learning purposefully and systematically
