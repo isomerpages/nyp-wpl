@@ -38,15 +38,15 @@ Adopting the framework will help enterprises align capability development and bu
 		<br>
 		<br>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#FFC000"><big>TRAINING NEEDS ANALYSIS</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#FFC000"><big> </big></figcaption>
 			<a href="/framework/training-needs-analysis-overview/"><img src="/images/framework-icon/tna-icon.jpg" alt="training-needs-analysis" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#FF6600"><big>ENVIRONMENT</big></figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#FF6600"><big> </big></figcaption>
 			<a href="/framework/environment-overview/"><img src="/images/framework-icon/environment-icon.jpg" alt="environment" style="width:285px;height:300px;"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<figcaption class="has-text-weight-bold" style="color:#A6A6A6">IMPLEMENTATION & PROCESSES</figcaption>
+			<figcaption class="has-text-weight-bold" style="color:#A6A6A6"> </figcaption>
 			<a href="/framework/implementation-and-processes-overview/"><img src="/images/framework-icon/inp-icon.jpg" alt="implementation-and-processes" style="width:290px;height:305px;"></a>
 	        </div>
 </div>
