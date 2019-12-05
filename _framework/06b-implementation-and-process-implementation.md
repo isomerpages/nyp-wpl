@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Implementation
-permalink: /framework/implementation-and-processes-implementation/
-breadcrumb: implementation-and-processes
+permalink: /framework/implementation-&-processes-implementation/
+breadcrumb: implementation-&-processes
 collection_name: framework
-second_nav_title: "Implementation and Processes"
+second_nav_title: "Implementation & Processes"
 ---
 
 
