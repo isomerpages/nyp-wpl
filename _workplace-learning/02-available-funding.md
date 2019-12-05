@@ -6,10 +6,10 @@ breadcrumb: available-funding
 collection_name: workplace-learning
 ---
 
-Available funding for Workplace Learning
 
 
-## Funding
+
+## Available funding for Workplace Learning
 
 1. [Workplace Learning Excellence Fund](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
