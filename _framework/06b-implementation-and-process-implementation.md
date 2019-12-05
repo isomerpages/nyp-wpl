@@ -14,13 +14,14 @@ second_nav_title: "Implementation and Processes"
 While sending staff for external training programmes can be beneficial, it can be a challenge for small businesses to maintain their normal operations. To increase opportunities for learning at the workplace, appropriate learning activities and solutions can be provided that take place at work itself.
 
 
-**Implementing processes and activities that support workplace learning include:**
+**Implementing structured learning at the workplace includes:**
 
 
-- Implementing appropriate learning solutions, for example: bite-sized and timely packages, e-learning solutions, structured learning (On-the-Job training) for job roles etc
+- Implementing appropriate learning solutions; structured learning for job roles (On-the-Job training), e-learning solutions, bite-sized learning, etc
 - Providing informal learning opportunities for staff
 - Applying continuous improvement to workplace learning programmes
-- Reviewing learning outcomes with staff 
+- Reviewing learning outcomes with staff
+
 
 
 
