@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /faq/
 breadcrumb: FAQ
-title: FAQ
+title: Frequently Asked Questions
 ---
 
 ### **FAQ**
