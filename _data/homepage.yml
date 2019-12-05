@@ -40,7 +40,7 @@ i-want-to:
     url: /framework/planning-overview/
   - title: Conduct TRAINING NEEDS ANALYSIS
     url: /framework/training-needs-analysis-overview/
-  - title: Provide a supportive ENVIRONMENT for learning 
+  - title: Provide a supportive learning ENVIRONMENT
     url: /framework/environment-overview/
   - title: Design, develop and IMPLEMENT workplace learning solutions
     url: /framework/implementation-and-processes-overview/
@@ -90,7 +90,7 @@ info-sections:
         
   - section-title: 
     section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
-    section-description: <h4>How can we provide a supportive environment that caters to diverse learning needs?</h4>
+    section-description: <h4>How can we provide a supportive environment for learning?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/environment-implementation/
     section-image-path: /images/homepage/environment.jpg
@@ -98,7 +98,7 @@ info-sections:
     
   - section-title: 
     section-subtitle: '"Sending my staff out for training disrupts my work operations!"'
-    section-description: <h4>How can we implement structured learning at work?</h4> 
+    section-description: <h4>How can we implement structured learning at the workplace?</h4> 
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/implementation-and-processes-implementation/
     section-image-path: /images/homepage/inp.jpg
