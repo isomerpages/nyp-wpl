@@ -52,7 +52,7 @@ info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
     section-description: <h4>Scroll below to see the challenges some companies face and find out more on the available support.</h4>
-    section-more-button: <font color="red">Click here to learn more about the National Workplace Learning Framework</font>
+    section-more-button: <font color="red">Click here to learn more about the <br> National Workplace Learning Framework</font>
     section-more-button-url: /framework/national-workplace-learning-framework/
     section-image-path: /images/test/54429374_M.jpg
     
