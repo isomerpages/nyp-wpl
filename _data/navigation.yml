@@ -13,6 +13,9 @@
    
    
    
+   
+   
+   
   
   - title: Available Funding
     url: /workplace-learning/available-support/ 
@@ -48,16 +51,16 @@
     
     
   
-- title: Resources
-  url: /resources/
+#- title: Resources
+#  url: /resources/
   
-  sub-links:
-  - title: Videos
-    url: /resources/videos
-  - title: Available Support
-    url: /available support/
-  - title: FAQ
-    url: /faq/    
+#  sub-links:
+#  - title: Videos
+#    url: /resources/videos
+#  - title: Available Support
+#    url: /available support/
+#  - title: FAQ
+#    url: /faq/    
     
 - title: Contact Us
   url: /contact-us/
