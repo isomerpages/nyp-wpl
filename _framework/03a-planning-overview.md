@@ -29,9 +29,9 @@ The organisation organises workplace learning activities systematically and purp
                 <li>Ensuring learning programmes are relevant, current and future oriented</li>
                 <li>Establishing a schedule for learning activities</li>
 		<li>Tracking learning application at work after formal training interventions</li>
-                <li>Working with training vendors to ensure a high quality of training is delivered</li>
+                <li>Collaborating with training vendors to ensure a high quality of training is delivered</li>
 		<li>Establishing and maintaining an effective induction programme for new hires in all roles</li>    
-		<li>Supporting the development of in-house trainers</li>    		    
+		<li>Supporting the development of in-house trainers / coaches / mentors </li>    		    
             </ul>
 		</p>
 	</div>
