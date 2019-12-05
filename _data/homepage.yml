@@ -93,7 +93,7 @@ info-sections:
     section-description: <h4>How can we provide a supportive environment for learning?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/environment-implementation/
-    section-image-path: /images/test/environmentquestion2.jpg 
+    section-image-path: /images/homepage/environment.jpg
     
     
   - section-title: 
@@ -101,7 +101,7 @@ info-sections:
     section-description: <h4>How can we implement structured learning at work?</h4> 
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/implementation-and-processes-implementation/
-    section-image-path: /images/test/implementquestion.png
+    section-image-path: /images/homepage/inp.jpg
 
 
 # Careers Section
