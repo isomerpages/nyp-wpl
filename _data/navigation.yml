@@ -48,18 +48,18 @@
     
     
   
-#- title: Resources
-#  url: /resources/
+- title: Resources
+  url: /resources/
   
-#  sub-links:
-#  - title: All
-#    url: /resources/
-#  - title: Videos
-#    url: /resources/videos
-#  - title: Available Support
-#    url: /available support/
-#  - title: FAQ
-#    url: /faq/    
+  sub-links:
+  - title: All
+    url: /resources/
+  - title: Videos
+    url: /resources/videos
+  - title: Available Support
+    url: /available support/
+  - title: FAQ
+    url: /faq/    
     
 - title: Contact Us
   url: /contact-us/
