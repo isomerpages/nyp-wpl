@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: Available support for SME on Workplace Learning
-permalink: /workplace-learning/available-support/
-breadcrumb: available-support
+title: Available Funding for Workplace Learning
+permalink: /workplace-learning/available-funding/
+breadcrumb: available-funding
 collection_name: workplace-learning
 ---
 
-Find out more about the available support for SME on Workplace Learning
 
 
-## Funding
+
+## Available funding for Workplace Learning
 
 1. [Workplace Learning Excellence Fund](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 

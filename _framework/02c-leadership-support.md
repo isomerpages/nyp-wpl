@@ -16,7 +16,7 @@ second_nav_title: "Leadership"
 
 2. [Mentoring for the Workplace Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
-2. [Workplace Learning Facilitator (WLF) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-trainer-programme.html){:target="_blank"}
+2. [Workplace Learning Facilitator (WLF) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-learning-facilitator.html){:target="_blank"}
 
 3. [Certified Workplace Learning Specialist (CWLS) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
 

@@ -37,6 +37,5 @@ The essential competencies for the organisation are identified and validated and
 </div>
 
 
-#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/strategy-support/){:target="_blank"}
 
 [Back to top](#top)

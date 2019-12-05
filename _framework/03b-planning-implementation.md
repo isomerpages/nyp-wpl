@@ -20,9 +20,9 @@ Planning for purposeful and systematic workplace learning aligned to business gr
 - Ensuring learning programmes are relevant, current and future oriented
 - Establishing a schedule for learning activities
 - Tracking learning application at work after formal training interventions
-- Working with training vendors to ensure a high quality of training is delivered
+- Cooperating (Working) with training vendors to ensure a high quality of training is delivered
 - Establishing and maintaining an effective induction programme for new hires in all roles
-- Supporting the development of in-house trainers
+- Supporting the development of in-house trainers / coaches / supervisors
 
 
 

@@ -17,10 +17,10 @@ Some leaders are very good at their job but they do not know how to coach staff 
 Leaders can foster a learning culture within the organisation by promoting learning as a key value in the organisation. They can be good role-models for learning by upgrading their own skills and knowledge continuously and sharing their knowledge and skills through coaching and mentoring.
 
 
-Leadership policies and practices that promote a learning-friendly culture include:
+Leadership policies and practices that can promote a learning culture include:
 
 - Strengthening the skill of managers to coach, mentor and motivate staff to learn
-- Supporting staff in their learning and development
+- Encouraging and supporting staff in their personal learning and development
 - Providing platforms and resources that support learning
 - Supporting peer learning at work
 - Assessing the impact of learning on staff
