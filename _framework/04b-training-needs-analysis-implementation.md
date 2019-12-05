@@ -14,6 +14,10 @@ Underperformance can be the result of a lack of knowledge and skills in a job ro
 
 Appropriate resources need to be provided for learning solutions that can close actual skills gaps, hence boosting staff morale and engagement, and leading to improvements in job performance over time. 
 
+
+<img src="images/test/trainquestion.png">
+
+
 Deciding on what to train requires conducting a TNA which includes:
 
 - Clarifying the current and future performance requirements for roles in the organisation
