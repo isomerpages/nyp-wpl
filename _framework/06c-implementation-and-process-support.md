@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Available Support
-permalink: /framework/implementation-and-processes-support/
-breadcrumb: implementation-and-processes
+permalink: /framework/implementation-&-processes-support/
+breadcrumb: implementation-&-processes
 collection_name: framework
-second_nav_title: "Implementation and Processes"
+second_nav_title: "Implementation & Processes"
 ---
 
 
