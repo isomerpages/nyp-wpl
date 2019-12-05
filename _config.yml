@@ -33,9 +33,9 @@ homepage_careers: false
 feedback_form_url: "https://form.gov.sg/5dd7a2badc8ff1001264b8b5"
 
 
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: true
+# # FAQ URL
+# faq_url: "/faq/"
+# faq_url_external: false
 
 
 # Custom CSS file path

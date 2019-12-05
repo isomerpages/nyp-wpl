@@ -36,6 +36,3 @@ The essential competencies for the organisation are identified and validated and
 	</div>
 </div>
 
-
-
-[Back to top](#top)

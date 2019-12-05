@@ -9,7 +9,7 @@ second_nav_title: "Leadership"
 
 
 
-# **"Leaders in my organisation do not promote learning and help foster a learning culture."**
+# **"Leaders in my organisation do not promote learning and this does not help foster a learning culture."**
 
 
 Some leaders are very good at their job but they do not know how to coach staff or promote learning to help the staff be self-driven learners. 

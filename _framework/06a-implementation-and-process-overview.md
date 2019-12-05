@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /framework/implementation-and-processes-overview/
-breadcrumb: implementation-and-processes
+permalink: /framework/implementation-&-processes-overview/
+breadcrumb: implementation-&-processes
 collection_name: framework
-second_nav_title: "Implementation and Processes"
+second_nav_title: "Implementation & Processes"
 ---
 
 
-### **Implementation and Processes**
+### **Implementation & Processes**
 ***Implementing Effective Workplace Learning Practices***
 
 The organisation implements workplace learning activities, in a systematic and deliberate manner, based on employee learning profile and skills needs. Appropriate learning delivery solutions are selected, and suitable instructional methods and job aids are used.
@@ -25,10 +25,10 @@ The organisation implements workplace learning activities, in a systematic and d
         <p>	
 		<b>Designing, developing and implementing workplace learning solutions include:</b>
             <ul>
-                <li>Discussing and reviewing learning outcomes with its employees </li>
-		<li>Implementing appropriate learning solutions, for example : bite-sized and timely packages, e-learning solutions, structured learning (On-the-Job training) for job roles etc </li>
-                <li>Providing informal learning opportunities for staff </li>
-		<li>Applying continuous improvement to workplace learning programmes</li>    		    
+                <li>Implementing appropriate learning solutions; structured learning for job roles (On-the-Job training), e-learning solutions, bite-sized learning, etc</li>
+		<li>Providing informal learning opportunities for staff</li>
+                <li>Applying continuous improvement to workplace learning programmes</li>
+		<li>Reviewing learning outcomes with staff</li>    		    
             </ul>
 		</p>
 	</div>
