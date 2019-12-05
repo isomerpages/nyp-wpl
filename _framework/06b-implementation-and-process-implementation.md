@@ -16,10 +16,11 @@ While sending staff for external training programmes can be beneficial, it can b
 
 **Implementing processes and activities that support workplace learning include:**
 
-- Reviewing learning outcomes with staff 
+
 - Implementing appropriate learning solutions, for example: bite-sized and timely packages, e-learning solutions, structured learning (On-the-Job training) for job roles etc
 - Providing informal learning opportunities for staff
 - Applying continuous improvement to workplace learning programmes
+- Reviewing learning outcomes with staff 
 
 
 
