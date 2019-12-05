@@ -25,11 +25,11 @@ It has a good grasp of its overall manpower skills requirements and the job spec
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Conducting a Training Needs Analysis include:</b>
+		<b>Conducting a Training Needs Analysis (TNA) include:</b>
             <ul>
                 <li>Clarifying the current and future performance requirements for roles in the organisation</li>
-                <li>Determining the skills gaps in staff’s, including in-house coaches and trainers, current knowledge, skills and attitude (KSA)</li>
-		<li>Determining  the needs and requirements for workplace learning</li>
+                <li>Determining the skills gap of staff in terms of their current Knowledge, Skills and Attitude (KSA)</li>
+		<li>Determining the needs and requirements for workplace learning</li>
                 <li>Determining the costs and benefits of workplace learning</li>
 		<li>Establishing a total company training plan (TCTP)</li>    		    
             </ul>
