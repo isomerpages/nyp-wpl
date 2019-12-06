@@ -12,9 +12,7 @@ second_nav_title: "Training Needs Analysis"
 
 Underperformance can be the result of a lack of knowledge and skills in a job role. To improve performance and enhance productivity, it is important to understand skills and competencies required in different job roles.
 
-Appropriate resources need to be provided for learning solutions that can close actual skills gaps, hence boosting staff morale and engagement, and leading to improvements in job performance over time. 
-
-<img src="/images/test/trainquestion.png" alt="tna" style="width:235px;height:250px;">
+Appropriate resources need to be provided for learning solutions that can close actual skills gaps, hence boosting staff morale and engagement, and leading to improvements in job performance over time.
 
 
 Deciding on what to train requires conducting a Training Needs Analysis (TNA) which includes:
