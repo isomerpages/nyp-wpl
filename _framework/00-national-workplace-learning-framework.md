@@ -12,7 +12,7 @@ collection_name: framework
 Adopting the framework will help enterprises align capability development and business needs and establish best in class workplace learning practices that can potentially enhance staff performance, improve retention rates, advance talent development and foster a learning culture. 
 
 
-![National Workplace Learning Framework](/images/framework-title.png)
+![National Workplace Learning Framework](/images/framework/framework-wo-text.png)
 <p style="text-align:center">Six components of the National Workplace Learning Framework</p>
 
 -------------------
