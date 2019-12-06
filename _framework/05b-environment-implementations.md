@@ -16,6 +16,8 @@ It is often difficult to create learning sessions at the workplace that suits th
 There is also a need to ensure that supportive learning spaces can be provided and time for workplace learning to happen can be made available.  
 
 
+<img src="/images/implementation/environment.jpg">
+
 **Providing a supportive environment that caters to diverse learning needs include:** 
 
 - Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle
