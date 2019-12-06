@@ -15,6 +15,8 @@ There will be a need to retrain and redeploy staff to other roles and other part
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
+<img src="/images/framework-icon/strategy-icon.jpg">
+
 
 **Some strategies for developing new capabilities include:**
 
