@@ -15,6 +15,9 @@ Without a structured workplace learning system aligned to business needs, staff 
 
 To harness the benefits of workplace learning, it is critical to plan for staff learning and development with a set roadmap towards targeted capability development that is aligned to current and future business needs. 
 
+
+<img src="/images/implementation/planning.jpg">
+
 Planning for purposeful and systematic workplace learning aligned to business growth include:
 
 - Ensuring learning programmes are relevant, current and future oriented

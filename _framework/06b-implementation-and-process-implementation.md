@@ -14,6 +14,8 @@ second_nav_title: "Implementation & Processes"
 While sending staff for external training programmes can be beneficial, it can be a challenge for small businesses to maintain their normal operations. To increase opportunities for learning at the workplace, appropriate learning activities and solutions can be provided that take place at work itself.
 
 
+<img src="/images/implementation/inp.jpg">
+
 **Implementing structured learning at the workplace includes:**
 
 
