@@ -18,7 +18,7 @@ column:
 
   - title: Feedback
     content:
-    - line: If you have any compliments or comments related to this Workplace Learning Website, please fill in the [online form](https://form.gov.sg/5dd7a2badc8ff1001264b8b5){:target="_blank"}. Thank you.
+    - line: If you have any compliments or comments related to this Workplace Learning Website, please fill in the <a href="https://form.gov.sg/5dd7a2badc8ff1001264b8b5">online form</a>. Thank you.
     # If you have an email, put (email) after the actual email
 
 
