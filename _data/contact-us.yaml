@@ -16,5 +16,14 @@ column:
     - line: +65 6550 0066
     # If you have an email, put (email) after the actual email
 
+  - title: Feedback
+    content:
+    - line: If you have any compliments or comments related to this Workplace Learning Website, please fill in the [online form](https://form.gov.sg/5dd7a2badc8ff1001264b8b5){:target="_blank"}. Thank you.
+    # If you have an email, put (email) after the actual email
+
+
 # Image
 image-url: 
+
+
+
