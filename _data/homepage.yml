@@ -90,7 +90,7 @@ info-sections:
         
   - section-title: 
     section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
-    section-description: <h4>How can we provide a supportive environment for learning?</h4>
+    section-description: <h4>How can we provide a supportive environment that caters to diverse learning needs?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: /framework/environment-implementation/
     section-image-path: /images/homepage/environment.jpg

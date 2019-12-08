@@ -24,7 +24,7 @@ The organisation supports learning at work and creates opportunities for learnin
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Providing a supportive environment for learning includes:</b>
+		<b>Providing a supportive learning environment includes:</b>
             <ul>
                 <li>Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle</li>
                 <li>Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance </li>
