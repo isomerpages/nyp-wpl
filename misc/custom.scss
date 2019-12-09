@@ -18,10 +18,10 @@ $media-color-five: #00838f;
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
-// To remove grey overlay in hero banner image
-.bp-hero-body {
-  background: unset;
-}
+# // To remove grey overlay in hero banner image
+# .bp-hero-body {
+#   background: unset;
+# }
 
 
 // Mixins
