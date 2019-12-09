@@ -33,7 +33,7 @@ hero-dropdown-text: "Find out how to..."
 # I want to dropdown
 i-want-to:
   - title: Implement a STRATEGY for workplace learning
-    url: /framework/strategy-overview/
+    url: '/framework/strategy-overview/" target="blank'
   - title: Foster a learning culture through enlightened LEADERSHIP practices
     url: /framework/leadership-overview/
   - title: PLAN for workplace learning purposefully and systematically
@@ -60,7 +60,7 @@ info-sections:
     section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
     section-description: <h4>What is our strategy for developing new capabilities?</h4>
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: '/framework/strategy-implementation/ target="_blank"'
+    section-more-button-url: '/framework/strategy-implementation/" target="_blank'
     section-image-path: /images/homepage/strategy.jpg
     
 
