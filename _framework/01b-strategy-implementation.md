@@ -32,3 +32,4 @@ Embarking on new directions for the growth and development of the organisation c
 
 
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
+<a href="index.html">Click here to go back home</a>
