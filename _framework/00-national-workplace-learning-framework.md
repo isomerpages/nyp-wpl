@@ -53,9 +53,7 @@ Adopting the framework will help enterprises align capability development and bu
 
 
 
-I am just testing on this new feature.
-
-<p>&nbsp;</p>
+let's try again
 
 <div class="category-stacked-area">
   
@@ -69,4 +67,4 @@ I am just testing on this new feature.
   <a class="cover" href="/framework/implementation-&-processes-implementation/"></a>
 </div> 
 	
-
+</div>
