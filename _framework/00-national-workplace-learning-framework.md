@@ -53,6 +53,20 @@ Adopting the framework will help enterprises align capability development and bu
 
 
 
+I am just testing on this new feature.
 
+<p>&nbsp;</p>
+
+<div class="category-stacked-area">
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/framework-icon/inp-icon.jpg">
+    <img class="photo-lv-2" src="/images/framework-icon/tna-icon.jpg">
+    <img class="photo-lv-3" src="/images/framework-icon/inp-icon.jpg">
+  </div>
+  <p>Implementation & Processes<br>Implementations</p>
+  <a class="cover" href="/framework/implementation-&-processes-implementation/"></a>
+</div> 
 	
 
