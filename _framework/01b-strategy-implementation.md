@@ -29,4 +29,7 @@ Embarking on new directions for the growth and development of the organisation c
 
 #### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/strategy-support/){:target="_blank"}
 
-[Back to top](#top)
+
+
+<a href="#" onclick="history.go(-1)">Back to previous page</a>
+<a href="index.html">Click here to go back home</a>
