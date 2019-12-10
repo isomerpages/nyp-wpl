@@ -35,15 +35,15 @@ i-want-to:
   - title: Implement a STRATEGY for workplace learning
     url: '/framework/strategy-overview/" target="blank'
   - title: Foster a learning culture through enlightened LEADERSHIP practices
-    url: /framework/leadership-overview/
+    url: '/framework/leadership-overview/" target="blank'
   - title: PLAN for workplace learning purposefully and systematically
-    url: /framework/planning-overview/
+    url: '/framework/planning-overview/" target="blank'
   - title: Conduct TRAINING NEEDS ANALYSIS
-    url: /framework/training-needs-analysis-overview/
+    url: '/framework/training-needs-analysis-overview/" target="blank'
   - title: Provide a supportive learning ENVIRONMENT
-    url: /framework/environment-overview/
+    url: '/framework/environment-overview/" target="blank'
   - title: Design, develop and IMPLEMENT workplace learning solutions
-    url: /framework/implementation-&-processes-overview/
+    url: '/framework/implementation-&-processes-overview/" target="blank'
   
   
   
@@ -76,7 +76,7 @@ info-sections:
     section-subtitle: '"My staff attends training but it is not always relevant to their work."'
     section-description: <h4>What is our plan to align learning to business growth?</h4>
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: /framework/planning-implementation/
+    section-more-button-url: '/framework/planning-implementation/" target="blank'
     section-image-path: /images/homepage/planning.jpg
     
     
@@ -84,7 +84,7 @@ info-sections:
     section-subtitle: '"My staff does not have the right skills to do their job well."'  
     section-description: <h4>What do we need to train?</h4>
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: /framework/training-needs-analysis-implementation/
+    section-more-button-url: '/framework/training-needs-analysis-implementation/" target="blank'
     section-image-path: /images/homepage/training.jpg
     
         
@@ -92,7 +92,7 @@ info-sections:
     section-subtitle: '"Not all my staff like to learn… or learns the same way!"' 
     section-description: <h4>How can we provide a supportive environment that caters to diverse learning needs?</h4>
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: /framework/environment-implementation/
+    section-more-button-url: '/framework/environment-implementation/" target="blank'
     section-image-path: /images/homepage/environment.jpg
     
     
@@ -100,7 +100,7 @@ info-sections:
     section-subtitle: '"Sending my staff out for training disrupts my work operations!"'
     section-description: <h4>How can we implement structured learning at the workplace?</h4> 
     section-more-button: <font color="red">Find Out More</font>
-    section-more-button-url: /framework/implementation-&-processes-implementation/
+    section-more-button-url: '/framework/implementation-&-processes-implementation/" target="blank'
     section-image-path: /images/homepage/inp.jpg
 
 
