@@ -29,3 +29,4 @@ Embarking on new directions for the growth and development of the organisation c
 
 #### [Click here for available support](https://www.workplacelearning.gov.sg/framework/strategy-support/){:target="_blank"}
 
+[Back to top](#top)
