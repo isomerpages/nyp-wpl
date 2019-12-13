@@ -27,6 +27,6 @@ Leaders can foster a learning culture within the organisation by promoting learn
 
 
 
-#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/leadership-support/){:target="_blank"}
+#### [Click here for available support](https://www.workplacelearning.gov.sg/framework/leadership-support/){:target="_blank"}
 
 [Back to top](#top)
