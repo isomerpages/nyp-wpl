@@ -18,7 +18,7 @@ Appropriate resources need to be provided for learning solutions that can close 
 <img src="/images/implementation/tna.jpg">
 
 
-Deciding on what to train requires conducting a Training Needs Analysis (TNA) which includes:
+#### **Deciding on what to train requires conducting a Training Needs Analysis (TNA) which includes:**
 
 - Clarifying the current and future performance requirements for roles in the organisation
 - Determining the skills gap of staff in terms of their current Knowledge, Skills and Attitude (KSA)
@@ -26,6 +26,6 @@ Deciding on what to train requires conducting a Training Needs Analysis (TNA) wh
 - Determining the costs and benefits of workplace learning
 - Establishing a total company training plan (TCTP) 
 
-#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/training-needs-analysis-support/){:target="_blank"}
+#### [Click here for available support](https://www.workplacelearning.gov.sg/framework/training-needs-analysis-support/){:target="_blank"}
 
 [Back to top](#top)
