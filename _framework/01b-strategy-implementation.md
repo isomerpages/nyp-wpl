@@ -10,8 +10,9 @@ second_nav_title: "Strategy"
 
 # **"Our organisation is embarking on digitalisation and it may make some roles and skills redundant."**
 	
-New initiatives like digitalisation can impact certain jobs and require new capabilities. 
-There will be a need to retrain and redeploy staff to other roles and other parts of the organisation. But where and what?	
+New initiatives like digitalisation can impact certain jobs and require new capabilities.
+There will be a need to retrain and redeploy staff to other roles and other parts of the organisation.
+But where and what?	
 
 Embarking on new directions for the growth and development of the organisation can impact the overall plan for competency development for current and future human resource needs.
 
