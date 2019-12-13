@@ -13,7 +13,7 @@ agency-logo: /images/test/fw-logo.png
 
 
 # Notification (For text at top notification of main page, go to /index.md)
-notification: Implementing Workplace Learning at your company
+notification: Implementing Workplace Learning at your organisation
 
 
 # Image to appear on all pages when shared via WhatsApp, Facebook, etc
@@ -22,7 +22,7 @@ shareicon: /images/framework-logo.png
 
 # Hero Banner
 hero-title: Workplace Learning @ SG
-hero-subtitle: Embark on your company's Workplace Learning journey today!
+hero-subtitle: Embark on your organisation's Workplace Learning journey today!
 hero-banner: /images/wpl.jpg
 
 
@@ -51,13 +51,13 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Do you have the following challenges that Workplace Learning can address?
-    section-description: <h4>Scroll below to see the challenges some companies face and find out more on the available support.</h4>
+    section-description: <h4>Scroll below to see the challenges some organisations face and find out more on the available support.</h4>
     section-more-button: <font color="red">Click here to learn more about the <br> National Workplace Learning Framework</font>
     section-more-button-url: '/framework/national-workplace-learning-framework/" target="_blank'
     section-image-path: /images/test/54429374_M.jpg
     
   - section-title: 
-    section-subtitle: '"Our company is embarking on digitalisation and it may make some roles and skills redundant."'
+    section-subtitle: '"Our organisation is embarking on digitalisation and it may make some roles and skills redundant."'
     section-description: <h4>What is our strategy for developing new capabilities?</h4>
     section-more-button: <font color="red">Find Out More</font>
     section-more-button-url: '/framework/strategy-implementation/" target="_blank'
@@ -108,6 +108,6 @@ info-sections:
 # To edit the careers details, go to careers-stories.yml
 
 careers-subtitle: Company Success Stories
-careers-description: Be inspired by these companies which have benefited from Workplace Learning. <br> Support such as grants and trainings are available!
+careers-description: Be inspired by these organisation which have benefited from Workplace Learning. <br> Support such as grants and trainings are available!
 
     
