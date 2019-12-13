@@ -8,7 +8,7 @@ second_nav_title: "Strategy"
 ---
 
 
-## **"Our organisation is embarking on digitalisation and it may make some roles and skills redundant."**
+# **"Our organisation is embarking on digitalisation and it may make some roles and skills redundant."**
 	
 New initiatives like digitalisation can impact certain jobs and require new capabilities. <br>
 There will be a need to retrain and redeploy staff to other roles and other parts of the organisation. But where and what?	
