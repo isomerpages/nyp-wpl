@@ -26,6 +26,6 @@ There is also a need to ensure that supportive learning spaces can be provided a
 
 
 
-#### [Click here for the possible solutions available](https://nyp-wpl-staging.netlify.com/framework/environment-support/){:target="_blank"}
+#### [Click here for available support](https://www.workplacelearning.gov.sg/framework/environment-support/){:target="_blank"}
 
 [Back to top](#top)
