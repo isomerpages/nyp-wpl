@@ -26,11 +26,11 @@ Promoting continuous learning at work is recognised as an essential leadership t
         <p>	
 		<b>Fostering a learning culture through enlightened leadership practices include:</b>
             <ul>
-                <li>Strengthening the skill of managers to coach, mentor and motivate staff to learn</li>
-                <li>Encouraging and supporting staff in their personal learning and development</li>
+                <li>Strengthening the skill of managers to coach, mentor and motivate employees to learn</li>
+                <li>Encouraging and supporting employees in their personal learning and development</li>
 		<li>Providing platforms and resources that support learning</li>
                 <li>Supporting peer learning at work</li>
-		<li>Assessing the impact of learning on staff</li>    		    
+		<li>Assessing the impact of learning on employees</li>    		    
             </ul>
 		</p>
 	</div>
