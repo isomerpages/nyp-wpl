@@ -12,7 +12,8 @@ second_nav_title: "Planning"
 ### **PLANNING**
 ***Shaping Workplace Learning within the Organisation***
 
-The organisation organises workplace learning activities systematically and purposefully. It supports the growth and development of its in-house trainers and supervisors. The quality of workplace learning is continuously improved to suit current and future business needs.
+The organisation organises workplace learning activities systematically and purposefully. <br>
+It supports the growth and development of its in-house trainers and supervisors. The quality of workplace learning is continuously improved to suit current and future business needs.
 
 <div class="row">
     <div class="col is-6">
