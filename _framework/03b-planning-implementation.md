@@ -28,6 +28,6 @@ To harness the benefits of workplace learning, it is critical to plan for staff 
 
 
 
-#### [Click here for available support](https://nyp-wpl-staging.netlify.com/framework/planning-implementation/){:target="_blank"}
+#### [Click here for available support](https://www.workplacelearning.gov.sg/framework/planning-support/){:target="_blank"}
 
 [Back to top](#top)
