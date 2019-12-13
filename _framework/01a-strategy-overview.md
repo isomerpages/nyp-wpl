@@ -27,10 +27,10 @@ The essential competencies for the organisation are identified and validated and
         <p>	
 		<b>Implementing a strategy for workplace learning include:</b>
             <ul>
-                <li>Taking stock of competencies within the company for current and future needs</li>
+                <li>Taking stock of competencies within the organisation for current and future needs</li>
                 <li>Anchoring competency development as a strategic goal</li>
 		<li>Promoting the benefits of workplace learning through various platforms internally</li>
-                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
+                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the organisation</li>		    
             </ul>
 		</p>
 	</div>
