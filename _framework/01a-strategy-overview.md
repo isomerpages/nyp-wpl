@@ -19,7 +19,7 @@ The essential competencies for the organisation are identified and validated and
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/framework-icon/strategy-icon.jpg">
-			<a href="https://nyp-wpl-staging.netlify.com/framework/strategy-support/" target="_blank"> <h4>Click here for available support</h4></a>
+			<a href="https://www.workplacelearning.gov.sg/framework/strategy-support/" target="_blank"> <h4>Click here for available support</h4></a>
 			<figcaption class="has-text-weight-bold" style="color:#960AD2"> </figcaption>
 		</figure>
 	</div>
@@ -27,10 +27,10 @@ The essential competencies for the organisation are identified and validated and
         <p>	
 		<b>Implementing a strategy for workplace learning include:</b>
             <ul>
-                <li>Taking stock of competencies within the company for current and future needs</li>
+                <li>Taking stock of competencies within the organisation for current and future needs</li>
                 <li>Anchoring competency development as a strategic goal</li>
 		<li>Promoting the benefits of workplace learning through various platforms internally</li>
-                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the company</li>		    
+                <li>Selecting appropriate learning interventions for competency development in line with the future growth and development of the organisation</li>		    
             </ul>
 		</p>
 	</div>

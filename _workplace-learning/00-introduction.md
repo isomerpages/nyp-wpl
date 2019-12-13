@@ -23,15 +23,7 @@ Workplace learning is more concerned with informal learning rather than formal e
 
 
 
-
-
-
-
-
-
-
-
-## **The benefits of Workplace Learning**
+## **Benefits of Workplace Learning**
 
 
 In the manpower-lean environment that most businesses operate in today, making full use of learning opportunities at work has become a business imperative in order to minimise downtime in operations.
@@ -39,7 +31,7 @@ In the manpower-lean environment that most businesses operate in today, making f
 Enterprises committed to supporting and developing their staff to grow into the job, excel on-the-job, and move across or up the organisation ladder will be more successful at retaining talent. This is especially critical for small and medium-sized enterprises (SMEs), as they face more challenges in terms of recruitment, training and retention.
 
 
-## **The importance of Workplace Learning**
+## **Importance of Workplace Learning**
 
 
 Learning happens all the time. We don't go into a course thinking: "For the next six hours I’m going to learn. After that I’m going to stop."

@@ -19,7 +19,7 @@ It has a good grasp of its overall manpower skills requirements and the job spec
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/framework-icon/tna-icon.jpg" alt="Training"/>
-			<a href="https://nyp-wpl-staging.netlify.com/framework/training-needs-analysis-support/" target="_blank"> <h4>Click here for available support</h4></a>
+			<a href="https://www.workplacelearning.gov.sg/framework/training-needs-analysis-support/" target="_blank"> <h4>Click here for available support</h4></a>
 			<figcaption class="has-text-weight-bold" style="color:#D2A00A"> </figcaption>
 		</figure>
 	</div>
