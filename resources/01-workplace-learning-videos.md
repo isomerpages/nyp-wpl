@@ -3,17 +3,18 @@ layout: simple-page
 title: Workplace Learning Videos 
 permalink: /resources/workplace-learning-videos
 breadcrumb: videos
-collection_name: resources
 ---
 
 
 
 
-#### What is Workplace Learning?
+#### Workplace Learning
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+**Workplace Learning is xxxxxxxxxxxxxxxxxxxxxx
 
 
 
@@ -43,7 +44,6 @@ It is an effective way of helping people to progress in their careers. It is a c
 
 A mentor helps the mentee explore career issues and guides them to take self-ownership for career development. Mentoring provides the mentee with an opportunity to think about career options and progress. A mentor asks questions, challenges assumptions while providing guidance and encouragement thereby strengthening the confidence of the mentee.
 
-<br>
 <br>
 
 <font size="3"><font color="blue"><i>The videos above are made available with permission from Institute for Adult Learning (IAL) Singapore.</i></font>
