@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Videos on Workplace Learning
+title: Workplace Learning Videos 
 permalink: /resources/workplace-learning-videos
 breadcrumb: videos
 collection_name: resources
