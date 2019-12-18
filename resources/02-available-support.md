@@ -6,9 +6,9 @@ breadcrumb: resources
 ---
 
 
-### **Available Support**
+### Available Support
 
-Training Programmes / Learning Opportunities
+**Training Programmes / Learning Opportunities**
   
 - [Workplace Learning Blueprint Development](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
@@ -28,7 +28,6 @@ Training Programmes / Learning Opportunities
 
 - [InnovBite](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities.html){:target="_blank"}
 
-[Back to top](#top)
 
 
 
@@ -37,7 +36,6 @@ Consultancy Services
 
 - [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
 
-[Back to top](#top)
 
 
 
