@@ -11,7 +11,7 @@ breadcrumb: videos
 #### Workplace Learning
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=12&end=180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Workplace Learning is xxxxxxxxxxxxxxxxxxxxxx**
