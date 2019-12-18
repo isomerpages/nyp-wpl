@@ -3,7 +3,6 @@ layout: simple-page
 title: Skills Framework
 permalink: /resources/skills-framework
 breadcrumb: Skills Framework
-collection_name: resources
 ---
 
 
