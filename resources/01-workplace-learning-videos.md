@@ -19,12 +19,18 @@ collection_name: resources
 
 #### Coaching
 
-Coaching is part of a supevisor’s toolkit to develop skills and behaviours in staff. The goal of coaching is to improve staff performance. A manager, supervisor or team lead can be a coach. Coaching can occur when an appropriate coachable moment arises.  A coaching session takes place as a conversation between the coach and the coachee. Instructing and demonstrating a skill or behavior is not enough. A coach asks questions and focuses on guiding the coachee to discover answers for themselves. Staff have more ownership with solutions that they have come up, rather than those that are forced upon them!
-
-
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hCnpHfdv9R4?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Coaching is part of a supevisor’s toolkit to develop skills and behaviours in staff. 
+
+The goal of coaching is to improve staff performance. A manager, supervisor or team lead can be a coach. Coaching can occur when an appropriate coachable moment arises.  A coaching session takes place as a conversation between the coach and the coachee. Instructing and demonstrating a skill or behavior is not enough. 
+
+A coach asks questions and focuses on guiding the coachee to discover answers for themselves. Staff have more ownership with solutions that they have come up, rather than those that are forced upon them!
+
+
+
 
 
 *The videos above are made available with permission from Institute for Adult Learning (IAL) Singapore.*
