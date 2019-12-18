@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Videos on Workplace Learning
-permalink: /resources/videos
+permalink: /resources/workplace-learning-videos
 breadcrumb: videos
 collection_name: resources
 ---
