@@ -49,20 +49,17 @@
   - title: Implementation & Processes
     url: /framework/implementation-&-processes-overview/   
 
+
+  
 - title: Resources
   url: /resources/
-    
   
-#- title: Resources
-#  url: /resources/
-  
-#  sub-links:
-#  - title: Videos
-#    url: /resources/videos
-#  - title: Available Support
-#    url: /available support/
-#  - title: FAQ
-#    url: /faq/    
+  sub-links:
+  - title: Skills Framework
+    url: /resources/skills-framework
+  - title: Videos
+    url: /resources/videos
+
     
 - title: Contact Us
   url: /contact-us/
