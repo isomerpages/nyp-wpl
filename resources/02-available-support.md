@@ -8,7 +8,7 @@ breadcrumb: resources
 
 # **Available Support**
 
-### Training Programmes / Learning Opportunities
+Training Programmes / Learning Opportunities
 - [Workplace Learning Blueprint Development](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
 - [Training Needs and Skills Gap Analysis](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
@@ -31,7 +31,7 @@ breadcrumb: resources
 
 
 
-### Consultancy Services
+Consultancy Services
 - [Workplace Learning Consultancy Services](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
 - [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
@@ -40,7 +40,7 @@ breadcrumb: resources
 
 
 
-### Self-Help Resources
+Self-Help Resources
 - [Skills Framework](https://www.skillsfuture.sg/skills-framework){:target="_blank"}
 
 - [Learning@Work online portal](https://learningatwork.ial.edu.sg/){:target="_blank"}
