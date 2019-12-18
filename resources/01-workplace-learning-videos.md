@@ -12,7 +12,7 @@ collection_name: resources
 #### What is Workplace Learning?
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -20,7 +20,7 @@ collection_name: resources
 #### Coaching
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hCnpHfdv9R4?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCnpHfdv9R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Coaching is part of a supevisor’s toolkit to develop skills and behaviours in staff. 
