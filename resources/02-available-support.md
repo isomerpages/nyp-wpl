@@ -9,7 +9,7 @@ breadcrumb: resources
 # **Available Support**
 
 <font size="8"><font color="black"><strong>Training Programmes / Learning Opportunities</strong></font>
-  
+<br>
 - [Workplace Learning Blueprint Development](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
 - [Training Needs and Skills Gap Analysis](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
