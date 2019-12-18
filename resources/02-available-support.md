@@ -6,7 +6,7 @@ breadcrumb: resources
 ---
 
 
-### Available Support
+## Available Support
 
 **Training Programmes / Learning Opportunities**
   
@@ -31,7 +31,7 @@ breadcrumb: resources
 
 
 
-Consultancy Services
+**Consultancy Services**
 - [Workplace Learning Consultancy Services](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
 - [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
@@ -39,10 +39,11 @@ Consultancy Services
 
 
 
-Self-Help Resources
+**Self-Help Resources**
 - [Skills Framework](https://www.skillsfuture.sg/skills-framework){:target="_blank"}
 
 - [Learning@Work online portal](https://learningatwork.ial.edu.sg/){:target="_blank"}
 
+<br>
 [Back to top](#top)
 
