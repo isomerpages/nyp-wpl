@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: National Workplace Learning Framework
-permalink: /framework/National-Workplace-Learning-Framework/
-breadcrumb: framework
+title: Skills Framework
+permalink: /resources/skills-framework
+breadcrumb: Skills Framework
 collection_name: framework
 ---
 
