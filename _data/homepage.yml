@@ -17,7 +17,7 @@ notification: Implementing Workplace Learning at your organisation
 
 
 # Shareicon (Image to appear on all pages when shared via WhatsApp, Facebook, etc)
-shareicon: gears.jpg
+shareicon: /images/gears.jpg
 
 
 # Hero Banner
