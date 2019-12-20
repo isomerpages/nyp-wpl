@@ -45,7 +45,7 @@ collection_name: workplace-learning
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/success-stories/63669011_S(edit).jpg" alt="okada">
+			<img src="/images/success-stories/35589533_M.jpg" alt="okada">
 			<figcaption> </figcaption>
 		</figure>
     </div>
