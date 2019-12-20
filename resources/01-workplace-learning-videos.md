@@ -43,4 +43,4 @@ A mentor helps the mentee explore career issues and guides them to take self-own
 
 
 
-<font size="3"><font color="blue"><i>The videos above are made available with permission from Institute for Adult Learning (IAL) Singapore.</i></font>
+<font size="4"><font color="blue"><i>The videos above are made available with permission from Institute for Adult Learning (IAL) Singapore.</i></font>
