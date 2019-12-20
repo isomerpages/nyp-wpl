@@ -6,7 +6,7 @@ breadcrumb: resources
 ---
 
 
-## Available Support
+## Compilation of the Available Support
 
 **Training Programmes / Learning Opportunities**
   
