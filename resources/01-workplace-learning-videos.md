@@ -12,7 +12,7 @@ breadcrumb: videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=12&end=227" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p style="text-align:center"><strong>Workplace Learning is more effective than learning outside of work.</strong></p>
+**Workplace Learning is more effective than learning outside of work.**
 
 In the manpower-lean environment that most businesses operate in today, making full use of learning opportunities at work has become a business imperative in order to minimise downtime in operations.
 
