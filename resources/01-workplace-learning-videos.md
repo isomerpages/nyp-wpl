@@ -5,8 +5,9 @@ permalink: /resources/workplace-learning-videos
 breadcrumb: videos
 ---
 
-<p style="text-align:center"><font size="6"><font color="blue"><strong>Workplace Learning</strong></font></p>
 
+### Workplace Learning
+  
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=12&end=227" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
