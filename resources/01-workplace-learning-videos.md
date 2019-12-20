@@ -5,14 +5,11 @@ permalink: /resources/workplace-learning-videos
 breadcrumb: videos
 ---
 
-
-### Workplace Learning
+<p style="text-align:center"><font size="6"><font color="blue"><strong>Workplace Learning</strong></font></p>
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Z7VJBzHwcY?start=12&end=227" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-**Workplace Learning is more effective than learning outside of work.** 
 
 <p style="text-align:center"><strong>Workplace Learning is more effective than learning outside of work.</strong></p>
 
