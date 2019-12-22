@@ -1,7 +1,7 @@
 ---
 layout: faq
-title: FAQ
-permalink: /test/faq
+title: Frequently Asked Questions
+permalink: /resources/faq
 collection_name: test
 ---
 
@@ -16,37 +16,35 @@ collection_name: test
 
 We hope the following will help you learn more about Workplace Learning:
 
-{: #qn1a}
-#### Question 1a
-Answer 1a
+{: #qn1}
+#### Question 1
+Answer 1
 
-{: #qn2a}
-#### Question 2a
-**Answer 2a:** xxxxx
+{: #qn2}
+#### Question 2
+**Answer 2:** xxxxx
 
 **open up:** [open in new tab](http://www.workplacelearning.gov.sg){:target="_blank"}
 
 ----------
 
-### Frequently Asked Questions part b
-Below are some questions and answers about other things:
+### Header
+Descriptor
 
-{: #qn2a}
-#### qn2a
+{: #qn3}
+#### qn3
 test test test 
 
-{: #qn2b}
-#### qn2b
-a. ans1
+{: #qn4}
+#### qn4
+a. ans4a
 
-b. ans2
-c. ans3
+b. ans4b
 
-**open up:** [open in new tab](http://www.workplacelearning.gov.sg){:target="_blank"}
 
 ---
 
-# 
+#      
 part c:
 
 {: #qnc1}
