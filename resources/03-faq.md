@@ -2,7 +2,7 @@
 layout: faq
 title: Frequently Asked Questions
 permalink: /resources/faq
-collection_name: test
+collection_name: resources
 ---
 
 <!-- COMMENT: This page uses customised 'faq' layout to organise the content below. Go to "_layouts->faq.html" if you need to edit the layout for this page, or change the layout to 'leftnav-page-content' in the header code snippet above to switch to a standard page layout -->
