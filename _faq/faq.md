@@ -1,7 +1,7 @@
 ---
 layout: faq
 title: Frequently Asked Questions
-permalink: /faq/
+permalink: /faq/faq/
 collection_name: resources
 ---
 
