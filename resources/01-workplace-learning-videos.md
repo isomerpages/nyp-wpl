@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Workplace Learning Videos 
-permalink: /resources/workplace-learning-videos
+title: Workplace Learning Videos
+permalink: /resources/workplace-learning-videos/
 breadcrumb: videos
-collection_name: Resources
+collection_name: resources
 ---
 
 
