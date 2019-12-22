@@ -24,7 +24,7 @@ The Skills Framework aims to create a common skills language for individuals, em
 The Skills Framework is also developed with the objectives to build deep skills for a lean workforce, enhance business competitiveness and support employment and employability.
 
 
-[Click here for Skills Frameworks that are lauched for various sectors](https://www.skillsfuture.sg/skills-framework#whicharethesectors){:target="_blank"}
+[Click here for Skills Frameworks that are launched for the various sectors](https://www.skillsfuture.sg/skills-framework#whicharethesectors){:target="_blank"}
 
 
 
