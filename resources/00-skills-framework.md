@@ -1,7 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Skills Framework
-permalink: /resources/skills-framework
+permalink: /resources/skills-framework/
+breadcrumb: skills-framework
 collection_name: resources
 ---
 
