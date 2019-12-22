@@ -16,37 +16,38 @@ collection_name: test
 
 We hope the following will help you learn more about Workplace Learning:
 
-{: #qn1}
-#### Question 1
+{: #qnA1}
+#### Question A1
 Answer 1
 
-{: #qn2}
-#### Question 2
+{: #qnA2}
+#### Question A2
 **Answer 2:** xxxxx
 
 **open up:** [open in new tab](http://www.workplacelearning.gov.sg){:target="_blank"}
 
 ----------
 
-### Header
-Descriptor
+### Header is here
+Descriptor goes here
 
-{: #qn3}
-#### qn3
-test test test 
+{: #qnB1}
+#### qnB1
+* **The asterisk at the left indicates a bullet dot**
+- Testing another bullet format
 
-{: #qn4}
-#### qn4
-a. ans4a
+{: #qnB2}
+#### qnB2
+a. ans B2a
 
-b. ans4b
+b. ans B2b
 
 
 ---
 
 #      
-part c:
+part c: what is there is no header?
 
 {: #qnc1}
-#### qnc1
-text 
+#### Any other enquiries?
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
