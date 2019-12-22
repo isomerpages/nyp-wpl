@@ -12,9 +12,9 @@ collection_name: resources
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 
-## Frequently Asked Questions on Workplace Learning
+### Frequently Asked Questions on Workplace Learning
 
-We hope the following will help you to undertand more about Workplace Learning:
+**We hope the following will help you to undertand more about Workplace Learning:**
 
 {: #qn1}
 #### What is Workplace Learning?
@@ -75,4 +75,4 @@ Text Text Text
 
 {: #qn9}
 #### Any other enquiries?
-If you have any questions on Workplace Learning, you can drop us an email through the [Contact Us](/contact-us) section. thank you.
+If you have any questions on Workplace Learning, you can drop us an email through the [Contact Us](/contact-us) section.Thank you.
