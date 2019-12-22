@@ -27,7 +27,7 @@ The workplace itself can be a significant and rich source of learning. Workers t
 
 
 {: #qn3}
-#### How do we help our staff be effective, productive and adaptable at work? Why would organisations and enterprises want to implement workplace learning?
+#### How do we help our staff be effective, productive and adaptable at work? <br> Why would organisations and enterprises want to implement workplace learning?
 
 - Learning sessions are provided within the workplace saving the costs or sending staff for external training
 - Training is custom-fit for the actual workplace situation
