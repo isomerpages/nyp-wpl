@@ -1,10 +1,10 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Available Support 
-permalink: /resources/available-support 
-breadcrumb: resources
+permalink: /resources/available-support/
+breadcrumb: available support 
+collection_name: resources
 ---
-
 
 ## Compilation of Available Support
 
