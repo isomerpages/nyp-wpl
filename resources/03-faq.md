@@ -12,13 +12,13 @@ collection_name: resources
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 
-### Frequently Asked Questions
+### Frequently Asked Questions on Workplace Learning
 
-We hope the following will help you learn more about Workplace Learning:
+We hope the following will help you to undertand more about Workplace Learning:
 
-{: #qnA1}
-#### Question A1
-Answer 1
+{: #qn1}
+#### What is workplace learning?
+Workplace learning is broadly defined as the acquisition of knowledge or skills by formal or informal means that occurs in the workplace.
 
 {: #qnA2}
 #### Question A2
