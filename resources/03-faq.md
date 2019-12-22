@@ -17,17 +17,17 @@ collection_name: resources
 We hope the following will help you to undertand more about Workplace Learning:
 
 {: #qn1}
-### What is Workplace Learning?
+### Q1: What is Workplace Learning?
 Workplace learning is broadly defined as the acquisition of knowledge or skills by formal or informal means that occurs in the workplace.
 
 
 {: #qn2}
-#### Why is workplace learning important? 
+#### Q2: Why is workplace learning important? 
 The workplace itself can be a significant and rich source of learning. Workers today face the twin challenges of dealing with exponential and continuously expanding levels of knowledge as well as the advent of digitalisation. With so much change around us that affect the way we work, there is a need to foster a sustainable workplace learning culture to drive the workforce be self-driven learners and build capabilities to keep pace with change. and organisations can help their staff learn at work through putting in place processes and practices that help their workforce people learn effectively at work. 
 
 
 {: #qn3}
-#### How do we help our staff be effective, productive and adaptable at work? <br> Why would organisations and enterprises want to implement workplace learning?
+#### Q3: How do we help our staff be effective, productive and adaptable at work? <br> Why would organisations and enterprises want to implement workplace learning?
 
 - Learning sessions are provided within the workplace saving the costs or sending staff for external training
 - Training is custom-fit for the actual workplace situation
@@ -38,21 +38,21 @@ The workplace itself can be a significant and rich source of learning. Workers t
 
 
 {: #qn4}
-#### What are the challenges of unstructured workplace learning?
+#### Q4: What are the challenges of unstructured workplace learning?
 - On-the-Job sessions are done on an ad-hoc basis by untrained and uncertified trainers
 - Learning is based on what trainers remember or feel like imparting. Valuable details about work may be left out
 - No objective way is set to measure task performance to ensure every learner is trained to meet the same standards
 
 
 {: #qn5}
-#### What are the benefits of structured On The Job training??
+#### Q5: What are the benefits of structured On The Job training??
 - On-the-Job sessions are planned and systematically done by trained and qualified workplace trainers
 - Learning is done through the use of comprehensive OJT blueprints 
 - Task performance is measured after the training to ensure every learner is able to meet the same standards
 
 
 {: #qn6}
-#### Is there funding for workplace learning?
+#### Q6: Is there funding for workplace learning?
 - For SMEs: Up to 90% funding for all course fees &
 training consultancy projects
 - For MNCs: Up to 90% funding for all course fees &
@@ -62,15 +62,15 @@ training consultancy projects
 
 
 {: #qn7}
-#### For workplace learning to be sustainable and effective, what must organisations commit to?
-•	Committed management that promotes workplace learning and its benefits 
-•	In-house capabilities to deliver workplace learning 
-•	Allocation of appropriate resources to support workplace learning 
-•	A robust system to track and monitor the effectiveness of workplace learning 
+#### Q7: For workplace learning to be sustainable and effective, what must organisations commit to?
+- Committed management that promotes workplace learning and its benefits 
+- In-house capabilities to deliver workplace learning 
+- Allocation of appropriate resources to support workplace learning 
+- A robust system to track and monitor the effectiveness of workplace learning 
 
 
 {: #qnc8}
-#### Why is there a drive towards workplace learning today?
+#### Q8: Why is there a drive towards workplace learning today?
 Text Text Text
 
 {: #qn9}
