@@ -61,8 +61,10 @@
     url: /resources/workplace-learning-videos
   - title: Available Support
     url: /resources/available-support    
-  - title: FAQ
-    url: /resources/faq  
+    
+    
+- title: FAQ
+  url: /faq/  
 
     
 - title: Contact Us
