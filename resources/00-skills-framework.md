@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Skills Framework
 permalink: /resources/skills-framework
 breadcrumb: Skills Framework
-collection_name: Resources
+collection_name: resources
 ---
 
 
