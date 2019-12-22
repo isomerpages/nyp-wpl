@@ -6,7 +6,7 @@ collection_name: resources
 ---
 
 
-### What is Skills Framework?????
+### What is Skills Framework?
 
 The Skills Framework is an integral component of the Industry Transformation Maps and it is co-created by Employers, Industry Associations, Education Institutions, Unions and Government for the Singapore workforce. 
 
