@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Workplace Learning Videos 
 permalink: /resources/workplace-learning-videos
 breadcrumb: videos
+collection_name: Resources
 ---
 
 
