@@ -14,10 +14,10 @@ collection_name: resources
 
 ### Frequently Asked Questions on Workplace Learning
 
-**We hope the following will help you to undertand more about Workplace Learning:**
+We hope the following will help you to undertand more about Workplace Learning:
 
 {: #qn1}
-#### What is Workplace Learning?
+### What is Workplace Learning?
 Workplace learning is broadly defined as the acquisition of knowledge or skills by formal or informal means that occurs in the workplace.
 
 
