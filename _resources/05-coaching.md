@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: leftnav-page-content
 title:  Coaching
-date:   2019-12-17
-permalink: /resources/video/2019-12-17-video
+permalink: /resources/coaching/
+collection_name: resources
 ---
 
 

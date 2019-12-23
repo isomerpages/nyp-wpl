@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: leftnav-page-content
 title:  Workplace Learning
-date:   2019-12-05
-permalink: /resources/video/2019-12-05-video
+permalink: /resources/workplace-learning/
+collection_name: resources
 ---
 
 

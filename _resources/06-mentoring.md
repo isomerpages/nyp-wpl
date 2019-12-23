@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: leftnav-page-content
 title:  Mentoring
-date:   2019-12-18
-permalink: /resources/video/2019-12-18-video
+permalink: /resources/mentoring/
+collection_name: resources
 ---
 
 
