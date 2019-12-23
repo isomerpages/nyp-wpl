@@ -9,7 +9,7 @@ second_nav_title: "Strategy"
 
 
 
-### **STRATEGY**
+## **STRATEGY**
 ***Strategic Considerations for Competency Development***
 
 The organisation is aware of the competencies it needs in order to achieve its goals and be successful. 
