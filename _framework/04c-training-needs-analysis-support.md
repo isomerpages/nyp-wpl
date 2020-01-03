@@ -8,31 +8,27 @@ second_nav_title: "Training Needs Analysis"
 ---
 
 
-# **Available Support**
+## **Available Support**
 
-### Training Programmes / Learning Opportunities
-1. [Training Needs and Skills Gap Analysis Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
+**Training Programmes / Learning Opportunities**
+- [Training Needs and Skills Gap Analysis Programme](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html){:target="_blank"}
 
-2. [Workplace Learning Facilitator (WLF) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-learning-facilitator.html){:target="_blank"}
+- [Workplace Learning Facilitator (WLF) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/workplace-learning-facilitator.html){:target="_blank"}
 
-3. [Certified Workplace Learning Specialist (CWLS) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
-
-[Back to top](#top)
+- [Certified Workplace Learning Specialist (CWLS) Programme](https://www.ial.edu.sg/learn-at-ial/ial-programmes/certificate/certified-workplace-learning-specialist-cwls.html){:target="_blank"}
 
 
 
-### Consultancy Services
-1. [Skills Gap Analysis](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+**Consultancy Services**
+- [Skills Gap Analysis](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
-2. [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
-
-[Back to top](#top)
+- [Learning Enterprise Alliance](https://www.ial.edu.sg/start-enterprise-transformation/learning-enterprise-alliance.html){:target="_blank"}
 
 
 
-### Self-Help Resources
-1. [Skills Framework](https://www.skillsfuture.sg/skills-framework){:target="_blank"}
+**Self-Help Resources**
+- [Skills Framework](https://www.skillsfuture.sg/skills-framework){:target="_blank"}
 
-2. [Learning@Work online portal](https://learningatwork.ial.edu.sg/){:target="_blank"}
+- [Learning@Work online portal](https://learningatwork.ial.edu.sg/){:target="_blank"}
 
 [Back to top](#top)
