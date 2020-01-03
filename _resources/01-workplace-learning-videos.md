@@ -48,5 +48,6 @@ It is an effective way of helping people to progress in their careers. It is a c
 A mentor helps the mentee explore career issues and guides them to take self-ownership for career development. Mentoring provides the mentee with an opportunity to think about career options and progress. A mentor asks questions, challenges assumptions while providing guidance and encouragement thereby strengthening the confidence of the mentee.
 
 
-TBC on where should this go to?
+TBC on where should this go to? Should we inform IAL?
+
 <font size="4"><font color="blue"><i>The videos above are made available with permission from Institute for Adult Learning (IAL) Singapore.</i></font>
