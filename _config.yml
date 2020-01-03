@@ -2,7 +2,7 @@ title: This Workplace Learning website is supported by SkillsFuture Singapore
 title-abbreviated: us for any feedback on the website
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "https://www.workplacelearning.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.workplacelearning.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
