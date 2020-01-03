@@ -71,7 +71,10 @@ training consultancy projects
 
 {: #qnc8}
 #### Q8: Why is there a drive towards workplace learning today?
-Text Text Text
+Recent research on learning has surfaced a 70:20:10 model of learning; 70% of our learning comes from working on-the-job or from our experiences at the workplace, 20% of our learning comes from observing, being coached and mentored by others while 10% of our learning comes from attending classes or formal learning programmes. 
+
+As such, there is a drive towards strengthening learning from our experiences at the workplace and from receiving effective coaching and mentoring. 
+
 
 {: #qn9}
 #### Any other enquiries?
