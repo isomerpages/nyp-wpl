@@ -4,11 +4,11 @@
 #                                #
 ##################################
 
-# Favicon
+# Favicon (Icon on left corner of website tab)
 favicon: /images/framework-icon.ico
 
 
-# Agency logo
+# Agency logo (Logo on left corner of webpage - Home page button)
 agency-logo: /images/test/fw-logo.png
 
 
@@ -16,7 +16,7 @@ agency-logo: /images/test/fw-logo.png
 notification: Implementing Workplace Learning at your organisation
 
 
-# Image to appear on all pages when shared via WhatsApp, Facebook, etc
+# Shareicon (Image to appear on all pages when shared via WhatsApp, Facebook, etc)
 shareicon: /images/framework-logo.png
 
 

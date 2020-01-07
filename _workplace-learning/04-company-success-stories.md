@@ -11,7 +11,7 @@ collection_name: workplace-learning
 <div class="row">
         <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/training6.jpg" alt="gardenia">
+			<img src="/images/success-stories/39062724_M.jpg" alt="gardenia">
 			<figcaption> </figcaption>
 		</figure>
         </div>
@@ -28,7 +28,7 @@ collection_name: workplace-learning
 <div class="row reverse-row-order">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/test/novotel.jpg" alt="Novotel">
+			<img src="/images/success-stories/32381172_M.jpg" alt="Novotel">
 			<figcaption>  </figcaption>
 		</figure>
     </div>
@@ -45,7 +45,7 @@ collection_name: workplace-learning
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/test/okada.jpg" alt="okada">
+			<img src="/images/success-stories/35589533_M.jpg" alt="okada">
 			<figcaption> </figcaption>
 		</figure>
     </div>
