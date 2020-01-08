@@ -51,18 +51,18 @@
 
 
   
-## - title: Resources
-#   url: /resources/skills-framework
+- title: Resources
+  url: /resources/skills-framework
   
-#   sub-links:
-#   - title: Skills Framework
-#     url: /resources/skills-framework
-#   - title: Workplace Learning Videos
-#     url: /resources/workplace-learning-videos
-#   - title: Available Support
-#     url: /resources/available-support        
-#   - title: FAQ
-#     url: /resources/faq/  
+  sub-links:
+  - title: Skills Framework
+    url: /resources/skills-framework
+  - title: Workplace Learning Videos
+    url: /resources/workplace-learning-videos
+  - title: Available Support
+    url: /resources/available-support        
+  - title: FAQ
+    url: /resources/faq/  
 
     
 - title: Contact Us
