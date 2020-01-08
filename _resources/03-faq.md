@@ -14,7 +14,7 @@ collection_name: resources
 
 ### Frequently Asked Questions on Workplace Learning
 
-We hope the following will help you to undertand more about Workplace Learning:
+We hope the following will help you to understand more about Workplace Learning:
 
 {: #qn1}
 ### Q1: What is workplace learning?
