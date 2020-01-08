@@ -23,11 +23,15 @@ Workplace learning is broadly defined as the acquisition of knowledge or skills 
 
 {: #qn2}
 #### Q2: Why is workplace learning important? 
-The workplace itself can be a significant and rich source of learning. Workers today face the twin challenges of dealing with exponential and continuously expanding levels of knowledge as well as the advent of digitalisation. With so much change around us that affect the way we work, there is a need to foster a sustainable workplace learning culture to drive the workforce be self-driven learners and build capabilities to keep pace with change. and organisations can help their staff learn at work through putting in place processes and practices that help their workforce people learn effectively at work. 
+The workplace itself can be a significant and rich source of learning. Workers today face the twin challenges of dealing with exponential and continuously expanding levels of knowledge as well as the advent of digitalisation. 
+
+With so much change around us that affect the way we work, there is a need to foster a sustainable workplace learning culture to drive the workforce be self-driven learners and build capabilities to keep pace with change, and organisations can help their staff learn at work through putting in place processes and practices that help their workforce people learn effectively at work. 
 
 
 {: #qn3}
-#### Q3: How do we help our staff be effective, productive and adaptable at work? <br> <br> <br> Why would organisations and enterprises want to implement workplace learning?
+#### Q3: How do we help our staff be effective, productive and adaptable at work? 
+
+Why would organisations and enterprises want to implement workplace learning?
 
 - Learning sessions are provided within the workplace saving the costs or sending staff for external training
 - Training is custom-fit for the actual workplace situation
@@ -45,7 +49,7 @@ The workplace itself can be a significant and rich source of learning. Workers t
 
 
 {: #qn5}
-#### Q5: What are the benefits of structured On The Job training??
+#### Q5: What are the benefits of structured On The Job training?
 - On-the-Job sessions are planned and systematically done by trained and qualified workplace trainers
 - Learning is done through the use of comprehensive OJT blueprints 
 - Task performance is measured after the training to ensure every learner is able to meet the same standards
