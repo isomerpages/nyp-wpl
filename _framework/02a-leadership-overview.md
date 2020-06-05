@@ -29,7 +29,6 @@ Promoting continuous learning at work is recognised as an essential leadership t
             <ul>
                 <li>Strengthening the skill of leaders to coach, mentor and motivate staff to learn</li>
                 <li>Acting as positive role models for continuous learning</li>
-		<li>Providing platforms and resources that support learning</li>
                 <li>Supporting and motivating staff in their learning and development</li>
 		<li>Providing opportunities, platforms and resources to support peer learning</li>    		    
             </ul>
