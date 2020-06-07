@@ -23,7 +23,7 @@ The organisation implements workplace learning activities, in a systematic and d
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Implementing workplace learning solutions includes:</b>
+		<b>Implementing workplace learning solutions include:</b>
             <ul>
                 <li>Implementing appropriate learning solutions; structured learning for job roles (On-the-Job Training), e-learning solutions, bite-sized learning, induction programmes, etc</li>
 		<li>Providing informal learning opportunities for staff</li>
