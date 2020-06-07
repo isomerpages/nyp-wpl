@@ -27,8 +27,8 @@ The organisation supports learning at work and creates opportunities for learnin
 		<b>Providing a supportive learning environment includes:</b>
             <ul>
                 <li>Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle</li>
-                <li>Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance </li>
-		<li>Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc </li>  		    
+                <li>Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance</li>
+		<li>Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc</li>  		    
             </ul>
 		</p>
 	</div>
