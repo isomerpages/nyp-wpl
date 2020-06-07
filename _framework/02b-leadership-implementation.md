@@ -25,6 +25,11 @@ Leaders can foster a learning culture within the organisation by promoting learn
 - Supporting peer learning at work
 - Assessing the impact of learning on staff
 
+•	Strengthening the skill of leaders to coach, mentor and motivate staff to learn
+•	Acting as positive role models for continuous learning
+•	Supporting and motivating staff in their learning and development
+•	Providing opportunities, platforms and resources to support peer learning
+
 
 
 #### [Click here for available support](https://www.workplacelearning.gov.sg/framework/leadership-support/){:target="_blank"}
