@@ -16,15 +16,12 @@ While sending staff for external training programmes can be beneficial, it can b
 
 <img src="/images/implementation/inp.jpg">
 
-#### **Implementing structured learning at the workplace includes:**
+#### **Implementing workplace learning solutions include:**
 
-
-- Implementing appropriate learning solutions; structured learning for job roles (On-the-Job training), e-learning solutions, bite-sized learning, etc
+- Implementing appropriate learning solutions; structured learning for job roles (On-the-Job Training), e-learning solutions, bite-sized learning, induction programmes, etc
 - Providing informal learning opportunities for staff
 - Applying continuous improvement to workplace learning programmes
 - Reviewing learning outcomes with staff
-
-
 
 
 #### [Click here for available support](https://www.workplacelearning.gov.sg/framework/implementation-&-processes-support/){:target="_blank"}
