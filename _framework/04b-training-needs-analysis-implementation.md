@@ -18,7 +18,7 @@ Appropriate resources need to be provided for learning solutions that can close 
 <img src="/images/implementation/tna.jpg">
 
 
-#### **Deciding what competencies to provide learning solutions for requires conducting a Training Needs Analysis (TNA) which includes:**
+#### **Conducting a Training Needs Analysis (TNA) includes:**
 
 - Clarifying the current and future performance requirements for roles in the organisation
 - Determining the skills gap of staff in terms of their current Knowledge, Skills and Attitude (KSA)
