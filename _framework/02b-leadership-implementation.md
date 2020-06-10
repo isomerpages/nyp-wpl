@@ -17,7 +17,7 @@ Leaders can foster a learning culture within the organisation by promoting learn
 
 <img src="/images/implementation/leadership.jpg">
 
-#### **Leadership policies and practices that can promote a learning culture include:**
+#### **Fostering a learning culture through enlightened leadership practices includes:**
 
 - Strengthening the skill of leaders to coach, mentor and motivate staff to learn
 - Acting as positive role models for continuous learning
