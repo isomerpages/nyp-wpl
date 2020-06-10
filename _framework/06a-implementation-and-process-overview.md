@@ -8,7 +8,7 @@ second_nav_title: "Implementation & Processes"
 ---
 
 
-### **Processes & Implementation**
+### **Implementation & Processes**
 ***Implementing Effective Workplace Learning Processes and Practices***
 
 The organisation implements workplace learning activities, in a systematic and deliberate manner, based on staff learning profile and skills needs. Appropriate learning delivery solutions are selected, and suitable instructional methods and job aids are used.
