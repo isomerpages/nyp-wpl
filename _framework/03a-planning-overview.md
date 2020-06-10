@@ -25,14 +25,12 @@ It supports the growth and development of its in-house trainers and supervisors.
 	</div>
 	<div class="col is-6">
         <p>	
-		<b>Planning for workplace learning purposefully and systematically include:</b>
+		<b>Planning for workplace learning purposefully and systematically includes:</b>
             <ul>
-                <li>Ensuring learning programmes are relevant, current and future oriented</li>
-                <li>Establishing a schedule for learning activities</li>
-		<li>Tracking learning application at work after formal training interventions</li>
-                <li>Collaborating with training vendors to ensure a high quality of training is delivered</li>
-		<li>Establishing and maintaining an effective induction programme for new hires in all roles</li>    
-		<li>Supporting the development of in-house trainers / coaches / mentors </li>    		    
+                <li>Ensuring learning programmes are relevant, current and future oriented and tracking learning application at work</li>
+                <li>Supporting the development of in-house trainers / coaches / mentors</li>
+		<li>Collaborating with training partners to ensure high standards of training delivery</li> 
+		<li>Maintaining an effective induction programme for new hires in all roles</li>    		    
             </ul>
 		</p>
 	</div>

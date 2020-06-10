@@ -18,12 +18,11 @@ There is also a need to ensure that supportive learning spaces can be provided a
 
 <img src="/images/implementation/environment.jpg">
 
-#### **Providing a supportive environment that caters to diverse learning needs include:** 
+#### **Providing a supportive learning environment includes:** 
 
 - Providing flexible learning opportunities to cater to diverse staff needs based on their demographics, state of well-being (health) and changing lifestyle
-- Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance 
-- Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc 
-
+- Supporting learning at work by providing a conducive environment for learning and feedback on learning and performance
+- Ensuring appropriate professional development opportunities are available for a diversity of staff profiles; based on age, gender, education levels, language abilities, etc
 
 
 #### [Click here for available support](https://www.workplacelearning.gov.sg/framework/environment-support/){:target="_blank"}

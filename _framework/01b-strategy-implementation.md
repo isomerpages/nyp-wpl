@@ -18,7 +18,7 @@ Embarking on new directions for the growth and development of the organisation c
 <img src="/images/implementation/strategy.jpg">
 
 
-#### **Some strategies for developing new capabilities include:**
+#### **Implementing a strategy for workplace learning includes:**
 
 - Taking stock of competencies within the organisation for current and future needs
 - Identifying appropriate knowledge and skills for competency development in line with the future growth and development of the organisation

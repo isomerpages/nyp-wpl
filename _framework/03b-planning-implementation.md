@@ -17,15 +17,12 @@ To harness the benefits of workplace learning, it is critical to plan for staff 
 
 <img src="/images/implementation/planning.jpg">
 
-#### **Planning for purposeful and systematic workplace learning aligned to business growth include:**
+#### **Planning for workplace learning purposefully and systematically includes:**
 
-- Ensuring learning programmes are relevant, current and future oriented
-- Establishing a schedule for learning activities
-- Tracking learning application at work after formal training interventions
-- Collaborating with training vendors to ensure a high quality of training is delivered
-- Establishing and maintaining an effective induction programme for new hires in all roles
+- Ensuring learning programmes are relevant, current and future oriented and tracking learning application at work  
 - Supporting the development of in-house trainers / coaches / mentors
-
+- Collaborating with training partners to ensure high standards of training delivery 
+- Maintaining an effective induction programme for new hires in all roles
 
 
 #### [Click here for available support](https://www.workplacelearning.gov.sg/framework/planning-support/){:target="_blank"}
