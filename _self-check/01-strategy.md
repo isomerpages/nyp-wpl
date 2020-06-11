@@ -6,7 +6,9 @@ breadcrumb: strategy
 collection_name: self-check
 ---
 
-#### The Strategy component focuses on implementation of a strategy for workplace learning based on the organisation’s strategic considerations for competency development. The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.
+#### The Strategy component focuses on implementation of a strategy for workplace learning based on the organisation’s strategic considerations for competency development. 
+
+#### The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.
 
 **Excellence Indicators**
 - Existing and future core competencies in the organisation are aligned with strategic goals and references applicable to industry frameworks (e.g. Skills Framework).
