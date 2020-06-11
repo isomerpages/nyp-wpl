@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Organisation Self-Check for Workplace Learning Component - Strategy
+title: Organisation Self-Check
 permalink: /framework/strategy-self-check/
 breadcrumb: Strategy
 collection_name: framework
