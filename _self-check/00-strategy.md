@@ -6,5 +6,6 @@ breadcrumb: strategy
 collection_name: organisation-self-check
 ---
 
+## Click the link below to do the questionaire for the evaluation of your organisation for the Workplace Learning Framework Component - Strategy
 
-## **What
+1. [Workplace Learning Framework Component - Strategy](https://form.gov.sg/5ee188455531ef001106677c){:target="_blank"}
