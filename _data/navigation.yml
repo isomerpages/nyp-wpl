@@ -11,12 +11,6 @@
   - title: Introduction
     url: /workplace-learning/introduction/
    
-   
-   
-   
-   
-   
-  
   - title: Available Funding
     url: /workplace-learning/available-funding/ 
     
@@ -48,6 +42,15 @@
 
   - title: Implementation & Processes
     url: /framework/implementation-&-processes-overview/   
+
+
+
+- title: Organisation Self-Check 
+  url: /organisation-self-check/introduction/
+  
+  sub-links:
+  - title: Strategy
+    url: /organisation-self-check/strategy/
 
 
   
