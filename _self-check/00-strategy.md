@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Introduction to Workplace Learning
-permalink: /workplace-learning/introduction/
-breadcrumb: introduction
-collection_name: workplace-learning
+title: Organisation Self-Check for Workplace Learning Component - Strategy
+permalink: /organisation-self-check/strategy/
+breadcrumb: strategy
+collection_name: organisation-self-check
 ---
 
 
