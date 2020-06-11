@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Organisation Self-Check for Workplace Learning Component - Strategy
-permalink: /organisation-self-check/strategy/
+permalink: /self-check/strategy/
 breadcrumb: strategy
-collection_name: organisation-self-check
+collection_name: self-check
 ---
 
 ## Click the link below to do the questionaire for the evaluation of your organisation for the Workplace Learning Framework Component - Strategy
