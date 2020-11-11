@@ -6,11 +6,9 @@ breadcrumb: questionnaire
 collection_name: self-assessment
 ---
 
-The Strategy component focuses on implementation of a strategy for workplace learning based on the organisation’s strategic considerations for competency development.
+The self-assessment questionnaire ....................
 
-The organisation is aware of the competencies it needs in order to achieve its goals and be successful. The essential competencies for the organisation are identified and validated and measures are defined.
-
-#### Click the link below for the evaluation of your organisation in the Workplace Learning Framework Component - Strategy
-1. [Workplace Learning Framework Component - Strategy](https://form.gov.sg/5ee188455531ef001106677c){:target="_blank"}
+#### Click the link below for the self-assessment questionnaire:
+1. [Self-Assessment Questionnaire](https://form.gov.sg/5faad2cb5ba2e70011d6cf1f){:target="_blank"}
 
 
