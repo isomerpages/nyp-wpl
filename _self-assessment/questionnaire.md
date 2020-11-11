@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Organisational Self-Assessment
 permalink: /self-assessment/questionnaire/
-breadcrumb: strategy
+breadcrumb: questionnaire
 collection_name: self-assessment
 ---
 
