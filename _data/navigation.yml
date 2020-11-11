@@ -45,12 +45,12 @@
 
 
 
-- title: Organisation Self-Check 
-  url: /self-check/strategy/
+- title: Organisational Self-Assessment
+  url: /self-assessment
   
   sub-links:
-  - title: Strategy
-    url: /self-check/strategy/
+  - title: Self-Assessment Questionnaire
+    url: /self-assessment/questionnaire/
 
 
   
