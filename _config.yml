@@ -52,7 +52,7 @@ collections:
   framework:
     output: true
     
-  self-check:
+  self-assessment:
     output: true
     
   implementations:
