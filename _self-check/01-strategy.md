@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Organisation Self-Check for Workplace Learning Component - Strategy
-permalink: /self-check/strategy/
+title: Organisational Self-Assessment
+permalink: /self-assessment/questionnaire/
 breadcrumb: strategy
-collection_name: self-check
+collection_name: self-assessment
 ---
 
 The Strategy component focuses on implementation of a strategy for workplace learning based on the organisation’s strategic considerations for competency development.
