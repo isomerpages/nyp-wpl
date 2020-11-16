@@ -6,7 +6,7 @@ breadcrumb: questionnaire
 collection_name: self-assessment
 ---
 
-This self-assessment is meant to provide companies and organisations with a general and non-auditable self-evaluation of current approaches and implementation efforts in workplace learning. 
+This self-assessment is meant to provide companies and organisations with a general and non-auditable evaluation of current approaches and implementation efforts in workplace learning. 
 This survey will take you approximately 20 minutes to complete.
 
 #### Click the link below for the self-assessment questionnaire:
