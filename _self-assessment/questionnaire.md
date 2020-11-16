@@ -10,6 +10,7 @@ This self-assessment is meant to provide companies and organisations with a gene
 <br>
 <p> The assessment will take you approximately 20 minutes to complete.
 
+<br>
 #### Click the link below for the self-assessment questionnaire:
 [Self-Assessment Questionnaire](https://form.gov.sg/5faad2cb5ba2e70011d6cf1f){:target="_blank"}
 
