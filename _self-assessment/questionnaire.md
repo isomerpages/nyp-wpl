@@ -14,7 +14,7 @@ It would be useful for all responders to the assessment to possess a relatively 
 
 The assessment will take you approximately 20 minutes to complete.
 
-#### Click the link below for the self-assessment questionnaire:
-[Self-Assessment Questionnaire](https://form.gov.sg/5faad2cb5ba2e70011d6cf1f){:target="_blank"}
+#### Click the link below for the organisational self-assessment:
+[Organisational Self-Assessment](https://form.gov.sg/5faad2cb5ba2e70011d6cf1f){:target="_blank"}
 
 
