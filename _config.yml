@@ -53,7 +53,7 @@ collections:
     output: true
     
   self-assessment:
-    output: true
+    output: false
     
   implementations:
     output: false        
