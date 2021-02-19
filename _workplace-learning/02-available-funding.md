@@ -11,7 +11,7 @@ collection_name: workplace-learning
 
 ## Available funding for Workplace Learning
 
-1. [Workplace Learning Excellence Fund](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+1. [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/core-capabilities/human-capital-development){:target="_blank"}
 
 
 
