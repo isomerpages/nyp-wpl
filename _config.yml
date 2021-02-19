@@ -52,6 +52,9 @@ collections:
   framework:
     output: true
     
+  self-assessment:
+    output: false
+    
   implementations:
     output: false        
     
