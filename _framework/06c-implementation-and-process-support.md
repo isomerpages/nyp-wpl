@@ -19,7 +19,7 @@ second_nav_title: "Implementation & Processes"
 
 **Consultancy Services**
 
-- [OJT Blueprint Development Consulting](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+- [OJT Blueprint Development](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
 
 
