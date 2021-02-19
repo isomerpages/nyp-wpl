@@ -17,7 +17,9 @@ collection_name: resources
 
 In the manpower-lean environment that most businesses operate in today, making full use of learning opportunities at work has become a business imperative in order to minimise downtime in operations.
 
-Enterprises committed to supporting and developing their staff to grow into the job, excel on-the-job, and move across or up the organisation ladder will be more successful at retaining talent. This is especially critical for small and medium-sized enterprises (SMEs), as they face more challenges in terms of recruitment, training and retention.
+Enterprises committed to supporting and developing their staff to grow into the job, excel on-the-job, and move across or up the organisation ladder will be more successful at retaining talent. 
+
+This is especially critical for small and medium-sized enterprises (SMEs), as they face more challenges in terms of recruitment, training and retention.
 
 
 
