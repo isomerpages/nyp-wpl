@@ -18,7 +18,7 @@ second_nav_title: "Strategy"
 
 **Consultancy Services**
 
-- [Consulting to implement a Workplace Learning System](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
+- [Implement a Workplace Learning System](https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html){:target="_blank"}
 
 
 
