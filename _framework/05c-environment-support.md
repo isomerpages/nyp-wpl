@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Available Support
+title: 'Available Support'
 permalink: /framework/environment-support/
 breadcrumb: Environment
-collection_name: framework
-second_nav_title: "Environment"
+third_nav_title: Environment
+
 ---
+
 
 
 
