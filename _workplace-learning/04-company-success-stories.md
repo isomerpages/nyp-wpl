@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Company Success Stories
+title: 'Company Success Stories'
 permalink: /workplace-learning/company-success-stories/
 breadcrumb: company-success-stories
-collection_name: workplace-learning
+
 ---
+
 
 
 #### **Reducing training lead-time**
