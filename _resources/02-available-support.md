@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Available Support 
+title: 'Available Support'
 permalink: /resources/available-support/
-breadcrumb: available support 
-collection_name: resources
+breadcrumb: 'available support'
+
 ---
+
 
 ## Compilation of Available Support
 
