@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Microsoft
 permalink: /microsoft/
 breadcrumb: Microsoft
+
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non leo id lectus fermentum feugiat. Mauris porttitor elementum velit, et pellentesque lacus feugiat ut. Suspendisse nibh dolor, cursus vel rutrum et, cursus at nunc. Suspendisse eget diam quam. Etiam gravida, lectus sed porttitor pretium, arcu mauris sollicitudin ex, nec rhoncus ligula lectus sit amet velit. Fusce porttitor metus sed magna pulvinar, eget elementum nunc bibendum. Cras tincidunt id ipsum ac fringilla. Curabitur dapibus fringilla sapien eu pellentesque. Mauris at magna sed nisi ultrices porta et quis mauris. Sed ligula tellus, ultricies id condimentum a, lacinia non tortor. Cras semper lorem leo, id tincidunt sapien condimentum finibus. Maecenas suscipit eros auctor, sodales erat in, finibus diam. Proin a pellentesque dui. Sed laoreet risus vitae suscipit aliquet. Integer viverra placerat neque, in pulvinar lacus fermentum et. Cras eget nisi ut ipsum consectetur tincidunt vitae a turpis.
 
