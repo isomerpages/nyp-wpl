@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Implementation and Processes
+title: 'Implementation and Processes'
 permalink: /implementations/implementation-and-processes/
-breadcrumb: Workplace Learning Implementations - Implementation and Processes
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - Implementation and Processes'
+
 ---
+
 
 
 
