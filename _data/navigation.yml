@@ -1,68 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About Workplace Learning
-  url: /workplace-learning/introduction/
-  
-  sub-links:
-  - title: Introduction
-    url: /workplace-learning/introduction/
-   
-  - title: Available Funding
-    url: /workplace-learning/available-funding/ 
-    
-  - title: Company Success Stories
-    url: /workplace-learning/company-success-stories/ 
-       
-    
-- title: National Workplace Learning Framework
-  url: /framework/National-Workplace-Learning-Framework/
-
-  sub-links:
-  - title: Six Components of National Workplace Learning Framework
-    url: /framework/national-workplace-learning-framework/
-    
-  - title: Strategy
-    url: /framework/strategy-overview/
-    
-  - title: Leadership
-    url: /framework/leadership-overview/
-    
-  - title: Planning
-    url: /framework/planning-overview/  
-    
-  - title: Training Needs Analysis
-    url: /framework/training-needs-analysis-overview/
-    
-  - title: Environment
-    url: /framework/environment-overview/
-
-  - title: Implementation & Processes
-    url: /framework/implementation-&-processes-overview/   
-
-
-
-
-
-
-  
-- title: Resources
-  url: /resources/skills-framework
-  
-  sub-links:
-  - title: Skills Framework
-    url: /resources/skills-framework
-  - title: Workplace Learning Videos
-    url: /resources/workplace-learning-videos
-  - title: Available Support
-    url: /resources/available-support        
-  - title: FAQ
-    url: /resources/faq/  
-
-    
-- title: Contact Us
-  url: /contact-us/
-
+logo: /images/test/fw-logo.png
+links:
+    - title: 'About Workplace Learning'
+      collection: about-workplace-learning
+    - title: 'National Workplace Learning Framework'
+      collection: national-workplace-learning-framework
+    - title: Resources
+      collection: resources
+    - title: 'Contact Us'
+      url: /contact-us/
