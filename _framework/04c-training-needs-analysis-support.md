@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Available Support
+title: 'Available Support'
 permalink: /framework/training-needs-analysis-support/
-breadcrumb: Training Needs Analysis
-collection_name: framework
-second_nav_title: "Training Needs Analysis"
+breadcrumb: 'Training Needs Analysis'
+third_nav_title: 'Training Needs Analysis'
+
 ---
+
 
 
 ## **Available Support**
