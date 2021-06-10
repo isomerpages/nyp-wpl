@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Planning
 permalink: /implementations/planning/
-breadcrumb: Workplace Learning Implementations - Planning
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - Planning'
+
 ---
+
 
 
 
