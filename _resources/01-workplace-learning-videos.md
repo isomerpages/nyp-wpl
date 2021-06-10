@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Workplace Learning Videos
+title: 'Workplace Learning Videos'
 permalink: /resources/workplace-learning-videos/
 breadcrumb: videos
-collection_name: resources
+
 ---
+
 
 
 ### Workplace Learning
