@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Environment
 permalink: /implementations/environment/
-breadcrumb: Workplace Learning Implementations - Environment
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - Environment'
+
 ---
+
 
 
 
