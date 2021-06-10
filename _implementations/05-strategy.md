@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Strategy
 permalink: /implementations/strategy/
-breadcrumb: Workplace Learning Implementations - Strategy
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - Strategy'
+
 ---
+
 
 
 
