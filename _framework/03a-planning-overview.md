@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /framework/planning-overview/
 breadcrumb: Planning
-collection_name: framework
-second_nav_title: "Planning"
+third_nav_title: Planning
+
 ---
+
 
 
 
