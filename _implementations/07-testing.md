@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: testing
 permalink: /implementations/testing/
-breadcrumb: Workplace Learning Implementations - testing
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - testing'
+
 ---
+
 
 
 testing
