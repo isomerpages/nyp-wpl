@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /framework/leadership-overview/
 breadcrumb: Leadership
-collection_name: framework
-second_nav_title: "Leadership"
+third_nav_title: Leadership
+
 ---
+
 
 
 ### **LEADERSHIP**
