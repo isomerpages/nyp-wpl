@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Implementation
-permalink: /framework/implementation-&-processes-implementation/
-breadcrumb: implementation-&-processes
-collection_name: framework
-second_nav_title: "Implementation & Processes"
+permalink: '/framework/implementation-&-processes-implementation/'
+breadcrumb: 'implementation-&-processes'
+third_nav_title: 'Implementation & Processes'
+
 ---
+
 
 
 # **"Sending my staff out for training disrupts my work operations!"**
