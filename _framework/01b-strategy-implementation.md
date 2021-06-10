@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Implementation
 permalink: /framework/strategy-implementation/
 breadcrumb: Strategy
-collection_name: framework
-second_nav_title: "Strategy"
+third_nav_title: Strategy
+
 ---
+
 
 
 # **"Our organisation is embarking on digitalisation and it may make some roles and skills redundant."**
