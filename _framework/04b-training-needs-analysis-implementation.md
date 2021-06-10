@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Implementation
 permalink: /framework/training-needs-analysis-implementation/
-breadcrumb: Training Needs Analysis
-collection_name: framework
-second_nav_title: "Training Needs Analysis"
+breadcrumb: 'Training Needs Analysis'
+third_nav_title: 'Training Needs Analysis'
+
 ---
+
 
 
 # **"My staff does not have the right skills to do their job well."**
