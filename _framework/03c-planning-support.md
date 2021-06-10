@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Available Support
+title: 'Available Support'
 permalink: /framework/planning-support/
 breadcrumb: Planning
-collection_name: framework
-second_nav_title: "Planning"
+third_nav_title: Planning
+
 ---
+
 
 
 
