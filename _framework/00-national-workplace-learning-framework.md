@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: National Workplace Learning Framework
+title: 'National Workplace Learning Framework'
 permalink: /framework/National-Workplace-Learning-Framework/
 breadcrumb: framework
-collection_name: framework
+
 ---
+
 
 
 #### National Workplace Learning framework provides a pathway for enterprises to build up a sustainable organisation-wide workplace learning eco-system that is the foundation of a learning organisation. 
