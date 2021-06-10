@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Implementation
 permalink: /framework/environment-implementation/
 breadcrumb: Environment
-collection_name: framework
-second_nav_title: "Environment"
+third_nav_title: Environment
+
 ---
+
 
 
 # **"Not all my staff like to learn… or learns the same way!"**
