@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /framework/environment-overview/
 breadcrumb: Environment
-collection_name: framework
-second_nav_title: "Environment"
+third_nav_title: Environment
+
 ---
+
 
 
 
