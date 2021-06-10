@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Leadership
 permalink: /implementations/leadership/
-breadcrumb: Workplace Learning Implementations - Leadership
-collection_name: implementations
+breadcrumb: 'Workplace Learning Implementations - Leadership'
+
 ---
+
 
 
 
